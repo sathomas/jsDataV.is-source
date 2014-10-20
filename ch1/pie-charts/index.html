@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  <body>
+
+    <div id="chart" style="width:400px;height:400px;"></div>
+
+    <!--[if lt IE 9]><script src="js/excanvas.min.js"></script><![endif]-->
+    <script src="js/flotr2.min.js"></script>
+    <script>
+
+window.onload = function () {
+
+    data = [
+        {data: [[0,22.4]], label: "Extreme Poverty"},
+        {data: [[1,77.6]], label: "Rest of the World"}
+    ];
+    Flotr.draw(document.getElementById("chart"),data, {
+        title: "How Much of the World Lives on $1.25/day?",
+        pie: {
+            show: true,
+        },
+        yaxis: {
+            showLabels: false,
+        },
+        xaxis: {
+            showLabels: false,
+        },
+        grid: {
+            horizontalLines: false,
+            verticalLines: false,
+        }
+    });
+};
+
+    </script>
+  </body>
+</html>

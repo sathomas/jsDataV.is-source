@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  <body>
+
+    <p>
+      <span class="sparkline">
+        170,134,115,128,168,166,122,81,56,39,97,114,114,130,151,
+        184,148,145,134,145,145,145,143,148,224,181,112,111,129,
+        151,131,131,131,114,112,112,112,124,187,202,200,203,237,
+        263,221,197,184,185,203,290,330,330,226,113,148,169,148,
+        78,96,96,96,77,59,22,22,70,110,128
+      </span>
+      <span style="color:red"> 128 </span>
+      <strong> Glucose </strong>
+    </p>
+
+    <!--[if lt IE 9]><script src="js/excanvas.min.js"></script><![endif]-->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.0.0/jquery.sparkline.min.js"></script>
+    <script>
+      $(function() {
+        $('.sparkline').sparkline('html',{
+            lineColor: "dimgray",
+            fillColor: false,
+            defaultPixelsPerValue: 1,
+            spotColor: "red",
+            minSpotColor: "red",
+            maxSpotColor: "red",
+            normalRangeMin: 82,
+            normalRangeMax: 180,
+        });
+      });
+    </script>
+  </body>
+</html>

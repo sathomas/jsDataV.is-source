@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  <body>
+
+    <div id="treemap"></div>
+
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+	<script src="js/treemap-squared-0.5.min.js"></script>
+    <script>
+
+window.onload = function () {
+
+var census = [
+  { region: "South",      state: "AL",  pop2010:  4784762,  pop2012:  4822023 },
+  { region: "West",       state: "AK",  pop2010:   714046,  pop2012:   731449 },
+  { region: "West",       state: "AZ",  pop2010:  6410810,  pop2012:  6553255 },
+  { region: "South",      state: "AR",  pop2010:  2922750,  pop2012:  2949131 },
+  { region: "West",       state: "CA",  pop2010: 37334410,  pop2012: 38041430 },
+  { region: "West",       state: "CO",  pop2010:  5048472,  pop2012:  5187582 },
+  { region: "Northeast",  state: "CN",  pop2010:  3576616,  pop2012:  3590347 },
+  { region: "South",      state: "DE",  pop2010:   899824,  pop2012:   917092 },
+  { region: "South",      state: "DC",  pop2010:   604989,  pop2012:   632323 },
+  { region: "South",      state: "FL",  pop2010: 18845967,  pop2012: 19317568 },
+  { region: "South",      state: "GA",  pop2010:  9714748,  pop2012:  9919945 },
+  { region: "West",       state: "HI",  pop2010:  1364274,  pop2012:  1392313 },
+  { region: "West",       state: "ID",  pop2010:  1570784,  pop2012:  1595728 },
+  { region: "Midwest",    state: "IL",  pop2010: 12840459,  pop2012: 12875255 },
+  { region: "Midwest",    state: "IN",  pop2010:  6489856,  pop2012:  6537334 },
+  { region: "Midwest",    state: "IA",  pop2010:  3050321,  pop2012:  3074186 },
+  { region: "Midwest",    state: "KS",  pop2010:  2858837,  pop2012:  2885905 },
+  { region: "South",      state: "KY",  pop2010:  4346655,  pop2012:  4380415 },
+  { region: "South",      state: "LA",  pop2010:  4544125,  pop2012:  4601893 },
+  { region: "Northeast",  state: "ME",  pop2010:  1327585,  pop2012:  1329192 },
+  { region: "South",      state: "MD",  pop2010:  5787998,  pop2012:  5884563 },
+  { region: "Northeast",  state: "MA",  pop2010:  6563259,  pop2012:  6646144 },
+  { region: "Midwest",    state: "MI",  pop2010:  9877670,  pop2012:  9883360 },
+  { region: "Midwest",    state: "MN",  pop2010:  5310737,  pop2012:  5379139 },
+  { region: "South",      state: "MS",  pop2010:  2969137,  pop2012:  2984926 },
+  { region: "Midwest",    state: "MO",  pop2010:  5996092,  pop2012:  6021988 },
+  { region: "West",       state: "MT",  pop2010:   990735,  pop2012:  1005141 },
+  { region: "Midwest",    state: "NE",  pop2010:  1829696,  pop2012:  1855525 },
+  { region: "West",       state: "NV",  pop2010:  2703758,  pop2012:  2758931 },
+  { region: "Northeast",  state: "NH",  pop2010:  1316843,  pop2012:  1320718 },
+  { region: "Northeast",  state: "NJ",  pop2010:  8803388,  pop2012:  8864590 },
+  { region: "West",       state: "NM",  pop2010:  2064767,  pop2012:  2085538 },
+  { region: "Northeast",  state: "NY",  pop2010: 19399242,  pop2012: 19570261 },
+  { region: "South",      state: "NC",  pop2010:  9559048,  pop2012:  9752073 },
+  { region: "Midwest",    state: "ND",  pop2010:   674363,  pop2012:   699628 },
+  { region: "Midwest",    state: "OH",  pop2010: 11538290,  pop2012: 11544225 },
+  { region: "South",      state: "OK",  pop2010:  3759482,  pop2012:  3814820 },
+  { region: "West",       state: "OR",  pop2010:  3838212,  pop2012:  3899353 },
+  { region: "Northeast",  state: "PA",  pop2010: 12711308,  pop2012: 12763536 },
+  { region: "Northeast",  state: "RI",  pop2010:  1052769,  pop2012:  1050292 },
+  { region: "South",      state: "SC",  pop2010:  4635835,  pop2012:  4723723 },
+  { region: "Midwest",    state: "SD",  pop2010:   816223,  pop2012:   833354 },
+  { region: "South",      state: "TN",  pop2010:  6356673,  pop2012:  6456243 },
+  { region: "South",      state: "TX",  pop2010: 25242683,  pop2012: 26059203 },
+  { region: "West",       state: "UT",  pop2010:  2775093,  pop2012:  2855287 },
+  { region: "Northeast",  state: "VT",  pop2010:   625916,  pop2012:   626011 },
+  { region: "South",      state: "VA",  pop2010:  8025105,  pop2012:  8185867 },
+  { region: "West",       state: "WA",  pop2010:  6743636,  pop2012:  6897012 },
+  { region: "South",      state: "WV",  pop2010:  1854019,  pop2012:  1855413 },
+  { region: "Midwest",    state: "WI",  pop2010:  5689591,  pop2012:  5726398 },
+  { region: "West",       state: "WY",  pop2010:   564367,  pop2012:   576412 }
+];
+
+var total2010 = 0, total2012 = 0;
+var south     = { data:[],labels:[],growth:[],minGrowth:100,maxGrowth: -100 };
+var west      = { data:[],labels:[],growth:[],minGrowth:100,maxGrowth: -100 };
+var midwest   = { data:[],labels:[],growth:[],minGrowth:100,maxGrowth: -100 };
+var northeast = { data:[],labels:[],growth:[],minGrowth:100,maxGrowth: -100 };
+for (var i=0; i<census.length; i++) {
+    var region;
+    total2010 += census[i].pop2010;
+    total2012 += census[i].pop2012;
+    var growth = (census[i].pop2012 - census[i].pop2010)/census[i].pop2010;
+    switch (census[i].region) {
+        case "South":     region = south; break;
+        case "West":      region = west;  break;
+        case "Midwest":   region = midwest; break;
+        case "Northeast": region = northeast; break;
+    }
+    region.data.push(census[i].pop2012);
+    region.labels.push(census[i].state);
+    region.growth.push(growth);
+    if (growth > region.maxGrowth) region.maxGrowth = growth;
+    if (growth < region.minGrowth) region.minGrowth = growth;
+};
+
+var data   = [ west.data,   midwest.data,   northeast.data,   south.data ];
+var labels = [ west.labels, midwest.labels, northeast.labels, south.labels ];
+var growth = [ west.growth, midwest.growth, northeast.growth, south.growth ];
+var totalGrowth = (total2012 - total2010)/total2010;
+
+var colorRanges = {
+  positive: [ "#FFFFBF","#D9EF8B","#A6D96A","#66BD63","#1A9850","#006837" ],
+  negative: [ "#FFFFBF","#FEE08B","#FDAE61","#F46D43","#D73027","#A50026" ]
+};
+
+var minDelta = Math.min(south.minGrowth, west.minGrowth, midwest.minGrowth, northeast.minGrowth) - totalGrowth;
+var maxDelta = Math.max(south.maxGrowth, west.maxGrowth, midwest.maxGrowth, northeast.maxGrowth) - totalGrowth;
+
+function pickColor(coordinates, index) {
+    var regionIdx = index[0];
+    var stateIdx  = index[1];
+    var growthRate = growth[regionIdx][stateIdx];
+    var deltaGrowth = growthRate - totalGrowth;
+    if (deltaGrowth > 0) {
+        colorRange = colorRanges.positive;
+    } else {
+        colorRange = colorRanges.negative;
+        deltaGrowth = -1 * deltaGrowth;
+    }
+    var colorIndex = Math.floor(colorRange.length*(deltaGrowth-minDelta)/(maxDelta-minDelta));
+    if (colorIndex >= colorRange.length) colorIndex = colorRange.length - 1;
+
+    color = colorRange[colorIndex];
+    return{ "fill" : color };
+}
+
+Treemap.draw("treemap", 600, 440, data, labels, {'box' : pickColor});
+
+
+};
+
+    </script>
+  </body>
+</html>

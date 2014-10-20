@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+  <body>
+
+    <div id="chart" style="width:600px;height:400px;"></div>
+
+    <!--[if lt IE 9]><script src="js/excanvas.min.js"></script><![endif]-->
+    <script src="js/flotr2.min.js"></script>
+    <script>
+
+window.onload = function () {
+
+
+Flotr.addType('errorbox', {
+  options: {
+    show: false,      // => setting to true will show error boxes
+    lineWidth: 1,     // => in pixels
+    candleWidth: 0.6, // => in units of the x axis
+    fill: true,       // => true to fill from the point to the x axis
+    fillColor: '#00A8F0',
+    fillOpacity: 0.5, // => opacity of the fill color
+  },
+
+  draw : function (options) {
+    var context = options.context;
+    context.save();
+    context.lineJoin = 'miter';
+    context.lineCap = 'butt';
+    context.lineWidth = options.lineWidth;
+    this.plot(options);
+    context.restore();
+  },
+
+  plot : function (options) {
+    var
+      data = options.data,
+      context = options.context,
+      xScale = options.xScale,
+      yScale = options.yScale,
+      shadowSize = options.shadowSize,
+      lineWidth = options.lineWidth,
+      color,
+      datum, x, y, xerr, yerr,
+      left, right, bottom, top,
+      i;
+    if (data.length < 1) return;
+    for (i = 0; i < data.length; i++) {
+      datum = data[i];
+      x = datum[0];
+      y = datum[1];
+      xerr = datum[2];
+      yerr = datum[3];
+      left = xScale(x - xerr);
+      right = xScale(x + xerr);
+      bottom = yScale(y - yerr);
+      top = yScale(y + yerr);
+      color = options.fillColor;
+      if (options.fill) {
+        context.fillStyle = 'rgba(0,0,0,0.05)';
+        context.fillRect(left + shadowSize, top + shadowSize, right - left, bottom - top);
+        context.save();
+        context.globalAlpha = options.fillOpacity;
+        context.fillStyle = color;
+        context.fillRect(left, top + lineWidth, right - left, bottom - top);
+        context.restore();
+      }
+      if (lineWidth) {
+        x = Math.floor((left + right) / 2);
+        context.strokeStyle = color;
+        context.beginPath();
+        context.strokeRect(left, top + lineWidth, right - left, bottom - top);
+        context.closePath();
+        context.stroke();
+      }
+    }
+  },
+
+  extendXRange: function (axis, data, options) {
+    if (axis.options.max === null) {
+      axis.max = Math.max(axis.datamax + 0.5, axis.max);
+      axis.min = Math.min(axis.datamin - 0.5, axis.min);
+    }
+  }
+});
+
+var hubble_data = [
+    { nebulae: "NGC 6822", distance:  0.500, distance_error: 0.010, velocity:   57, velocity_error: 2, },
+    { nebulae: "NGC  221", distance:  0.763, distance_error: 0.024, velocity:  200, velocity_error: 6, },
+    { nebulae: "NGC  598", distance:  0.835, distance_error: 0.105, velocity:  179, velocity_error: 3, },
+    { nebulae: "NGC 4736", distance:  4.900, distance_error: 0.400, velocity:  308, velocity_error: 1, },
+    { nebulae: "NGC 4258", distance:  7.000, distance_error: 0.500, velocity:  448, velocity_error: 3, },
+    { nebulae: "NGC 5194", distance:  7.100, distance_error: 1.200, velocity:  463, velocity_error: 3, },
+    { nebulae: "NGC 4826", distance:  7.400, distance_error: 0.610, velocity:  408, velocity_error: 4, },
+    { nebulae: "NGC 3627", distance: 11.000, distance_error: 1.500, velocity:  727, velocity_error: 3, },
+    { nebulae: "NGC 7331", distance: 12.200, distance_error: 1.000, velocity:  816, velocity_error: 1, },
+    { nebulae: "NGC 4486", distance: 16.400, distance_error: 0.500, velocity: 1307, velocity_error: 7, },
+    { nebulae: "NGC 4649", distance: 16.800, distance_error: 1.200, velocity: 1117, velocity_error: 6, },
+];
+
+var data = function(source) {
+    var result = [];
+    for (var i=0; i<source.length; i++) {
+        result.push([
+            source[i].distance,
+            source[i].velocity,
+            source[i].distance_error,
+            source[i].velocity_error,
+        ]);
+    }
+    return result;
+}(hubble_data);
+
+
+var hubble_line = [ [0,0], [20,1400] ];
+
+Flotr.draw(document.getElementById("chart"),
+    [
+      { data: hubble_line,
+        lines: {
+            show: true,
+            lineWidth: 1,
+        },
+        color: "#735FB9",
+        label: "Best Current Estimate of H<sub>0</sub>",
+      },
+      { data: data,
+        errorbox: {
+            show: true,
+            fillColor: "#FCA44E",
+            fillOpacity: 1.0,
+        },
+        color: "#FCA44E",
+        label: "Nearby Nebulae/Clusters",
+      }
+    ],
+    {
+      title: "Hubble's Law: Velocity Shift vs. Distance",
+      xaxis: { min: 0, max: 20, tickFormatter: function(val) {return val+" Mpc"} },
+      yaxis: { min: 0, max: 1500, tickFormatter: function(val) {return val+" km/s"} },
+    }
+);
+
+    
+};
+
+    </script>
+  </body>
+</html>

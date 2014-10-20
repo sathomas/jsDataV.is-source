@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="css/jquery.gantt.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div id="gantt" style="width:100%;"></div>
+
+    <!--[if lt IE 9]><script src="js/excanvas.min.js"></script><![endif]-->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="js/jquery.fn.gantt.min.js"></script>
+    <script>
+
+$(function() {
+  
+tasks = [{
+	    phaseName:   "Phase 1",
+	    taskName:    "Chapter 1",
+	    taskDetails: "Graphing Data",
+	    startDate:   new Date(2013,0,3),
+	    endDate:     new Date(2013,0,23),
+	    status:      "in progress",
+},{
+      phaseName:   "",
+	    taskName:    "Chapter 2",
+	    taskDetails: "Making Charts Interactive",
+	    startDate:   new Date(2013,0,23),
+	    endDate:     new Date(2013,1,10),
+	    status:      "in progress",
+},{
+      phaseName:   "",
+      taskName:    "Chapter 3",
+      taskDetails: "Mixing Charts and Text",
+      startDate:   new Date(2013,1.10),
+      endDate:     new Date(2013,2,1),
+      status:      "in progress",
+},{
+      phaseName:   "Title Info",
+      taskName:    "",
+      taskDetails: "",
+      startDate:   new Date(2013,2,4),
+      endDate:     new Date(2013,2,4),
+      status:      "in progress",
+},{
+      phaseName:   "Phase 2",
+      taskName:    "Chapter 4",
+      taskDetails: "Creating Specialized Charts",
+      startDate:   new Date(2013,2,4),
+      endDate:     new Date(2013,2,18),
+      status:      "in progress",
+},{
+      phaseName:   "",
+      taskName:    "Chapter 5",
+      taskDetails: "Showing Timelines",
+      startDate:   new Date(2013,2,18),
+      endDate:     new Date(2013,2,21),
+      status:      "in progress",
+},{
+      phaseName:   "",
+      taskName:    "Chapter 6",
+      taskDetails: "Visualizing Geographic Data",
+      startDate:   new Date(2013,2,21),
+      endDate:     new Date(2013,3,7),
+      status:      "in progress",
+},{
+      phaseName:   "",
+      taskName:    "Chapter 7",
+      taskDetails: "Managing Data in the Browser",
+      startDate:   new Date(2013,3,7),
+      endDate:     new Date(2013,3,24),
+      status:      "in progress",
+},{
+      phaseName:   "",
+      taskName:    "Chapter 8",
+      taskDetails: "Building Data-Driven Web Applications",
+      startDate:   new Date(2013,3,24),
+      endDate:     new Date(2013,4,11),
+      status:      "in progress",
+},{
+      phaseName:   "Draft",
+      taskName:    "Complete",
+      taskDetails: "",
+      startDate:   new Date(2013,4,11),
+      endDate:     new Date(2013,4,11),
+      status:      "in progress",
+}];
+
+ganttData = $.map(tasks,function(obj,idx) {
+	  return ({
+  	    id:      idx,
+	      name:    obj.phaseName,
+	      desc:    obj.taskName,
+	      values:  [{
+	        from:    "/Date("+obj.startDate.getTime()+")/",
+	        to:      "/Date("+obj.endDate.getTime()+")/",
+	        label:   obj.taskDetails,
+          dataObj: obj,
+	      }],
+	  });
+});
+
+function taskClicked(taskObj) {
+	  alert("Current Status: " + taskObj.status);
+}
+
+function areaClicked(time, idx) {
+  var date = new Date(parseInt(time));
+  var task = tasks[idx];
+  alert(task.taskName + " not scheduled on " + date.toDateString())
+}
+
+$("#gantt").gantt({
+    source: ganttData,
+    scale: "weeks",
+    maxScale: "months",
+    minScale: "days",
+    itemsPerPage: 10,
+    onItemClick: taskClicked,
+    onAddClick: areaClicked,
+});
+
+});
+
+    </script>
+  </body>
+</html>

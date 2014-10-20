@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style type="text/css">
+      body { margin: 0; background-color: #f3f3f3; }
+      #graph { position: absolute; width: 100%; height: 100%; }
+  </style>
+  </head>
+
+  <body>
+
+    <div id="graph"></div>
+
+    <script src="js/sigma.min.js"></script>
+    <script src="js/sigma.layout.forceAtlas2.min.js"></script>
+    <script>
+
+window.onload = function () {
+
+var albums = [
+  {
+    album: "Miles Davis - Kind of Blue",
+    musicians: [
+      "Cannonball Adderley",
+      "Paul Chambers",
+      "Jimmy Cobb",
+      "John Coltrane",
+      "Miles Davis",
+      "Bill Evans"
+    ]
+  },{
+    album: "John Coltrane - A Love Supreme",
+    musicians: [
+      "John Coltrane",
+      "Jimmy Garrison",
+      "Elvin Jones",
+      "McCoy Tyner"
+    ]
+  },{
+    album: "The Dave Brubeck Quartet - Time Out",
+    musicians: [
+      "Dave Brubeck",
+      "Paul Desmond",
+      "Joe Morello",
+      "Eugene Write"
+    ]
+  },{
+    album: "Duke Ellington - Ellington at Newport",
+    musicians: [
+      "Harry Carney",
+      "John Willie Cook",
+      "Duke Ellington",
+      "Paul Gonsalves",
+      "Jimmy Grissom",
+      "Jimmy Hamilton",
+      "Johnny Hodges",
+      "Quentin Jackson",
+      "William Anderson",
+      "Ray Nance",
+      "Russell Procope",
+      "John Sanders",
+      "Clark Terry",
+      "James Woode",
+      "Britt Woodman",
+      "Sam Woodyar"
+    ]
+  },{
+    album: "The Quintet - Jazz at Massey Hall",
+    musicians: [
+      "Dizzy Gillespie",
+      "Charles Mingus",
+      "Charlie Parker",
+      "Bud Powell",
+      "Max Roach"
+    ]
+  },{
+    album: "Louis Armstrong - The Best of the Hot Five and Hot Seven Recordings",
+    musicians: [
+      "Lil Hardin Armstrong",
+      "Louis Armstrong",
+      "Clarence Babcock",
+      "Pete Briggs",
+      "Mancy Carr",
+      "Baby Dodds",
+      "Johnny Dodds",
+      "Earl Hines",
+      "Kid Ory",
+      "Don Redman",
+      "Fred Robinson",
+      "Zutty Singleton",
+      "Johnny St. Cyr",
+      "Jimmy Strong",
+      "John Thomas",
+      "Dave Wilborn"
+    ]
+  },{
+    album: "John Coltrane - Blue Trane",
+    musicians: [
+      "Paul Chambers",
+      "John Coltrane",
+      "Kenny Drew",
+      "Curtis Fuller",
+      "Philly Joe Jones",
+      "Lee Morgan"
+    ]
+  },{
+    album: "Stan Getz and João Gilberto - Getz/Gilberto",
+    musicians: [
+      "Milton Banana",
+      "Stan Getz",
+      "Astrud Gilberto",
+      "João Gilberto",
+      "Antonio Carlos Jobim",
+      "Sebastião Neto"
+    ]
+  },{
+    album: "Charles Mingus - Mingus Ah Um",
+    musicians: [
+      "Willie Dennis",
+      "Booker Ervin",
+      "Shafi Hadi",
+      "John Handy",
+      "Jimmy Knepper",
+      "Charles Mingus",
+      "Horace Parlan",
+      "Dannie Richmond"
+    ]
+  },{
+    album: "Erroll Garner - Concert by the Sea",
+    musicians: [
+     "Denzil Best",
+      "Eddie Calhoun",
+      "Erroll Garner"
+    ]
+  },{
+    album: "Miles Davis - Bitches Brew",
+    musicians: [
+      "Don Alias",
+      "Harvey Brooks",
+      "Billy Cobham",
+      "Chick Corea",
+      "Miles Davis",
+      "Jack DeJohnette",
+      "Dave Holland",
+      "Bennie Maupin",
+      "John McLaughlin",
+      "Airto Moreira",
+      "Juma Santos",
+      "Wayne Shorter",
+      "Lenny White",
+      "Larry Young",
+      "Joe Zawinul"
+    ]
+  },{
+    album: "Sonny Rollings - Saxophone Colossus",
+    musicians: [
+      "Tommy Flanagan",
+      "Sonny Rollins",
+      "Max Roach",
+      "Doug Watkins"
+    ]
+  },{
+    album: "Art Blakey and The Jazz Messengers - Moanin’",
+    musicians: [
+      "Art Blakey",
+      "Lee Morgan",
+      "Benny Golson",
+      "Bobby Timmons",
+      "Jymie Merritt"
+    ]
+  },{
+    album: "Clifford Brown and Max Roach",
+    musicians: [
+      "Clifford Brown",
+      "Harold Land",
+      "George Morrow",
+      "Richie Powell",
+      "Max Roach"
+    ]
+  },{
+    album: "Thelonious Monk with John Coltrane - At Carnegie Hall",
+    musicians: [
+      "Ahmed Abdul-Malik",
+      "John Coltrane",
+      "Thelonious Monk",
+      "Shadow Wilson"
+    ]
+  },{
+    album: "Hank Mobley - Soul Station",
+    musicians: [
+      "Art Blakey",
+      "Paul Chambers",
+      "Wynton Kelly",
+      "Hank Mobley"
+    ]
+  },{
+    album: "Cannonball Adderly - Somethin’ Else",
+    musicians: [
+      "Cannonball Adderley",
+      "Art Blakey",
+      "Miles Davis",
+      "Hank Jones",
+      "Sam Jones"
+    ]
+  },{
+    album: "Wayne Shorter - Speak No Evil",
+    musicians: [
+      "Ron Carter",
+      "Herbie Hancock",
+      "Freddie Hubbard",
+      "Elvin Jones",
+      "Wayne Shorter"
+    ]
+  },{
+    album: "Miles Davis - Birth of the Cool",
+    musicians: [
+      "Bill Barber",
+      "Nelson Boyd",
+      "Kenny Clarke",
+      "Junior Collins",
+      "Miles Davis",
+      "Kenny Hagood",
+      "Al Haig",
+      "J. J. Johnson",
+      "Lee Konitz",
+      "John Lewis",
+      "Al McKibbon",
+      "Gerry Mulligan",
+      "Max Roach",
+      "Gunther Schuller",
+      "Joe Shulman",
+      "Sandy Siegelstein",
+      "Kai Winding"
+    ]
+  },{
+    album: "Herbie Hancock - Maiden Voyage",
+    musicians: [
+      "Ron Carter",
+      "George Coleman",
+      "Herbie Hancock",
+      "Freddie Hubbard",
+      "Tony Williams"
+    ]
+  },{
+    album: "Vince Guaraldi Trio- A Boy Named Charlie Brown",
+    musicians: [
+      "Colin Bailey",
+      "Monty Budwig",
+      "Vince Guaraldi"
+    ]
+  },{
+    album: "Eric Dolphy - Out to Lunch",
+    musicians: [
+      "Richard Davis",
+      "Eric Dolphy",
+      "Freddie Hubbard",
+      "Bobby Hutcherson",
+      "Tony Williams"
+    ]
+  },{
+    album: "Oliver Nelson - The Blues and the Abstract Truth",
+    musicians: [
+      "George Barrow",
+      "Paul Chambers",
+      "Eric Dolphy",
+      "Bill Evans",
+      "Roy Haynes",
+      "Freddie Hubbard",
+      "Oliver Nelson"
+    ]
+  },{
+    album: "Dexter Gordon - Go",
+    musicians: [
+      "Sonny Clark",
+      "Dexter Gordon",
+      "Billy Higgins",
+      "Butch Warren"
+    ]
+  },{
+    album: "Sarah Vaughan with Clifford Brown",
+    musicians: [
+      "Joe Benjamin",
+      "Clifford Brown",
+      "Roy Haynes",
+      "Jimmy Jones",
+      "John Malachi",
+      "Herbie Mann",
+      "Paul Quinichette",
+      "Sarah Vaughan",
+      "Ernie Wilkins"
+    ]
+  }
+];
+
+window.g = new sigma("graph");
+g.settings({
+  defaultNodeColor: '#ec5148',
+  sideMargin: 20
+});
+albums.forEach(function(album, idx){
+  var theta = idx*2*Math.PI / albums.length;
+  g.graph.addNode({
+    id: ""+idx,
+    label: album.album,
+    x: Math.sin(theta),
+    y: Math.cos(theta),
+    size: 1
+  });
+})
+for (var srcIdx=0; srcIdx<albums.length; srcIdx++) {
+  var src = albums[srcIdx];
+  for (var mscIdx=0; mscIdx<src.musicians.length; mscIdx++) {
+    var msc = src.musicians[mscIdx];
+    for (var tgtIdx=srcIdx+1; tgtIdx<albums.length; tgtIdx++) {
+      var tgt = albums[tgtIdx];
+      if (tgt.musicians.some(function(tgtMsc) {return tgtMsc === msc;})) {
+        g.graph.addEdge({
+          id: srcIdx + "." + mscIdx + "-" + tgtIdx,
+          source: ""+srcIdx,
+          target: ""+tgtIdx
+        })
+      }
+    }
+  }
+}
+g.startForceAtlas2();
+setTimeout(function() {g.stopForceAtlas2();}, 1500);
+g.bind('clickNode', function(ev) {
+  var nodeIdx = ev.data.node.id;
+  var neighbors = [];
+  g.graph.edges().forEach(function(edge) {
+    if ((edge.target === nodeIdx) || (edge.source === nodeIdx)) {
+      edge.color = '#555';
+      neighbors.push(edge.target);
+      neighbors.push(edge.source);
+    } else {
+      edge.color = '#ec5148';
+    }
+  });
+  g.graph.nodes().forEach(function(node) {
+    if (neighbors.some(function(n){return n === node.id})) {
+      node.color = '#555';
+    } else {
+      node.color = '#ec5148';
+    }
+  });
+  g.refresh();
+});
+
+};
+
+    </script>
+  </body>
+</html>
