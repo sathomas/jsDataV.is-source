@@ -1,0 +1,1053 @@
+state,region,county,region_code,state_code,county_code,date,timezone,injuries_direct,injuries_indirect,deaths_direct,deaths_indirect,damage,f_scale,length,width,latitude,longitude
+Connecticut,New England,Fairfield County,1,9,1,01-Jul-13 09:58:00,EST-5,0,0,0,0,0.00K,EF0,3.7,150,41.1,-73.63
+Connecticut,New England,Hartford County,1,9,3,01-Jul-13 12:28:00,EST-5,0,0,0,0,5.00M,EF1,2.07,200,41.9,-72.65
+Connecticut,New England,Hartford County,1,9,3,01-Jul-13 12:45:00,EST-5,0,0,0,0,25.00K,EF0,0.86,50,41.98,-72.52
+Connecticut,New England,Tolland County,1,9,13,10-Jul-13 16:20:00,EST-5,0,0,0,0,50.00K,EF1,10.87,100,41.72,-72.41
+Maine,New England,Somerset County,1,23,25,02-Jun-13 15:36:00,EST-5,0,0,0,0,0.00K,EF0,0.03,40,45.07,-69.95
+Maine,New England,Washington County,1,23,29,17-Jul-13 17:48:00,EST-5,0,0,0,0,,EF0,0.15,50,45.67,-67.88
+Maine,New England,Piscataquis County,1,23,21,19-Jul-13 13:00:00,EST-5,0,0,0,0,,EF1,2.14,300,46.2,-69.1
+Maine,New England,Piscataquis County,1,23,21,11-Sep-13 14:48:00,EST-5,0,0,0,0,,EF0,0.25,125,,
+Massachusetts,New England,Norfolk County,1,25,21,09-May-13 15:31:00,EST-5,0,0,0,0,20.00K,EF0,0.38,50,42.1,-71.1
+Massachusetts,New England,Franklin County,1,25,11,01-Sep-13 17:25:00,EST-5,0,0,0,0,0.00K,EF0,0.05,10,,
+Delaware,Mid East,New Castle County,2,10,3,10-Jun-13 15:47:00,EST-5,0,0,0,0,,EF0,0.87,150,39.65,-75.74
+Maryland,Mid East,Prince George's County,2,24,33,19-Apr-13 18:26:00,EST-5,0,0,0,0,25.00K,EF0,0.5,75,38.84,-76.81
+Maryland,Mid East,Baltimore County,2,24,5,10-Jun-13 14:24:00,EST-5,0,0,0,0,1.00K,EF0,0.5,100,39.46,-76.45
+Maryland,Mid East,Baltimore County,2,24,5,10-Jun-13 14:44:00,EST-5,0,0,0,0,10.00K,EF0,0.2,75,39.26,-76.59
+Maryland,Mid East,St. Mary's County,2,24,37,10-Jun-13 20:01:00,EST-5,0,0,0,0,0.50K,EF0,0.25,50,38.22,-76.75
+Maryland,Mid East,St. Mary's County,2,24,37,13-Jun-13 14:24:00,EST-5,0,0,0,0,0.00K,EF0,13.83,200,38.28,-76.74
+Maryland,Mid East,Montgomery County,2,24,31,13-Jun-13 14:38:00,EST-5,0,0,0,0,1.00K,EF0,20.1,150,39.08,-77.32
+Maryland,Mid East,St. Mary's County,2,24,37,13-Jun-13 14:42:00,EST-5,0,0,0,0,0.00K,EF0,1.8,75,38.4,-76.54
+Maryland,Mid East,Prince George's County,2,24,33,01-Jul-13 18:33:00,EST-5,0,0,0,0,0.50K,EF0,2.3,75,38.7,-76.9
+Maryland,Mid East,Harford County,2,24,25,22-Jul-13 23:12:00,EST-5,0,0,0,0,3.00K,EF0,0.8,100,39.63,-76.18
+Maryland,Mid East,Harford County,2,24,25,13-Aug-13 05:01:00,EST-5,0,0,0,0,0.00K,EF0,1,75,39.52,-76.27
+New Jersey,Mid East,Union County,2,34,39,01-Jul-13 08:17:00,EST-5,0,0,0,0,20.00K,EF0,4.77,50,40.68,-74.45
+New Jersey,Mid East,Ocean County,2,34,29,13-Aug-13 09:05:00,EST-5,0,0,0,0,250.00K,EF0,3.16,100,,
+New Jersey,Mid East,Bergen County,2,34,3,07-Oct-13 14:16:00,EST-5,0,0,0,0,30.00K,EF1,1.25,100,,
+New York,Mid East,Chenango County,2,36,17,19-Apr-13 18:53:00,EST-5,0,0,0,0,70.00K,EF0,1.99,200,42.25,-75.45
+New York,Mid East,Delaware County,2,36,25,19-Apr-13 18:56:00,EST-5,0,0,0,0,30.00K,EF0,1.21,200,42.26,-75.42
+New York,Mid East,Montgomery County,2,36,57,29-May-13 17:47:00,EST-5,0,0,0,0,,EF1,0.58,500,42.85,-74.2
+New York,Mid East,Schenectady County,2,36,93,29-May-13 17:48:00,EST-5,1,0,0,0,,EF2,12.22,1760,42.85,-74.19
+New York,Mid East,Schoharie County,2,36,95,29-May-13 17:57:00,EST-5,0,0,0,0,0.00K,EF1,1.57,200,42.53,-74.58
+New York,Mid East,Saratoga County,2,36,91,29-May-13 18:10:00,EST-5,0,0,0,0,,EF1,0.75,200,42.79,-73.81
+New York,Mid East,Monroe County,2,36,55,19-Jul-13 18:31:00,EST-5,0,0,0,0,35.00K,EF0,0.28,10,43.32,-77.72
+New York,Mid East,Steuben County,2,36,101,27-Jul-13 17:10:00,EST-5,0,0,0,0,100.00K,EF1,14,500,42.05,-77.55
+Pennsylvania,Mid East,Erie County,2,42,49,28-May-13 18:35:00,EST-5,5,0,0,0,75.00K,EF1,1.69,50,41.92,-80.3
+Pennsylvania,Mid East,Erie County,2,42,49,28-May-13 18:53:00,EST-5,2,0,0,0,300.00K,EF1,17.83,150,41.9,-80.13
+Pennsylvania,Mid East,Warren County,2,42,123,28-May-13 20:25:00,EST-5,0,0,0,0,10.00K,EF0,2.76,50,41.89,-79.36
+Pennsylvania,Mid East,Warren County,2,42,123,28-May-13 20:58:00,EST-5,0,0,0,0,2.00K,EF1,4.22,100,41.91,-79.09
+Pennsylvania,Mid East,Perry County,2,42,99,27-Jun-13 13:19:00,EST-5,0,0,0,0,2.50K,EF1,3.02,50,40.26,-77.65
+Pennsylvania,Mid East,Centre County,2,42,27,27-Jun-13 15:05:00,EST-5,0,0,0,0,0.00K,EF1,1,75,40.78,-77.74
+Pennsylvania,Mid East,Lawrence County,2,42,73,10-Jul-13 15:42:00,EST-5,0,0,0,0,100.00K,EF1,1.16,250,40.9,-80.4
+Pennsylvania,Mid East,Potter County,2,42,105,27-Jul-13 16:00:00,EST-5,0,0,0,0,30.00K,EF1,2.94,200,41.68,-77.99
+Pennsylvania,Mid East,Somerset County,2,42,111,07-Aug-13 18:20:00,EST-5,0,0,0,0,2.00K,EF0,0.22,75,40.11,-79.01
+Illinois,Great Lakes,Franklin County,3,17,55,29-Jan-13 21:38:00,CST-6,0,0,0,0,0.00K,EF0,0.58,75,37.97,-89.11
+Illinois,Great Lakes,Saline County,3,17,165,29-Jan-13 22:16:00,CST-6,2,0,0,0,200.00K,EF2,0.97,125,37.84,-88.62
+Illinois,Great Lakes,Ford County,3,17,53,18-Apr-13 07:36:00,CST-6,0,0,0,0,15.00K,EF0,0.57,20,,
+Illinois,Great Lakes,Christian County,3,17,21,09-May-13 16:41:00,CST-6,0,0,0,0,0.00K,EF0,0.55,20,39.52,-89.19
+Illinois,Great Lakes,Carroll County,3,17,15,19-May-13 19:02:00,CST-6,0,0,0,0,0.00K,EF0,0.1,50,42,-89.99
+Illinois,Great Lakes,Macoupin County,3,17,117,20-May-13 21:14:00,CST-6,3,0,0,0,0.00K,EF2,0.2,75,39.07,-89.73
+Illinois,Great Lakes,Grundy County,3,17,63,28-May-13 19:18:00,CST-6,0,0,0,0,5.00K,EF0,1.85,20,41.26,-88.39
+Illinois,Great Lakes,Rock Island County,3,17,161,30-May-13 15:44:00,CST-6,0,0,0,0,40.00K,EF0,1.25,150,41.43,-90.73
+Illinois,Great Lakes,Whiteside County,3,17,195,30-May-13 16:35:00,CST-6,0,0,0,0,0.00K,EF0,0.57,25,41.66,-89.98
+Illinois,Great Lakes,Madison County,3,17,119,31-May-13 19:29:00,CST-6,0,0,0,0,0.00K,EF3,8.63,150,38.81,-90.12
+Illinois,Great Lakes,Macoupin County,3,17,117,31-May-13 19:49:00,CST-6,0,0,0,0,,EF2,1.47,150,39.13,-89.83
+Illinois,Great Lakes,Montgomery County,3,17,135,31-May-13 20:02:00,CST-6,0,0,0,0,,EF1,4.26,50,39.33,-89.68
+Illinois,Great Lakes,Macon County,3,17,115,31-May-13 21:03:00,CST-6,0,0,0,0,500.00K,EF1,1.99,100,39.86,-88.99
+Illinois,Great Lakes,Vermilion County,3,17,183,31-May-13 22:24:00,CST-6,0,0,0,0,50.00K,EF1,0.49,70,40.02,-87.6
+Illinois,Great Lakes,De Kalb County,3,17,37,12-Jun-13 15:32:00,CST-6,0,0,0,0,20.00K,EF1,2.27,100,41.73,-88.89
+Illinois,Great Lakes,Jo Daviess County,3,17,85,12-Jun-13 17:50:00,CST-6,0,0,0,0,0.00K,EF0,0.5,20,42.22,-90.24
+Illinois,Great Lakes,Carroll County,3,17,15,12-Jun-13 17:53:00,CST-6,1,0,0,0,0.00K,EF2,6.6,880,42.17,-90.15
+Illinois,Great Lakes,Will County,3,17,197,12-Jun-13 18:50:00,CST-6,0,0,0,0,35.00K,EF0,0.24,50,41.29,-87.91
+Illinois,Great Lakes,Henry County,3,17,73,24-Jun-13 15:00:00,CST-6,0,0,0,0,50.00K,EF1,6.21,50,41.43,-90.01
+Illinois,Great Lakes,Lee County,3,17,103,24-Jun-13 15:32:00,CST-6,0,0,0,0,10.00K,EF0,2.79,100,41.7,-89.56
+Illinois,Great Lakes,Bureau County,3,17,11,24-Jun-13 15:33:00,CST-6,0,0,0,0,10.00K,EF0,0.63,75,41.56,-89.34
+Illinois,Great Lakes,Coles County,3,17,29,29-Jun-13 13:05:00,CST-6,0,0,0,0,4.00K,EF0,0.14,20,39.58,-88.41
+Illinois,Great Lakes,Wabash County,3,17,185,01-Jul-13 18:41:00,CST-6,0,0,0,0,0.00K,EF0,0.8,50,38.4,-87.89
+Illinois,Great Lakes,Wayne County,3,17,191,02-Jul-13 17:55:00,CST-6,0,0,0,0,0.00K,EF0,0.67,50,38.45,-88.28
+Illinois,Great Lakes,La Salle County,3,17,99,01-Sep-13 17:42:00,CST-6,0,0,0,0,0.00K,EF0,1.63,50,,
+Illinois,Great Lakes,Alexander County,3,17,3,31-Oct-13 18:20:00,CST-6,0,0,0,0,100.00K,EF0,1.24,200,37.3,-89.51
+Illinois,Great Lakes,Alexander County,3,17,3,31-Oct-13 18:35:00,CST-6,0,0,0,0,10.00K,EF1,2.67,50,37.32,-89.27
+Illinois,Great Lakes,Pulaski County,3,17,153,31-Oct-13 18:40:00,CST-6,0,0,0,0,10.00K,EF1,3.84,50,37.32,-89.22
+Illinois,Great Lakes,Williamson County,3,17,199,31-Oct-13 18:51:00,CST-6,0,0,0,0,40.00K,EF1,6.43,175,37.61,-88.83
+Illinois,Great Lakes,Johnson County,3,17,87,31-Oct-13 18:56:00,CST-6,0,0,0,0,30.00K,EF1,0.7,50,37.33,-88.97
+Illinois,Great Lakes,Saline County,3,17,165,31-Oct-13 18:59:00,CST-6,0,0,0,0,70.00K,EF1,3.47,175,37.61,-88.71
+Illinois,Great Lakes,Peoria County,3,17,143,17-Nov-13 10:52:00,CST-6,0,0,0,0,40.00K,EF0,0.16,100,40.58,-89.66
+Illinois,Great Lakes,Tazewell County,3,17,179,17-Nov-13 10:53:00,CST-6,10,0,0,0,45.00M,EF2,2.1,100,40.58,-89.65
+Illinois,Great Lakes,Tazewell County,3,17,179,17-Nov-13 10:59:00,CST-6,121,0,3,0,910.00M,EF4,14.16,880,40.62,-89.57
+Illinois,Great Lakes,Woodford County,3,17,203,17-Nov-13 11:12:00,CST-6,4,0,0,0,25.00M,EF3,20.7,880,40.75,-89.35
+Illinois,Great Lakes,Macoupin County,3,17,117,17-Nov-13 11:30:00,CST-6,0,0,0,0,0.00K,EF0,2.11,20,39.23,-89.73
+Illinois,Great Lakes,Montgomery County,3,17,135,17-Nov-13 11:33:00,CST-6,0,0,0,0,0.00K,EF0,1.87,50,39.26,-89.7
+Illinois,Great Lakes,La Salle County,3,17,99,17-Nov-13 11:33:00,CST-6,0,0,0,0,150.00K,EF2,6.53,200,40.93,-89.04
+Illinois,Great Lakes,Livingston County,3,17,105,17-Nov-13 11:41:00,CST-6,0,0,0,0,75.00K,EF2,4.97,200,40.98,-88.93
+Illinois,Great Lakes,Livingston County,3,17,105,17-Nov-13 11:43:00,CST-6,0,0,0,0,0.00K,EF0,2.6,50,40.96,-88.93
+Illinois,Great Lakes,Clinton County,3,17,27,17-Nov-13 11:47:00,CST-6,0,0,0,0,0.00K,EF1,0.37,50,38.71,-89.52
+Illinois,Great Lakes,Washington County,3,17,189,17-Nov-13 12:04:00,CST-6,2,0,2,0,,EF4,10.59,200,38.42,-89.45
+Illinois,Great Lakes,Washington County,3,17,189,17-Nov-13 12:13:00,CST-6,0,0,0,0,0.00K,EF1,3.58,100,38.48,-89.25
+Illinois,Great Lakes,Christian County,3,17,21,17-Nov-13 12:15:00,CST-6,0,0,0,0,300.00K,EF1,2.52,100,39.4,-89.08
+Illinois,Great Lakes,Clinton County,3,17,27,17-Nov-13 12:16:00,CST-6,0,0,0,0,0.00K,EF0,1.18,20,38.51,-89.19
+Illinois,Great Lakes,Fayette County,3,17,51,17-Nov-13 12:22:00,CST-6,0,0,0,0,0.00K,EF2,8.5,200,39,-88.93
+Illinois,Great Lakes,Grundy County,3,17,63,17-Nov-13 12:22:00,CST-6,5,0,0,0,10.75M,EF2,4.42,200,41.24,-88.3
+Illinois,Great Lakes,Jasper County,3,17,79,17-Nov-13 12:25:00,CST-6,0,0,0,0,250.00K,EF1,3.53,100,38.85,-88.09
+Illinois,Great Lakes,Will County,3,17,197,17-Nov-13 12:26:00,CST-6,0,0,0,0,2.00M,EF2,7.6,200,41.29,-88.25
+Illinois,Great Lakes,Effingham County,3,17,49,17-Nov-13 12:28:00,CST-6,0,0,0,0,400.00K,EF1,2.9,100,39.07,-88.81
+Illinois,Great Lakes,Moultrie County,3,17,139,17-Nov-13 12:30:00,CST-6,0,0,0,0,860.00K,EF1,7.02,440,39.75,-88.6
+Illinois,Great Lakes,Douglas County,3,17,41,17-Nov-13 12:37:00,CST-6,0,0,0,0,825.00K,EF1,3.52,440,39.78,-88.47
+Illinois,Great Lakes,Will County,3,17,197,17-Nov-13 12:42:00,CST-6,0,0,0,0,750.00K,EF2,5.21,200,41.41,-87.93
+Illinois,Great Lakes,Douglas County,3,17,41,17-Nov-13 12:44:00,CST-6,0,0,0,0,1.20M,EF3,8.04,440,39.84,-88.33
+Illinois,Great Lakes,Champaign County,3,17,19,17-Nov-13 12:45:00,CST-6,6,0,0,0,60.00M,EF3,14.67,880,40.24,-88.17
+Illinois,Great Lakes,Douglas County,3,17,41,17-Nov-13 12:46:00,CST-6,0,0,0,0,220.00K,EF1,4.51,440,39.83,-88.27
+Illinois,Great Lakes,Champaign County,3,17,19,17-Nov-13 12:52:00,CST-6,0,0,0,0,800.00K,EF2,10.7,440,39.88,-88.19
+Illinois,Great Lakes,Kankakee County,3,17,91,17-Nov-13 13:00:00,CST-6,0,0,0,0,0.00K,EF1,0.05,75,41.3,-87.55
+Illinois,Great Lakes,Vermilion County,3,17,183,17-Nov-13 13:00:00,CST-6,0,0,0,0,2.50M,EF2,14.16,440,40.35,-87.93
+Illinois,Great Lakes,Will County,3,17,197,17-Nov-13 13:01:00,CST-6,0,0,0,0,100.00K,EF1,0.11,150,41.3,-87.55
+Illinois,Great Lakes,Vermilion County,3,17,183,17-Nov-13 13:03:00,CST-6,1,0,0,0,9.50M,EF2,19.68,440,39.94,-87.9
+Illinois,Great Lakes,Jefferson County,3,17,81,17-Nov-13 13:05:00,CST-6,0,0,0,0,3.00K,EF1,0.15,25,38.28,-88.76
+Illinois,Great Lakes,Wayne County,3,17,191,17-Nov-13 13:08:00,CST-6,0,0,0,0,150.00K,EF2,9.48,150,38.37,-88.53
+Illinois,Great Lakes,Iroquois County,3,17,75,17-Nov-13 13:14:00,CST-6,0,0,0,0,0.00K,EF0,1,100,40.49,-87.73
+Illinois,Great Lakes,Iroquois County,3,17,75,17-Nov-13 13:19:00,CST-6,0,0,0,0,20.00K,EF0,4.52,75,40.52,-87.67
+Illinois,Great Lakes,Wayne County,3,17,191,17-Nov-13 13:29:00,CST-6,0,0,0,0,10.00K,EF1,1.03,100,38.42,-88.17
+Illinois,Great Lakes,Edwards County,3,17,47,17-Nov-13 13:31:00,CST-6,0,0,0,0,200.00K,EF2,6.83,300,38.43,-88.15
+Illinois,Great Lakes,Edwards County,3,17,47,17-Nov-13 13:33:00,CST-6,0,0,0,0,150.00K,EF2,4.14,100,38.42,-88.15
+Illinois,Great Lakes,Wabash County,3,17,185,17-Nov-13 13:44:00,CST-6,1,0,0,0,250.00K,EF2,10.28,225,38.49,-87.92
+Illinois,Great Lakes,Massac County,3,17,127,17-Nov-13 14:20:00,CST-6,33,0,3,0,5.50M,EF3,7.77,500,37.12,-88.64
+Illinois,Great Lakes,Pope County,3,17,151,17-Nov-13 14:26:00,CST-6,0,0,0,0,500.00K,EF2,3.3,300,37.12,-88.5
+Indiana,Great Lakes,Orange County,3,18,117,30-Jan-13 01:47:00,EST-5,0,0,0,0,25.00K,EF0,0.37,75,38.61,-86.61
+Indiana,Great Lakes,Harrison County,3,18,61,30-Jan-13 04:17:00,EST-5,0,0,0,0,40.00K,EF0,0.44,215,38.12,-85.91
+Indiana,Great Lakes,Vigo County,3,18,167,09-May-13 19:14:00,EST-5,0,0,0,0,2.00K,EF0,0.14,20,39.38,-87.41
+Indiana,Great Lakes,Vigo County,3,18,167,09-May-13 19:24:00,EST-5,0,0,0,0,1.50K,EF0,0.15,20,39.39,-87.31
+Indiana,Great Lakes,Putnam County,3,18,133,21-May-13 01:29:00,EST-5,0,0,0,0,45.00K,EF0,1.05,100,39.85,-86.73
+Indiana,Great Lakes,Hendricks County,3,18,63,21-May-13 01:34:00,EST-5,0,0,0,0,10.00K,EF0,0.13,30,39.87,-86.67
+Indiana,Great Lakes,Benton County,3,18,7,31-May-13 19:30:00,EST-5,0,0,0,0,0.00K,EF0,0.5,20,40.54,-87.2
+Indiana,Great Lakes,Pike County,3,18,125,26-Jun-13 18:16:00,EST-5,0,0,0,0,20.00K,EF1,0.59,75,38.45,-87.1
+Indiana,Great Lakes,Perry County,3,18,123,26-Jun-13 20:29:00,EST-5,0,0,0,0,200.00K,EF1,5.26,100,,
+Indiana,Great Lakes,Miami County,3,18,103,10-Jul-13 12:28:00,EST-5,2,0,0,0,0.00K,EF1,3.47,200,40.75,-86.11
+Indiana,Great Lakes,Newton County,3,18,111,17-Nov-13 13:27:00,CST-6,0,0,0,0,250.00K,EF0,2.16,100,40.76,-87.3
+Indiana,Great Lakes,Jasper County,3,18,73,17-Nov-13 13:29:00,CST-6,0,0,0,0,75.00K,EF1,3.36,100,40.78,-87.27
+Indiana,Great Lakes,Jasper County,3,18,73,17-Nov-13 13:50:00,CST-6,0,0,0,0,150.00K,EF1,10.24,100,40.97,-87.12
+Indiana,Great Lakes,Pulaski County,3,18,131,17-Nov-13 14:03:00,CST-6,0,0,0,0,0.00K,EF1,13.18,100,41.08,-86.89
+Indiana,Great Lakes,Vermillion County,3,18,165,17-Nov-13 14:22:00,EST-5,0,0,0,0,300.00K,EF2,4.21,150,40.1,-87.53
+Indiana,Great Lakes,Warren County,3,18,171,17-Nov-13 14:25:00,EST-5,0,0,0,0,15.00K,EF2,1.73,150,40.13,-87.46
+Indiana,Great Lakes,Fountain County,3,18,45,17-Nov-13 14:32:00,EST-5,0,0,0,0,175.00K,EF2,10.31,75,40.12,-87.25
+Indiana,Great Lakes,Benton County,3,18,7,17-Nov-13 14:40:00,EST-5,0,0,0,0,50.00K,EF1,2.89,100,40.56,-87.15
+Indiana,Great Lakes,Montgomery County,3,18,107,17-Nov-13 14:42:00,EST-5,0,0,0,0,1.00K,EF2,0.59,75,40.21,-87.09
+Indiana,Great Lakes,White County,3,18,181,17-Nov-13 14:43:00,EST-5,0,0,0,0,0.00K,EF2,9.1,1200,40.57,-87.1
+Indiana,Great Lakes,Tippecanoe County,3,18,157,17-Nov-13 14:43:00,EST-5,0,0,0,0,10.00K,EF2,1.83,75,40.21,-87.08
+Indiana,Great Lakes,Montgomery County,3,18,107,17-Nov-13 14:47:00,EST-5,0,0,0,0,30.00K,EF1,1.78,40,40.17,-86.96
+Indiana,Great Lakes,Tippecanoe County,3,18,157,17-Nov-13 14:47:00,EST-5,0,0,0,0,18.00K,EF1,3.89,50,40.5,-87.08
+Indiana,Great Lakes,White County,3,18,181,17-Nov-13 14:51:00,EST-5,0,0,0,0,0.00K,EF2,4.15,300,40.69,-86.88
+Indiana,Great Lakes,Tippecanoe County,3,18,157,17-Nov-13 14:51:00,EST-5,0,0,0,0,21.00K,EF0,0.25,50,40.3,-86.92
+Indiana,Great Lakes,White County,3,18,181,17-Nov-13 14:52:00,EST-5,0,0,0,0,0.00K,EF2,9.23,900,40.56,-87.08
+Indiana,Great Lakes,Tippecanoe County,3,18,157,17-Nov-13 14:52:00,EST-5,0,0,0,0,125.00K,EF2,3.1,75,40.3,-86.95
+Indiana,Great Lakes,Tippecanoe County,3,18,157,17-Nov-13 14:54:00,EST-5,0,0,0,0,750.00K,EF3,8.69,100,40.35,-86.83
+Indiana,Great Lakes,Knox County,3,18,83,17-Nov-13 14:56:00,EST-5,1,0,0,0,75.00K,EF2,8.81,100,38.54,-87.61
+Indiana,Great Lakes,Tippecanoe County,3,18,157,17-Nov-13 14:56:00,EST-5,0,0,0,0,10.00K,EF1,2.87,35,40.29,-86.81
+Indiana,Great Lakes,Clinton County,3,18,23,17-Nov-13 15:04:00,EST-5,0,0,0,0,5.00K,EF0,3.4,100,40.41,-86.69
+Indiana,Great Lakes,Carroll County,3,18,15,17-Nov-13 15:06:00,EST-5,0,0,0,0,30.00K,EF1,16.44,100,40.43,-86.63
+Indiana,Great Lakes,White County,3,18,181,17-Nov-13 15:07:00,EST-5,0,0,0,0,0.00K,EF1,0.81,150,40.82,-86.59
+Indiana,Great Lakes,Clinton County,3,18,23,17-Nov-13 15:13:00,EST-5,0,0,0,0,60.00K,EF2,7,150,40.33,-86.39
+Indiana,Great Lakes,Cass County,3,18,17,17-Nov-13 15:17:00,EST-5,0,0,0,0,0.00K,EF2,9.38,100,40.56,-86.37
+Indiana,Great Lakes,Howard County,3,18,67,17-Nov-13 15:19:00,EST-5,0,0,0,0,300.00K,EF2,18.44,150,40.38,-86.28
+Indiana,Great Lakes,Cass County,3,18,17,17-Nov-13 15:20:00,EST-5,0,0,0,0,0.00K,EF0,1.13,150,40.73,-86.39
+Indiana,Great Lakes,Daviess County,3,18,27,17-Nov-13 15:20:00,EST-5,0,0,0,0,100.00K,EF2,2.8,125,38.64,-87.22
+Indiana,Great Lakes,Howard County,3,18,67,17-Nov-13 15:29:00,EST-5,5,0,0,0,75.00K,EF2,0.48,75,40.46,-86.13
+Indiana,Great Lakes,Miami County,3,18,103,17-Nov-13 15:30:00,EST-5,0,0,0,0,0.00K,EF1,2.87,250,40.69,-86.12
+Indiana,Great Lakes,Boone County,3,18,11,17-Nov-13 15:36:00,EST-5,2,0,0,0,200.00K,EF2,3.67,75,40.02,-86.53
+Indiana,Great Lakes,Kosciusko County,3,18,85,17-Nov-13 15:38:00,EST-5,0,0,0,0,0.00K,EF1,1.05,250,41.17,-85.99
+Indiana,Great Lakes,Grant County,3,18,53,17-Nov-13 15:42:00,EST-5,0,0,0,0,0.00K,EF2,11.62,700,40.55,-85.84
+Indiana,Great Lakes,Wabash County,3,18,169,17-Nov-13 15:43:00,EST-5,0,0,0,0,0.00K,EF2,0.67,150,41.04,-85.89
+Indiana,Great Lakes,Kosciusko County,3,18,85,17-Nov-13 15:44:00,EST-5,0,0,0,0,0.00K,EF2,3.47,150,41.04,-85.88
+Indiana,Great Lakes,Boone County,3,18,11,17-Nov-13 15:46:00,EST-5,0,0,0,0,10.00K,EF1,3.62,33,40.08,-86.38
+Indiana,Great Lakes,Wabash County,3,18,169,17-Nov-13 15:52:00,EST-5,0,0,0,0,0.00K,EF2,0.13,700,40.65,-85.67
+Indiana,Great Lakes,Kosciusko County,3,18,85,17-Nov-13 15:54:00,EST-5,0,0,0,0,0.00K,EF1,1.65,275,41.3,-85.8
+Indiana,Great Lakes,Grant County,3,18,53,17-Nov-13 15:55:00,EST-5,0,0,0,0,0.00K,EF0,0.04,20,40.51,-85.72
+Indiana,Great Lakes,Lawrence County,3,18,93,17-Nov-13 15:57:00,EST-5,0,0,0,0,70.00K,EF1,1.27,50,38.87,-86.51
+Indiana,Great Lakes,Hamilton County,3,18,57,17-Nov-13 16:05:00,EST-5,0,0,0,0,40.00K,EF1,1.22,125,40.21,-86.03
+Indiana,Great Lakes,Tipton County,3,18,159,17-Nov-13 16:07:00,EST-5,0,0,0,0,5.00K,EF1,0.68,125,40.22,-86.01
+Michigan,Great Lakes,Shiawassee County,3,26,155,28-May-13 19:47:00,EST-5,0,0,0,0,30.00K,EF0,0.74,60,42.81,-84.31
+Michigan,Great Lakes,Shiawassee County,3,26,155,28-May-13 19:52:00,EST-5,0,0,0,0,50.00K,EF0,0.5,100,42.83,-84.18
+Michigan,Great Lakes,Genesee County,3,26,49,28-May-13 20:01:00,EST-5,0,0,0,0,100.00K,EF1,2.28,400,43.07,-83.72
+Michigan,Great Lakes,Shiawassee County,3,26,155,28-May-13 20:09:00,EST-5,0,0,0,0,100.00K,EF1,5.6,550,42.83,-84.03
+Michigan,Great Lakes,Genesee County,3,26,49,28-May-13 20:19:00,EST-5,0,0,0,0,10.00K,EF0,4.29,200,42.86,-83.93
+Michigan,Great Lakes,Genesee County,3,26,49,28-May-13 20:30:00,EST-5,0,0,0,0,225.00K,EF2,5.1,500,42.85,-83.77
+Michigan,Great Lakes,Genesee County,3,26,49,28-May-13 20:54:00,EST-5,0,0,0,0,350.00K,EF2,4.61,300,42.9,-83.57
+Michigan,Great Lakes,Livingston County,3,26,93,27-Aug-13 22:54:00,EST-5,0,0,0,0,5.00K,EF0,1.6,420,42.74,-83.98
+Michigan,Great Lakes,Livingston County,3,26,93,27-Aug-13 23:50:00,EST-5,0,0,0,0,10.00K,EF0,2.97,700,42.53,-83.83
+Michigan,Great Lakes,Muskegon County,3,26,121,17-Nov-13 14:55:00,EST-5,0,0,0,0,50.00K,EF0,3.86,75,43.26,-85.87
+Michigan,Great Lakes,Newaygo County,3,26,123,17-Nov-13 15:00:00,EST-5,0,0,0,0,50.00K,EF0,32.88,95,43.3,-85.81
+Michigan,Great Lakes,Mecosta County,3,26,107,17-Nov-13 15:20:00,EST-5,0,0,0,0,0.00K,EF0,0.25,50,43.65,-85.31
+Michigan,Great Lakes,Cass County,3,26,27,17-Nov-13 15:27:00,EST-5,0,0,0,0,0.00K,EF1,0.38,50,41.9,-86.01
+Michigan,Great Lakes,Otsego County,3,26,137,17-Nov-13 16:27:00,EST-5,0,0,0,0,11.00K,EF0,0.29,150,44.87,-84.69
+Ohio,Great Lakes,Van Wert County,3,39,161,12-Jun-13 22:27:00,EST-5,0,0,0,0,0.00K,EF0,0.64,80,40.75,-84.8
+Ohio,Great Lakes,Mercer County,3,39,107,12-Jun-13 22:35:00,EST-5,0,0,0,0,40.00K,EF0,0.06,100,40.72,-84.68
+Ohio,Great Lakes,Henry County,3,39,69,12-Jun-13 22:55:00,EST-5,0,0,0,0,0.00K,EF0,0.04,25,41.19,-84.11
+Ohio,Great Lakes,Henry County,3,39,69,12-Jun-13 22:59:00,EST-5,0,0,0,0,0.00K,EF1,0.43,50,41.25,-84.04
+Ohio,Great Lakes,Henry County,3,39,69,12-Jun-13 23:02:00,EST-5,0,0,0,0,0.00K,EF1,0.17,75,41.3,-84.01
+Ohio,Great Lakes,Auglaize County,3,39,11,12-Jun-13 23:03:00,EST-5,0,0,0,0,350.00K,EF0,2.32,50,40.5,-84.3
+Ohio,Great Lakes,Henry County,3,39,69,12-Jun-13 23:03:00,EST-5,0,0,0,0,0.00K,EF0,0.11,15,41.3,-83.99
+Ohio,Great Lakes,Henry County,3,39,69,12-Jun-13 23:03:00,EST-5,0,0,0,0,0.00K,EF0,0.25,15,41.3,-83.99
+Ohio,Great Lakes,Wood County,3,39,173,12-Jun-13 23:25:00,EST-5,0,0,0,0,100.00K,EF0,0.94,50,41.28,-83.86
+Ohio,Great Lakes,Delaware County,3,39,41,13-Jun-13 00:15:00,EST-5,0,0,0,0,200.00K,EF0,0.21,50,40.36,-83.18
+Ohio,Great Lakes,Seneca County,3,39,147,08-Jul-13 20:02:00,EST-5,0,0,0,0,75.00K,EF0,0.05,15,41.24,-83.28
+Ohio,Great Lakes,Seneca County,3,39,147,10-Jul-13 13:24:00,EST-5,0,0,0,0,150.00K,EF0,6.06,50,41.14,-82.94
+Ohio,Great Lakes,Huron County,3,39,77,10-Jul-13 13:32:00,EST-5,0,0,0,0,50.00K,EF0,4.09,50,41.18,-82.84
+Ohio,Great Lakes,Sandusky County,3,39,143,10-Jul-13 14:13:00,EST-5,0,0,0,0,250.00K,EF0,0.8,50,41.27,-82.86
+Ohio,Great Lakes,Ashland County,3,39,5,10-Jul-13 14:56:00,EST-5,0,0,0,0,75.00K,EF0,1.03,15,40.87,-82.17
+Ohio,Great Lakes,Tuscarawas County,3,39,157,10-Jul-13 15:44:00,EST-5,0,0,0,0,75.00K,EF1,11.1,300,40.63,-81.45
+Ohio,Great Lakes,Carroll County,3,39,19,10-Jul-13 15:59:00,EST-5,0,0,0,0,5.00K,EF0,2.25,300,40.54,-81.26
+Ohio,Great Lakes,Carroll County,3,39,19,10-Jul-13 16:07:00,EST-5,0,0,0,0,25.00K,EF1,9.06,150,40.49,-81.11
+Ohio,Great Lakes,Carroll County,3,39,19,19-Jul-13 16:07:00,EST-5,0,0,0,0,25.00K,EF0,0.63,175,40.51,-80.95
+Ohio,Great Lakes,Cuyahoga County,3,39,35,20-Jul-13 02:35:00,EST-5,0,0,0,0,350.00K,EF1,1.34,200,41.5,-81.47
+Ohio,Great Lakes,Carroll County,3,39,19,23-Jul-13 16:22:00,EST-5,0,0,0,0,20.00K,EF0,2.14,75,40.69,-80.94
+Ohio,Great Lakes,Columbiana County,3,39,29,23-Jul-13 16:27:00,EST-5,0,0,0,0,5.00K,EF0,1.01,75,40.67,-80.91
+Ohio,Great Lakes,Wayne County,3,39,169,07-Aug-13 14:01:00,EST-5,0,0,0,0,50.00K,EF1,0.87,50,40.81,-81.8
+Ohio,Great Lakes,Guernsey County,3,39,59,12-Sep-13 18:56:00,EST-5,0,0,0,0,5.00K,EF0,0.2,50,,
+Ohio,Great Lakes,Montgomery County,3,39,113,31-Oct-13 22:30:00,EST-5,8,0,0,0,2.00M,EF1,0.58,50,39.89,-84.19
+Ohio,Great Lakes,Miami County,3,39,109,31-Oct-13 22:38:00,EST-5,0,0,0,0,70.00K,EF0,0.3,30,40.18,-84.03
+Ohio,Great Lakes,Franklin County,3,39,49,31-Oct-13 23:40:00,EST-5,0,0,0,0,300.00K,EF0,0.27,50,39.88,-83
+Ohio,Great Lakes,Licking County,3,39,89,01-Nov-13 00:07:00,EST-5,0,0,0,0,100.00K,EF0,0.14,50,39.97,-82.53
+Ohio,Great Lakes,Van Wert County,3,39,161,17-Nov-13 16:47:00,EST-5,0,0,0,0,0.00K,EF1,2.14,150,40.97,-84.46
+Ohio,Great Lakes,Putnam County,3,39,137,17-Nov-13 16:52:00,EST-5,0,0,0,0,0.00K,EF1,3.05,440,40.96,-84.39
+Ohio,Great Lakes,Paulding County,3,39,125,17-Nov-13 16:54:00,EST-5,0,0,0,0,0.00K,EF1,0.02,440,40.99,-84.34
+Ohio,Great Lakes,Putnam County,3,39,137,17-Nov-13 16:55:00,EST-5,0,0,0,0,0.00K,EF2,8.04,440,40.99,-84.34
+Ohio,Great Lakes,Wood County,3,39,173,17-Nov-13 17:32:00,EST-5,0,0,0,0,50.00K,EF1,1.04,75,41.19,-83.71
+Ohio,Great Lakes,Wood County,3,39,173,17-Nov-13 17:35:00,EST-5,0,0,0,0,1.50M,EF2,7.04,100,41.54,-83.57
+Ohio,Great Lakes,Wood County,3,39,173,17-Nov-13 17:41:00,EST-5,0,0,0,0,200.00K,EF1,1.32,100,41.25,-83.6
+Ohio,Great Lakes,Lucas County,3,39,95,17-Nov-13 17:48:00,EST-5,0,0,0,0,1.10M,EF2,4.24,100,41.62,-83.48
+Ohio,Great Lakes,Ottawa County,3,39,123,17-Nov-13 18:00:00,EST-5,0,0,0,0,50.00K,EF1,0.76,75,41.47,-83.22
+Wisconsin,Great Lakes,Grant County,3,55,43,29-May-13 16:51:00,CST-6,0,0,0,0,0.00K,EF0,1.56,10,42.9,-91.14
+Wisconsin,Great Lakes,Columbia County,3,55,21,22-Jun-13 19:55:00,CST-6,0,0,0,0,,EF1,3.22,125,43.36,-89.35
+Wisconsin,Great Lakes,Lincoln County,3,55,69,09-Jul-13 13:59:00,CST-6,0,0,0,0,0.00K,EF0,4.1,100,45.28,-89.69
+Wisconsin,Great Lakes,Langlade County,3,55,67,09-Jul-13 14:32:00,CST-6,0,0,0,0,0.00K,EF0,9.52,100,45.26,-89.42
+Wisconsin,Great Lakes,Portage County,3,55,97,09-Jul-13 16:44:00,CST-6,0,0,0,0,0.00K,EF0,0.16,25,44.26,-89.53
+Wisconsin,Great Lakes,Oconto County,3,55,83,09-Jul-13 18:50:00,CST-6,0,0,0,0,25.00K,EF0,1.58,100,44.94,-87.86
+Wisconsin,Great Lakes,Eau Claire County,3,55,35,22-Jul-13 15:45:00,CST-6,0,0,0,0,5.00K,EF0,0.29,10,44.66,-91.2
+Wisconsin,Great Lakes,Trempealeau County,3,55,121,22-Jul-13 16:15:00,CST-6,0,0,0,0,22.00K,EF0,1.1,40,44.04,-91.55
+Wisconsin,Great Lakes,Waupaca County,3,55,135,06-Aug-13 23:22:00,CST-6,2,0,0,0,25.00K,EF1,5.02,125,44.35,-88.84
+Wisconsin,Great Lakes,Waupaca County,3,55,135,06-Aug-13 23:24:00,CST-6,0,0,0,0,1.00M,EF2,2.1,175,44.38,-88.77
+Wisconsin,Great Lakes,Outagamie County,3,55,87,06-Aug-13 23:25:00,CST-6,0,0,0,0,2.50M,EF1,10.97,175,44.37,-88.74
+Wisconsin,Great Lakes,Outagamie County,3,55,87,06-Aug-13 23:26:00,CST-6,0,0,0,0,0.00K,EF1,4.77,125,44.34,-88.74
+Wisconsin,Great Lakes,Outagamie County,3,55,87,06-Aug-13 23:38:00,CST-6,0,0,0,0,10.00M,EF1,13.72,150,44.3,-88.46
+Wisconsin,Great Lakes,Outagamie County,3,55,87,06-Aug-13 23:38:00,CST-6,0,0,0,0,1.50M,EF1,11.31,175,44.34,-88.42
+Wisconsin,Great Lakes,Outagamie County,3,55,87,06-Aug-13 23:40:00,CST-6,0,0,0,0,1.50M,EF1,9.14,200,44.37,-88.37
+Wisconsin,Great Lakes,Brown County,3,55,9,06-Aug-13 23:48:00,CST-6,0,0,0,0,2.00M,EF0,15.22,250,44.35,-88.19
+Wisconsin,Great Lakes,Brown County,3,55,9,06-Aug-13 23:48:00,CST-6,0,0,0,0,500.00K,EF1,7.84,175,44.31,-88.19
+Wisconsin,Great Lakes,Brown County,3,55,9,06-Aug-13 23:49:00,CST-6,0,0,0,0,0.00K,EF1,1.48,150,44.25,-88.19
+Wisconsin,Great Lakes,Calumet County,3,55,15,06-Aug-13 23:50:00,CST-6,0,0,0,0,200.00K,EF1,5.49,175,44.24,-88.16
+Wisconsin,Great Lakes,Brown County,3,55,9,06-Aug-13 23:59:00,CST-6,0,0,0,0,0.00K,EF1,5.53,100,44.43,-87.88
+Wisconsin,Great Lakes,Manitowoc County,3,55,71,07-Aug-13 00:01:00,CST-6,0,0,0,0,100.00K,EF1,8.74,250,44.31,-87.89
+Wisconsin,Great Lakes,Kewaunee County,3,55,61,07-Aug-13 00:06:00,CST-6,0,0,0,0,50.00K,EF1,5.06,100,44.42,-87.77
+Wisconsin,Great Lakes,Chippewa County,3,55,17,21-Aug-13 16:24:00,CST-6,0,0,0,0,25.00K,EF0,1.2,25,44.97,-91.23
+Wisconsin,Great Lakes,Marquette County,3,55,77,05-Oct-13 17:23:00,CST-6,0,0,0,0,50.00K,EF0,1.78,50,43.7,-89.48
+Iowa,Plains,Dallas County,4,19,49,19-May-13 17:32:00,CST-6,0,0,0,0,4.00K,EF0,2.08,100,41.59,-94.07
+Iowa,Plains,Dallas County,4,19,49,19-May-13 17:45:00,CST-6,0,0,0,0,50.00K,EF1,1.43,100,41.67,-93.91
+Iowa,Plains,Polk County,4,19,153,19-May-13 18:07:00,CST-6,0,0,0,0,75.00K,EF1,4.25,150,41.85,-93.67
+Iowa,Plains,Story County,4,19,169,19-May-13 18:11:00,CST-6,0,0,0,0,15.00K,EF0,0.46,100,41.86,-93.59
+Iowa,Plains,Ringgold County,4,19,159,26-May-13 18:23:00,CST-6,0,0,0,0,0.00K,EF0,0.12,30,40.79,-94.37
+Iowa,Plains,Clayton County,4,19,43,29-May-13 16:46:00,CST-6,0,0,0,0,20.00K,EF0,4.82,10,42.87,-91.22
+Iowa,Plains,Muscatine County,4,19,139,30-May-13 15:10:00,CST-6,0,0,0,0,25.00K,EF1,2.43,100,41.37,-91.35
+Iowa,Plains,Scott County,4,19,163,30-May-13 15:45:00,CST-6,0,0,0,0,100.00K,EF1,2.71,150,41.45,-90.72
+Iowa,Plains,Floyd County,4,19,67,31-May-13 17:09:00,CST-6,0,0,0,0,0.00K,EF0,0.18,10,43.17,-92.73
+Iowa,Plains,Wright County,4,19,197,12-Jun-13 15:08:00,CST-6,0,0,0,0,500.00K,EF3,6.2,200,42.88,-93.68
+Iowa,Plains,Wright County,4,19,197,12-Jun-13 15:19:00,CST-6,0,0,0,0,20.00K,EF1,5,125,42.85,-93.6
+Iowa,Plains,Wright County,4,19,197,12-Jun-13 15:21:00,CST-6,0,0,0,0,0.00K,EF0,1.13,50,42.87,-93.66
+Iowa,Plains,Franklin County,4,19,69,12-Jun-13 15:32:00,CST-6,0,0,0,0,300.00K,EF2,5.2,300,42.82,-93.47
+Iowa,Plains,Franklin County,4,19,69,12-Jun-13 15:46:00,CST-6,0,0,0,0,50.00K,EF1,3.43,75,42.79,-93.33
+Iowa,Plains,Franklin County,4,19,69,12-Jun-13 15:53:00,CST-6,0,0,0,0,0.00K,EF0,1.26,125,42.79,-93.29
+Iowa,Plains,Franklin County,4,19,69,12-Jun-13 15:56:00,CST-6,0,0,0,0,10.00K,EF0,1.11,50,42.78,-93.23
+Iowa,Plains,Muscatine County,4,19,139,24-Jun-13 14:08:00,CST-6,0,0,1,0,500.00K,EF1,6.5,100,41.45,-91.08
+Iowa,Plains,Webster County,4,19,187,26-Jun-13 11:41:00,CST-6,0,0,0,0,0.00K,EF0,0.67,30,42.61,-94.05
+Iowa,Plains,Monona County,4,19,133,04-Oct-13 17:02:00,CST-6,0,0,0,0,0.00K,EF2,4.89,250,42.15,-96.33
+Iowa,Plains,Woodbury County,4,19,193,04-Oct-13 17:13:00,CST-6,0,0,0,0,400.00K,EF2,14.38,264,42.21,-96.28
+Iowa,Plains,Woodbury County,4,19,193,04-Oct-13 17:17:00,CST-6,0,0,0,0,20.00K,EF1,1.17,100,42.22,-96.26
+Iowa,Plains,Woodbury County,4,19,193,04-Oct-13 17:35:00,CST-6,0,0,0,0,2.00M,EF4,22.66,2600,42.33,-96.11
+Iowa,Plains,Plymouth County,4,19,149,04-Oct-13 17:41:00,CST-6,0,0,0,0,0.00K,EF0,1.72,400,42.63,-96.52
+Iowa,Plains,Plymouth County,4,19,149,04-Oct-13 17:50:00,CST-6,0,0,0,0,,EF1,1.11,100,42.68,-96.45
+Iowa,Plains,Plymouth County,4,19,149,04-Oct-13 17:55:00,CST-6,0,0,0,0,0.00K,EF0,1.28,50,42.75,-96.38
+Iowa,Plains,Cherokee County,4,19,35,04-Oct-13 18:10:00,CST-6,0,0,0,0,10.00K,EF1,2.04,1300,42.56,-95.79
+Iowa,Plains,Cherokee County,4,19,35,04-Oct-13 18:41:00,CST-6,0,0,0,0,0.00K,EF0,0.55,50,42.69,-95.62
+Iowa,Plains,Cherokee County,4,19,35,04-Oct-13 18:46:00,CST-6,0,0,0,0,0.00K,EF0,0.4,50,42.72,-95.59
+Iowa,Plains,Cherokee County,4,19,35,04-Oct-13 19:18:00,CST-6,0,0,0,0,0.00K,EF0,0.34,50,42.84,-95.4
+Iowa,Plains,Buena Vista County,4,19,21,04-Oct-13 19:33:00,CST-6,0,0,0,0,1.20M,EF1,5.45,200,42.6,-95.36
+Iowa,Plains,Clay County,4,19,41,04-Oct-13 19:47:00,CST-6,0,0,0,0,0.00K,EF0,0.71,100,42.98,-95.06
+Kansas,Plains,Russell County,4,20,167,07-Apr-13 17:38:00,CST-6,0,0,0,0,,EF0,0.48,50,39.09,-99
+Kansas,Plains,Ellis County,4,20,51,08-May-13 17:30:00,CST-6,0,0,0,0,0.00K,EF0,0.21,50,38.97,-99.2
+Kansas,Plains,Ellis County,4,20,51,08-May-13 17:30:00,CST-6,0,0,0,0,0.00K,EF0,0.66,100,38.97,-99.2
+Kansas,Plains,Russell County,4,20,167,08-May-13 17:39:00,CST-6,0,0,0,0,,EF0,0.41,50,,
+Kansas,Plains,Trego County,4,20,195,18-May-13 16:27:00,CST-6,0,0,0,0,0.00K,EF0,2.92,100,38.76,-99.86
+Kansas,Plains,Ness County,4,20,135,18-May-13 17:03:00,CST-6,0,0,0,0,0.00K,EF0,0.31,100,38.68,-99.75
+Kansas,Plains,Ellis County,4,20,51,18-May-13 17:09:00,CST-6,0,0,0,0,,EF1,1.71,50,38.85,-99.58
+Kansas,Plains,Ellis County,4,20,51,18-May-13 17:37:00,CST-6,0,0,0,0,0.00K,EF0,0.56,50,38.83,-99.43
+Kansas,Plains,Pawnee County,4,20,145,18-May-13 18:18:00,CST-6,0,0,0,0,140.00K,EF4,7,1100,38.14,-99.47
+Kansas,Plains,Pawnee County,4,20,145,18-May-13 18:49:00,CST-6,0,0,0,0,,EF1,4,100,38.2,-99.28
+Kansas,Plains,Pawnee County,4,20,145,18-May-13 19:10:00,CST-6,0,0,0,0,0.00K,EF0,2.06,100,38.24,-99.18
+Kansas,Plains,Clay County,4,20,27,18-May-13 21:35:00,CST-6,0,0,0,0,,EF1,5.85,75,,
+Kansas,Plains,Washington County,4,20,201,18-May-13 21:42:00,CST-6,0,0,0,0,,EF1,1.14,75,,
+Kansas,Plains,Washington County,4,20,201,18-May-13 22:00:00,CST-6,0,0,0,0,,EF0,0.34,50,,
+Kansas,Plains,Sumner County,4,20,191,19-May-13 14:10:00,CST-6,0,0,0,0,,EF0,0.57,50,,
+Kansas,Plains,Sedgwick County,4,20,173,19-May-13 14:19:00,CST-6,0,0,0,0,,EF0,0.8,50,,
+Kansas,Plains,Sedgwick County,4,20,173,19-May-13 14:37:00,CST-6,0,0,0,0,,EF2,4.61,300,,
+Kansas,Plains,Sumner County,4,20,191,19-May-13 15:12:00,CST-6,0,0,0,0,,EF0,0.42,50,,
+Kansas,Plains,Sumner County,4,20,191,19-May-13 15:39:00,CST-6,0,0,0,0,,EF0,0.47,50,,
+Kansas,Plains,Sumner County,4,20,191,19-May-13 15:40:00,CST-6,0,0,0,0,,EF0,0.4,50,,
+Kansas,Plains,Cowley County,4,20,35,19-May-13 15:46:00,CST-6,0,0,0,0,,EF0,0.71,50,,
+Kansas,Plains,Cowley County,4,20,35,19-May-13 15:55:00,CST-6,0,0,0,0,,EF1,1.84,60,,
+Kansas,Plains,Marion County,4,20,115,19-May-13 16:05:00,CST-6,0,0,0,0,0.00K,EF0,0.46,50,,
+Kansas,Plains,Dickinson County,4,20,41,19-May-13 16:17:00,CST-6,0,0,0,0,,EF0,0.1,25,,
+Kansas,Plains,Lyon County,4,20,111,19-May-13 16:27:00,CST-6,0,0,0,0,,EF1,9,75,,
+Kansas,Plains,Cowley County,4,20,35,19-May-13 16:59:00,CST-6,0,0,0,0,,EF0,0.19,50,,
+Kansas,Plains,Montgomery County,4,20,125,20-May-13 15:12:00,CST-6,0,0,0,0,,EF0,0.54,50,,
+Kansas,Plains,Stanton County,4,20,187,20-May-13 15:50:00,CST-6,0,0,0,0,,EF0,0.37,50,37.47,-101.94
+Kansas,Plains,Stanton County,4,20,187,20-May-13 16:05:00,CST-6,0,0,0,0,0.00K,EF0,0.27,50,37.51,-101.88
+Kansas,Plains,Smith County,4,20,183,27-May-13 17:32:00,CST-6,0,0,0,0,0.00K,EF0,0.38,15,39.82,-98.83
+Kansas,Plains,Smith County,4,20,183,27-May-13 17:45:00,CST-6,0,0,0,0,0.00K,EF0,0.01,10,39.81,-98.68
+Kansas,Plains,Smith County,4,20,183,27-May-13 18:04:00,CST-6,1,0,0,0,1.40M,EF3,2.18,1580,39.86,-98.54
+Kansas,Plains,Jewell County,4,20,89,27-May-13 18:10:00,CST-6,1,0,0,0,0.40M,EF3,3.56,1580,39.85,-98.5
+Kansas,Plains,Marshall County,4,20,117,27-May-13 20:40:00,CST-6,0,0,0,0,,EF2,3.83,150,,
+Kansas,Plains,Nemaha County,4,20,131,28-May-13 15:16:00,CST-6,0,0,0,0,,EF3,4.4,900,,
+Kansas,Plains,Nemaha County,4,20,131,28-May-13 15:20:00,CST-6,0,0,0,0,,EF1,0.01,50,,
+Kansas,Plains,Nemaha County,4,20,131,28-May-13 15:45:00,CST-6,0,0,0,0,,EF1,0.01,50,,
+Kansas,Plains,Ottawa County,4,20,143,28-May-13 16:33:00,CST-6,0,0,0,0,,EF0,0.01,25,,
+Kansas,Plains,Ottawa County,4,20,143,28-May-13 16:45:00,CST-6,0,0,0,0,,EF3,2.33,1000,,
+Kansas,Plains,Barton County,4,20,9,28-May-13 17:37:00,CST-6,0,0,0,0,,EF0,4.18,50,,
+Kansas,Plains,Rush County,4,20,165,28-May-13 17:40:00,CST-6,0,0,0,0,0.00K,EF0,0.62,75,38.5,-99.05
+Kansas,Plains,Logan County,4,20,109,29-May-13 14:35:00,CST-6,0,0,0,0,0.00K,EF0,0.1,25,38.83,-101.18
+Kansas,Plains,Gove County,4,20,63,29-May-13 16:43:00,CST-6,0,0,0,0,0.00K,EF0,1.3,25,39.14,-100.56
+Kansas,Plains,Kearny County,4,20,93,29-May-13 17:50:00,CST-6,0,0,0,0,0.00K,EF0,0.28,75,37.76,-101.44
+Kansas,Plains,Kearny County,4,20,93,29-May-13 18:00:00,CST-6,0,0,0,0,0.00K,EF0,0.3,100,37.77,-101.47
+Kansas,Plains,Kearny County,4,20,93,29-May-13 18:20:00,CST-6,0,0,0,0,0.00K,EF0,0.12,75,37.77,-101.39
+Kansas,Plains,Phillips County,4,20,147,29-May-13 19:10:00,CST-6,0,0,0,0,80.00K,EF1,0.78,40,39.82,-99.58
+Kansas,Plains,Montgomery County,4,20,125,31-May-13 15:18:00,CST-6,0,0,0,0,,EF0,0.42,50,,
+Kansas,Plains,Kearny County,4,20,93,04-Jun-13 20:07:00,CST-6,0,0,0,0,0.00K,EF0,2.85,100,37.85,-101.4
+Kansas,Plains,Kiowa County,4,20,97,04-Jun-13 23:32:00,CST-6,0,0,0,0,18.00K,EF1,0.97,50,37.52,-99.5
+Kansas,Plains,Kiowa County,4,20,97,04-Jun-13 23:48:00,CST-6,0,0,0,0,,EF0,2.02,75,37.41,-99.3
+Kansas,Plains,Stanton County,4,20,187,10-Jul-13 14:03:00,CST-6,0,0,0,0,0.00K,EF0,0.15,50,37.68,-101.76
+Kansas,Plains,Hamilton County,4,20,75,25-Jul-13 14:05:00,MST-7,0,0,0,0,0.00K,EF0,0.41,50,37.86,-101.98
+Kansas,Plains,Pratt County,4,20,151,29-Jul-13 15:18:00,CST-6,0,0,0,0,0.00K,EF0,0.01,25,37.74,-98.49
+Kansas,Plains,Bourbon County,4,20,11,29-Jul-13 16:05:00,CST-6,0,0,0,0,100.00K,EF1,0.4,100,37.79,-95.07
+Kansas,Plains,Sherman County,4,20,181,05-Aug-13 11:28:00,MST-7,0,0,0,0,0.00K,EF0,0.1,100,39.45,-101.61
+Kansas,Plains,Sherman County,4,20,181,05-Aug-13 11:40:00,MST-7,0,0,0,0,0.00K,EF0,0.1,100,39.46,-101.58
+Kansas,Plains,Lane County,4,20,101,13-Aug-13 10:15:00,CST-6,0,0,0,0,0.00K,EF0,0.04,25,,
+Minnesota,Plains,Cottonwood County,4,27,33,17-May-13 16:45:00,CST-6,0,0,0,0,0.00K,EF0,0.5,50,43.83,-95.22
+Minnesota,Plains,Jackson County,4,27,63,17-May-13 17:10:00,CST-6,0,0,0,0,0.00K,EF0,0.5,50,43.72,-95.17
+Minnesota,Plains,Dodge County,4,27,39,05-Jun-13 16:42:00,CST-6,0,0,0,0,0.00K,EF0,0.01,5,44.18,-92.97
+Minnesota,Plains,Chisago County,4,27,25,21-Jun-13 02:46:00,CST-6,0,0,0,0,100.00K,EF0,0.5,50,,
+Minnesota,Plains,Lyon County,4,27,83,21-Jun-13 16:19:00,CST-6,0,0,0,0,0.00K,EF0,0.1,50,44.32,-95.73
+Minnesota,Plains,Clay County,4,27,27,25-Jun-13 22:25:00,CST-6,0,0,0,0,,EF0,7,100,46.65,-96.42
+Minnesota,Plains,Polk County,4,27,119,22-Jul-13 00:33:00,CST-6,0,0,0,0,100.00K,EF1,5.61,150,47.8,-95.7
+Minnesota,Plains,Clearwater County,4,27,29,22-Jul-13 00:46:00,CST-6,0,0,0,0,50.00K,EF1,1.86,150,47.8,-95.58
+Minnesota,Plains,Mahnomen County,4,27,87,22-Jul-13 00:50:00,CST-6,0,0,0,0,1.00M,EF2,16.92,250,47.3,-95.91
+Minnesota,Plains,Clearwater County,4,27,29,22-Jul-13 01:20:00,CST-6,0,0,0,0,750.00K,EF2,4.17,400,47.32,-95.55
+Minnesota,Plains,Stevens County,4,27,149,06-Aug-13 15:00:00,CST-6,0,0,0,0,0.00K,EF0,0.09,10,45.61,-96.14
+Minnesota,Plains,Stevens County,4,27,149,06-Aug-13 15:29:00,CST-6,0,0,0,0,0.00K,EF0,0.09,10,45.53,-95.82
+Minnesota,Plains,Kandiyohi County,4,27,67,06-Aug-13 16:17:00,CST-6,0,0,0,0,0.00K,EF0,0.17,30,45.35,-95.16
+Minnesota,Plains,Otter Tail County,4,27,111,26-Aug-13 19:15:00,CST-6,0,0,0,0,,EF0,0.1,50,46.46,-95.16
+Minnesota,Plains,Cass County,4,27,21,29-Aug-13 23:28:00,CST-6,0,0,0,0,,EF1,8.64,300,47.08,-93.93
+Minnesota,Plains,Aitkin County,4,27,1,29-Aug-13 23:45:00,CST-6,0,0,0,0,,EF1,4.29,300,47.01,-93.78
+Minnesota,Plains,Lake Of The Woods County,4,27,77,11-Sep-13 14:19:00,CST-6,0,0,0,0,0.00K,EF0,9.34,30,,
+Minnesota,Plains,Traverse County,4,27,155,11-Oct-13 16:25:00,CST-6,0,0,0,0,,EF1,0.43,70,45.82,-96.27
+Missouri,Plains,Cedar County,4,29,39,29-Jan-13 11:00:00,CST-6,0,0,0,0,100.00K,EF1,2.66,200,37.84,-93.88
+Missouri,Plains,St. Clair County,4,29,185,29-Jan-13 11:15:00,CST-6,0,0,0,0,200.00K,EF1,7.69,400,37.98,-93.61
+Missouri,Plains,Hickory County,4,29,85,29-Jan-13 11:23:00,CST-6,0,0,0,0,25.00K,EF1,0.89,400,38.02,-93.48
+Missouri,Plains,Warren County,4,29,219,29-Jan-13 15:14:00,CST-6,0,0,0,0,,EF1,1.17,40,38.66,-91.13
+Missouri,Plains,Lincoln County,4,29,113,29-Jan-13 15:36:00,CST-6,0,0,0,0,,EF0,1.66,30,38.91,-90.81
+Missouri,Plains,Ripley County,4,29,181,29-Jan-13 20:14:00,CST-6,0,0,0,0,100.00K,EF1,0.27,100,36.69,-90.76
+Missouri,Plains,Butler County,4,29,23,29-Jan-13 20:45:00,CST-6,0,0,0,0,60.00K,EF2,3.39,100,36.76,-90.26
+Missouri,Plains,Cape Girardeau County,4,29,31,29-Jan-13 21:13:00,CST-6,0,0,0,0,250.00K,EF1,5.45,100,37.18,-89.77
+Missouri,Plains,Cape Girardeau County,4,29,31,29-Jan-13 21:13:00,CST-6,0,0,0,0,80.00K,EF1,6.79,100,37.33,-89.73
+Missouri,Plains,Franklin County,4,29,71,10-Apr-13 18:38:00,CST-6,0,0,0,0,0.00K,EF1,1.32,200,38.59,-90.79
+Missouri,Plains,St. Louis County,4,29,189,10-Apr-13 19:00:00,CST-6,2,0,0,0,4.00M,EF2,6.75,500,38.76,-90.43
+Missouri,Plains,St. Louis County,4,29,510,10-Apr-13 19:10:00,CST-6,0,0,0,0,,EF0,0.25,50,38.61,-90.29
+Missouri,Plains,Butler County,4,29,23,10-Apr-13 19:58:00,CST-6,0,0,0,0,20.00K,EF0,1.73,75,36.69,-90.32
+Missouri,Plains,Stoddard County,4,29,207,10-Apr-13 20:05:00,CST-6,0,0,0,0,40.00K,EF0,1.53,50,36.8,-90.13
+Missouri,Plains,Monroe County,4,29,137,17-Apr-13 16:31:00,CST-6,0,0,0,0,,EF1,7.45,70,39.38,-92.12
+Missouri,Plains,Monroe County,4,29,137,17-Apr-13 16:35:00,CST-6,0,0,0,0,,EF0,0.07,40,39.4,-92.06
+Missouri,Plains,Monroe County,4,29,137,17-Apr-13 17:00:00,CST-6,0,0,0,0,,EF0,0.45,60,39.59,-91.8
+Missouri,Plains,Jasper County,4,29,97,19-May-13 23:06:00,CST-6,0,0,0,0,200.00K,EF1,0.5,100,37.17,-94.28
+Missouri,Plains,Dade County,4,29,57,19-May-13 23:23:00,CST-6,0,0,0,0,250.00K,EF0,0.65,100,37.39,-93.97
+Missouri,Plains,Pettis County,4,29,159,20-May-13 15:57:00,CST-6,0,0,0,0,20.00K,EF1,14.5,200,38.71,-93.39
+Missouri,Plains,Cedar County,4,29,39,20-May-13 16:37:00,CST-6,0,0,0,0,50.00K,EF0,3.2,100,37.65,-93.83
+Missouri,Plains,Barton County,4,29,11,20-May-13 17:03:00,CST-6,0,0,0,0,50.00K,EF1,6.81,100,37.52,-94.42
+Missouri,Plains,Newton County,4,29,145,20-May-13 17:41:00,CST-6,0,0,0,0,100.00K,EF1,0.81,400,36.83,-94.62
+Missouri,Plains,St. Clair County,4,29,185,20-May-13 17:56:00,CST-6,0,0,0,0,0.00K,EF0,0.48,200,37.94,-93.64
+Missouri,Plains,Marion County,4,29,127,20-May-13 18:24:00,CST-6,0,0,0,0,,EF1,1.16,50,39.69,-91.45
+Missouri,Plains,Barry County,4,29,9,20-May-13 18:50:00,CST-6,0,0,0,0,50.00K,EF1,0.53,200,36.63,-93.58
+Missouri,Plains,Stone County,4,29,209,20-May-13 18:51:00,CST-6,0,0,0,0,0.00K,EF0,0.89,200,36.63,-93.58
+Missouri,Plains,Stone County,4,29,209,20-May-13 19:05:00,CST-6,0,0,0,0,0.00K,EF0,0.58,100,36.78,-93.38
+Missouri,Plains,Stone County,4,29,209,20-May-13 19:05:00,CST-6,0,0,0,0,0.00K,EF1,1.35,100,36.79,-93.39
+Missouri,Plains,Morgan County,4,29,141,20-May-13 19:46:00,CST-6,0,0,0,0,50.00K,EF0,0.74,100,38.33,-92.87
+Missouri,Plains,Howell County,4,29,91,30-May-13 23:20:00,CST-6,0,0,0,0,5.00K,EF1,4.28,400,36.86,-92.01
+Missouri,Plains,Montgomery County,4,29,139,31-May-13 17:20:00,CST-6,0,0,0,0,,EF0,0.53,30,38.94,-91.52
+Missouri,Plains,Montgomery County,4,29,139,31-May-13 17:21:00,CST-6,0,0,0,0,,EF0,0.21,30,38.94,-91.5
+Missouri,Plains,Montgomery County,4,29,139,31-May-13 17:28:00,CST-6,0,0,0,0,,EF0,1.06,40,38.94,-91.46
+Missouri,Plains,Franklin County,4,29,71,31-May-13 18:37:00,CST-6,0,0,0,0,,EF1,9.98,550,38.41,-91.05
+Missouri,Plains,St. Charles County,4,29,183,31-May-13 18:50:00,CST-6,8,0,0,0,50.00M,EF3,14.76,950,38.69,-90.75
+Missouri,Plains,Jefferson County,4,29,99,31-May-13 19:01:00,CST-6,0,0,0,0,,EF1,12.41,200,38.4,-90.73
+Missouri,Plains,St. Louis County,4,29,189,31-May-13 19:08:00,CST-6,0,0,0,0,10.00M,EF2,16.95,1760,38.75,-90.49
+Missouri,Plains,St. Louis County,4,29,189,31-May-13 19:27:00,CST-6,0,0,0,0,0.00K,EF1,2.01,50,38.8,-90.15
+Missouri,Plains,Greene County,4,29,77,21-Jul-13 18:18:00,CST-6,0,0,0,0,100.00K,EF0,0.62,50,37.21,-93.27
+Missouri,Plains,Lafayette County,4,29,107,26-Jul-13 16:50:00,CST-6,0,0,0,0,0.75K,EF0,0.05,25,39.19,-93.49
+Missouri,Plains,Ripley County,4,29,181,31-Oct-13 17:11:00,CST-6,0,0,0,0,100.00K,EF1,4.16,150,36.59,-90.74
+Missouri,Plains,Butler County,4,29,23,31-Oct-13 17:30:00,CST-6,0,0,0,0,80.00K,EF1,0.22,50,36.63,-90.47
+Missouri,Plains,Butler County,4,29,23,31-Oct-13 17:48:00,CST-6,0,0,0,0,100.00K,EF1,5.7,75,36.7,-90.27
+Missouri,Plains,Bollinger County,4,29,17,31-Oct-13 17:54:00,CST-6,0,0,0,0,70.00K,EF1,1.5,200,37.25,-89.95
+Missouri,Plains,Stoddard County,4,29,207,31-Oct-13 18:02:00,CST-6,0,0,0,0,75.00K,EF1,14.25,100,36.73,-90.03
+Missouri,Plains,Cape Girardeau County,4,29,31,31-Oct-13 18:05:00,CST-6,0,0,0,0,130.00K,EF1,3.9,150,37.28,-89.71
+Missouri,Plains,Stoddard County,4,29,207,31-Oct-13 18:24:00,CST-6,0,0,0,0,800.00K,EF2,1.93,100,36.73,-89.85
+Missouri,Plains,New Madrid County,4,29,143,31-Oct-13 18:40:00,CST-6,0,0,0,0,175.00K,EF1,2.99,50,36.81,-89.63
+Missouri,Plains,Mississippi County,4,29,133,31-Oct-13 19:05:00,CST-6,0,0,0,0,90.00K,EF1,6.7,200,36.92,-89.22
+Missouri,Plains,Perry County,4,29,157,17-Nov-13 12:26:00,CST-6,0,0,0,0,1.00K,EF0,0.1,50,37.61,-89.66
+Missouri,Plains,Scott County,4,29,201,17-Nov-13 13:07:00,CST-6,0,0,0,0,1.00M,EF3,14.25,600,37.02,-89.73
+Nebraska,Plains,Buffalo County,4,31,19,19-Mar-13 16:00:00,CST-6,0,0,0,0,0.00K,EF0,0.58,10,40.74,-98.73
+Nebraska,Plains,Lincoln County,4,31,111,29-Mar-13 17:02:00,CST-6,0,0,0,0,0.00K,EF0,0.32,25,41.11,-101.2
+Nebraska,Plains,Lincoln County,4,31,111,29-Mar-13 17:06:00,CST-6,0,0,0,0,0.00K,EF0,0.11,20,41.13,-101.13
+Nebraska,Plains,Dundy County,4,31,57,08-Apr-13 20:06:00,MST-7,0,0,0,0,250.00K,EF1,0.75,75,40.07,-101.46
+Nebraska,Plains,Dawes County,4,31,45,17-May-13 14:54:00,MST-7,0,0,0,0,0.00K,EF0,2.67,50,42.78,-103.4
+Nebraska,Plains,Morrill County,4,31,123,18-May-13 15:58:00,MST-7,0,0,0,0,0.00K,EF0,1,50,41.73,-102.85
+Nebraska,Plains,Greeley County,4,31,77,19-May-13 15:51:00,CST-6,0,0,0,0,40.00K,EF1,0.23,25,41.44,-98.36
+Nebraska,Plains,Kimball County,4,31,105,27-May-13 13:05:00,MST-7,0,0,0,0,0.00K,EF0,7.38,50,41.28,-103.73
+Nebraska,Plains,Kimball County,4,31,105,27-May-13 14:25:00,MST-7,0,0,0,0,0.00K,EF0,5.43,50,41.3,-103.57
+Nebraska,Plains,Sioux County,4,31,165,27-May-13 14:58:00,MST-7,0,0,0,0,0.00K,EF0,2,50,42.53,-103.66
+Nebraska,Plains,Box Butte County,4,31,13,27-May-13 15:05:00,MST-7,0,0,0,0,0.00K,EF0,0.3,30,42.32,-103.42
+Nebraska,Plains,Clay County,4,31,35,27-May-13 18:32:00,CST-6,0,0,0,0,4.00M,EF2,4.47,250,40.37,-98.01
+Nebraska,Plains,Jefferson County,4,31,95,27-May-13 19:51:00,CST-6,0,0,0,0,0.00K,EF0,3.28,100,40.14,-97.02
+Nebraska,Plains,Jefferson County,4,31,95,27-May-13 20:02:00,CST-6,0,0,0,0,0.00K,EF2,5.93,600,40.18,-96.92
+Nebraska,Plains,Gage County,4,31,67,27-May-13 20:16:00,CST-6,0,0,0,0,0.00K,EF0,1.36,100,40.22,-96.76
+Nebraska,Plains,Sioux County,4,31,165,28-May-13 14:23:00,MST-7,0,0,0,0,0.00K,EF0,6.31,75,42.08,-103.73
+Nebraska,Plains,Box Butte County,4,31,13,28-May-13 15:05:00,MST-7,0,0,0,0,0.00K,EF0,2.16,50,42.13,-103.42
+Nebraska,Plains,Clay County,4,31,35,29-May-13 13:56:00,CST-6,0,0,0,0,0.00K,EF0,0.49,25,40.55,-98.05
+Nebraska,Plains,Clay County,4,31,35,29-May-13 14:45:00,CST-6,0,0,0,0,0.00K,EF0,0.01,15,40.69,-97.86
+Nebraska,Plains,York County,4,31,185,29-May-13 15:20:00,CST-6,0,0,0,0,0.00K,EF0,0.01,15,40.85,-97.75
+Nebraska,Plains,Clay County,4,31,35,29-May-13 15:21:00,CST-6,0,0,0,0,200.00K,EF1,4.34,75,40.55,-98.04
+Nebraska,Plains,York County,4,31,185,29-May-13 15:36:00,CST-6,0,0,0,0,500.00K,EF1,8.39,150,40.91,-97.64
+Nebraska,Plains,Custer County,4,31,41,29-May-13 15:46:00,CST-6,0,0,0,0,0.00K,EF0,0.25,35,41.56,-99.26
+Nebraska,Plains,York County,4,31,185,29-May-13 15:48:00,CST-6,0,0,0,0,1.50M,EF1,15.93,400,40.8,-97.59
+Nebraska,Plains,Butler County,4,31,23,29-May-13 17:00:00,CST-6,0,0,0,0,0.00K,EF0,0.64,25,41.23,-97.26
+Nebraska,Plains,Howard County,4,31,93,29-May-13 17:05:00,CST-6,0,0,0,0,0.00K,EF0,0.01,15,41.32,-98.72
+Nebraska,Plains,Wheeler County,4,31,183,29-May-13 17:08:00,CST-6,0,0,0,0,0.00K,EF0,0.2,35,41.85,-98.59
+Nebraska,Plains,Dawes County,4,31,45,11-Jun-13 19:31:00,MST-7,0,0,0,0,0.00K,EF1,0.99,40,42.58,-103.17
+Nebraska,Plains,Dawes County,4,31,45,11-Jun-13 19:47:00,MST-7,0,0,0,0,0.00K,EF0,0.76,40,42.64,-103.06
+Nebraska,Plains,Cherry County,4,31,31,16-Jun-13 14:41:00,CST-6,0,0,0,0,0.00K,EF0,0.2,35,42.33,-101.95
+Nebraska,Plains,Cheyenne County,4,31,33,21-Jun-13 14:01:00,MST-7,0,0,0,0,0.00K,EF0,0.33,50,41.19,-103.2
+Nebraska,Plains,Cheyenne County,4,31,33,21-Jun-13 15:01:00,MST-7,0,0,0,0,0.00K,EF0,0.33,50,41.21,-102.97
+Nebraska,Plains,Sheridan County,4,31,161,21-Jun-13 16:31:00,MST-7,0,0,0,0,100.00K,EF0,0.72,33,42.73,-102.19
+Nebraska,Plains,Banner County,4,31,7,22-Jun-13 15:50:00,MST-7,0,0,0,0,0.00K,EF1,7.87,100,41.67,-104.02
+Nebraska,Plains,Banner County,4,31,7,22-Jun-13 16:26:00,MST-7,0,0,0,0,0.00K,EF0,1.15,40,41.58,-103.71
+Nebraska,Plains,Kimball County,4,31,105,22-Jun-13 17:58:00,MST-7,0,0,0,0,0.00K,EF0,0.58,40,41.23,-103.48
+Nebraska,Plains,Custer County,4,31,41,09-Jul-13 16:10:00,CST-6,0,0,0,0,0.00K,EF0,0.01,20,41.08,-99.78
+Nebraska,Plains,Dawson County,4,31,47,09-Jul-13 16:14:00,CST-6,0,0,0,0,0.00K,EF0,1.72,50,41.02,-99.95
+Nebraska,Plains,Custer County,4,31,41,09-Jul-13 16:15:00,CST-6,0,0,0,0,0.00K,EF0,0.22,75,41.1,-99.91
+Nebraska,Plains,Sheridan County,4,31,161,20-Jul-13 16:26:00,MST-7,0,0,0,0,0.00K,EF0,0.1,60,42.6,-102.34
+Nebraska,Plains,Lancaster County,4,31,109,03-Oct-13 21:08:00,CST-6,0,0,0,0,0.00K,EF2,11.19,300,40.68,-96.46
+Nebraska,Plains,Otoe County,4,31,131,03-Oct-13 21:34:00,CST-6,0,0,0,0,0.00K,EF2,4.08,300,40.68,-96.46
+Nebraska,Plains,Cass County,4,31,25,03-Oct-13 21:55:00,CST-6,0,0,0,0,0.00K,EF0,4.46,100,40.78,-96.29
+Nebraska,Plains,Stanton County,4,31,167,04-Oct-13 15:32:00,CST-6,0,0,0,0,0.00K,EF0,4.71,100,41.87,-97.34
+Nebraska,Plains,Antelope County,4,31,3,04-Oct-13 15:48:00,CST-6,0,0,0,0,0.00K,EF2,6.64,264,42.25,-98.09
+Nebraska,Plains,Wayne County,4,31,179,04-Oct-13 16:12:00,CST-6,15,0,0,0,0.00K,EF4,10.77,"2,428.8",42.13,-97.08
+Nebraska,Plains,Knox County,4,31,107,04-Oct-13 16:20:00,CST-6,0,0,0,0,0.00K,EF3,6.43,590,42.43,-97.88
+Nebraska,Plains,Dixon County,4,31,51,04-Oct-13 16:35:00,CST-6,0,0,0,0,500.00K,EF2,7.57,2394,42.26,-96.96
+Nebraska,Plains,Thurston County,4,31,173,04-Oct-13 16:55:00,CST-6,2,0,0,0,0.00K,EF2,7.29,250,42.08,-96.39
+Nebraska,Plains,Dixon County,4,31,51,04-Oct-13 16:59:00,CST-6,0,0,0,0,0.00K,EF0,0.68,50,42.39,-96.73
+Nebraska,Plains,Dakota County,4,31,43,04-Oct-13 16:59:00,CST-6,0,0,0,0,0.00K,EF0,0.64,50,42.36,-96.87
+Nebraska,Plains,Dakota County,4,31,43,04-Oct-13 17:25:00,CST-6,0,0,0,0,0.00K,EF0,1.71,400,42.49,-96.59
+North Dakota,Plains,Walsh County,4,38,99,31-May-13 12:53:00,CST-6,0,0,0,0,,EF0,0.1,25,48.42,-97.31
+North Dakota,Plains,Walsh County,4,38,99,31-May-13 13:17:00,CST-6,0,0,0,0,,EF0,2.25,25,48.44,-97.32
+North Dakota,Plains,Bowman County,4,38,11,03-Jun-13 15:15:00,MST-7,0,0,0,0,0.00K,EF0,0.03,20,46.17,-103.43
+North Dakota,Plains,Golden Valley County,4,38,33,03-Jun-13 16:20:00,MST-7,0,0,0,0,5.00K,EF0,0.02,20,46.67,-103.66
+North Dakota,Plains,Adams County,4,38,1,03-Jun-13 17:05:00,MST-7,0,0,0,0,0.00K,EF0,0.26,30,46.15,-102.64
+North Dakota,Plains,Richland County,4,38,77,04-Jun-13 18:16:00,CST-6,0,0,0,0,,EF0,0.1,20,46.43,-97.03
+North Dakota,Plains,Barnes County,4,38,3,20-Jun-13 17:11:00,CST-6,0,0,0,0,,EF0,0.1,20,47.05,-98.3
+North Dakota,Plains,Mchenry County,4,38,49,25-Jun-13 15:12:00,CST-6,0,0,0,0,0.00K,EF0,1.78,20,47.95,-100.93
+North Dakota,Plains,Morton County,4,38,59,09-Jul-13 14:54:00,CST-6,0,0,0,0,95.00K,EF0,1.84,50,46.91,-101.26
+North Dakota,Plains,Sargent County,4,38,81,12-Jul-13 18:45:00,CST-6,0,0,0,0,0.00K,EF0,0.1,20,46.06,-97.35
+North Dakota,Plains,Mchenry County,4,38,49,21-Jul-13 16:42:00,CST-6,0,0,0,0,0.00K,EF0,4.55,50,48.36,-100.9
+North Dakota,Plains,Ramsey County,4,38,71,21-Jul-13 20:08:00,CST-6,0,0,0,0,,EF1,1.5,100,48.44,-98.88
+North Dakota,Plains,Richland County,4,38,77,06-Aug-13 15:13:00,CST-6,0,0,0,0,,EF0,0.5,100,46.47,-97.02
+North Dakota,Plains,Richland County,4,38,77,06-Aug-13 15:26:00,CST-6,0,0,0,0,,EF1,3,150,46.37,-96.84
+North Dakota,Plains,Morton County,4,38,59,30-Aug-13 18:10:00,CST-6,0,0,0,0,0.00K,EF0,2.49,30,46.88,-101.49
+North Dakota,Plains,Pembina County,4,38,67,31-Aug-13 15:05:00,CST-6,0,0,0,0,,EF0,1,20,48.63,-97.62
+South Dakota,Plains,Yankton County,4,46,135,08-May-13 16:00:00,CST-6,0,0,0,0,0.00K,EF0,0.5,25,43.1,-97.35
+South Dakota,Plains,Bennett County,4,46,7,28-May-13 17:13:00,MST-7,1,0,0,0,100.00K,EF1,0.1,20,,
+South Dakota,Plains,Hand County,4,46,59,21-Jun-13 12:58:00,CST-6,0,0,0,0,0.00K,EF0,0.21,25,44.66,-98.99
+South Dakota,Plains,Clark County,4,46,25,21-Jun-13 13:55:00,CST-6,0,0,0,0,0.00K,EF0,2.34,25,44.66,-97.94
+South Dakota,Plains,Kingsbury County,4,46,77,21-Jun-13 14:03:00,CST-6,0,0,0,0,,EF0,0.1,50,44.45,-97.85
+South Dakota,Plains,Clark County,4,46,25,21-Jun-13 14:08:00,CST-6,0,0,0,0,,EF0,0.36,50,44.71,-97.91
+South Dakota,Plains,Kingsbury County,4,46,77,21-Jun-13 14:10:00,CST-6,0,0,0,0,0.00K,EF0,0.1,50,44.49,-97.54
+South Dakota,Plains,Hamlin County,4,46,57,21-Jun-13 14:34:00,CST-6,0,0,0,0,0.00K,EF0,0.37,50,44.61,-97.3
+South Dakota,Plains,Campbell County,4,46,21,25-Jun-13 18:59:00,CST-6,0,0,0,0,0.00K,EF0,0.09,10,45.6,-99.88
+South Dakota,Plains,Haakon County,4,46,55,30-Jul-13 14:35:00,MST-7,0,0,0,0,0.00K,EF0,0.01,10,,
+South Dakota,Plains,Pennington County,4,46,103,11-Aug-13 13:28:00,MST-7,0,0,0,0,25.00K,EF1,1.28,30,,
+South Dakota,Plains,Custer County,4,46,33,30-Aug-13 14:44:00,MST-7,0,0,0,0,0.00K,EF0,0.01,10,,
+South Dakota,Plains,Union County,4,46,127,04-Oct-13 17:28:00,CST-6,0,0,0,0,250.00K,EF1,4.18,400,42.51,-96.58
+South Dakota,Plains,Union County,4,46,127,04-Oct-13 17:35:00,CST-6,0,0,0,0,200.00K,EF1,4.75,800,42.57,-96.56
+Alabama,Southeast,Lamar County,5,1,75,30-Jan-13 04:33:00,CST-6,0,0,0,0,0.00K,EF1,3.83,300,33.87,-88.23
+Alabama,Southeast,Fayette County,5,1,57,30-Jan-13 05:18:00,CST-6,0,0,0,0,0.00K,EF1,6.5,500,33.73,-87.9
+Alabama,Southeast,Walker County,5,1,127,30-Jan-13 05:42:00,CST-6,0,0,0,0,0.00K,EF0,4.9,200,33.93,-87.5
+Alabama,Southeast,Winston County,5,1,133,30-Jan-13 05:50:00,CST-6,0,0,0,0,0.00K,EF1,10.39,1000,34.06,-87.37
+Alabama,Southeast,Winston County,5,1,133,30-Jan-13 06:01:00,CST-6,0,0,0,0,0.00K,EF1,4.2,300,34.21,-87.18
+Alabama,Southeast,Cullman County,5,1,43,30-Jan-13 06:04:00,CST-6,0,0,0,0,50.00K,EF1,2.22,300,34.23,-87.11
+Alabama,Southeast,Washington County,5,1,129,10-Feb-13 17:00:00,CST-6,0,0,0,0,30.00K,EF1,6.5,200,31.54,-88.16
+Alabama,Southeast,Clarke County,5,1,25,10-Feb-13 17:10:00,CST-6,0,0,0,0,30.00K,EF1,7.75,200,31.59,-88.06
+Alabama,Southeast,Clarke County,5,1,25,10-Feb-13 17:26:00,CST-6,0,0,0,0,10.00K,EF1,0.91,80,31.62,-87.85
+Alabama,Southeast,Colbert County,5,1,33,18-Mar-13 13:10:00,CST-6,0,0,0,0,,EF0,1.6,100,34.73,-87.5
+Alabama,Southeast,Marshall County,5,1,95,18-Mar-13 14:41:00,CST-6,0,0,0,0,,EF0,2.68,300,34.2,-86.15
+Alabama,Southeast,Marshall County,5,1,95,18-Mar-13 14:41:00,CST-6,0,0,0,0,,EF1,1.43,160,34.27,-86.13
+Alabama,Southeast,Dekalb County,5,1,49,18-Mar-13 14:43:00,CST-6,0,0,0,0,,EF2,5.95,350,34.46,-85.99
+Alabama,Southeast,Dekalb County,5,1,49,18-Mar-13 14:43:00,CST-6,7,0,0,0,,EF2,2.78,220,34.27,-86.11
+Alabama,Southeast,Etowah County,5,1,55,18-Mar-13 14:43:00,CST-6,3,0,0,0,0.00K,EF1,5.27,300,34.2,-86.11
+Alabama,Southeast,Pickens County,5,1,107,11-Apr-13 11:48:00,CST-6,0,0,0,0,0.00K,EF1,12.37,1050,33.27,-88.31
+Alabama,Southeast,Walker County,5,1,127,11-Apr-13 13:45:00,CST-6,0,0,0,0,0.00K,EF1,5.49,500,33.92,-87.54
+Alabama,Southeast,Winston County,5,1,133,11-Apr-13 13:57:00,CST-6,0,0,0,0,0.00K,EF1,2.63,250,34.01,-87.43
+Alabama,Southeast,Winston County,5,1,133,11-Apr-13 14:10:00,CST-6,0,0,0,0,0.00K,EF1,1.17,300,34.14,-87.32
+Alabama,Southeast,Winston County,5,1,133,11-Apr-13 14:26:00,CST-6,1,0,0,0,0.00K,EF1,0.38,50,34.19,-87.12
+Alabama,Southeast,Bibb County,5,1,7,11-Apr-13 15:18:00,CST-6,0,0,0,0,0.00K,EF1,20.16,800,32.85,-87.17
+Alabama,Southeast,Madison County,5,1,89,11-Apr-13 15:20:00,CST-6,0,0,0,0,,EF1,6.58,300,34.61,-86.64
+Alabama,Southeast,Madison County,5,1,89,11-Apr-13 15:32:00,CST-6,0,0,0,0,,EF1,1.34,75,34.7,-86.5
+Alabama,Southeast,Mobile County,5,1,97,11-Apr-13 16:29:00,CST-6,0,0,0,0,1.50M,EF1,0.81,75,30.51,-88.15
+Alabama,Southeast,Macon County,5,1,87,11-Apr-13 19:34:00,CST-6,1,0,0,0,0.00K,EF2,4.87,200,32.53,-85.74
+Alabama,Southeast,Lee County,5,1,81,11-Apr-13 19:43:00,CST-6,0,0,0,0,0.00K,EF0,0.22,52,32.59,-85.7
+Alabama,Southeast,Limestone County,5,1,83,17-May-13 13:00:00,CST-6,0,0,0,0,50.00K,EF0,2.04,50,34.76,-86.97
+Alabama,Southeast,Limestone County,5,1,83,17-May-13 13:45:00,CST-6,0,0,0,0,100.00K,EF0,0.15,50,34.95,-86.88
+Arkansas,Southeast,Crawford County,5,5,33,29-Jan-13 14:57:00,CST-6,0,0,0,0,20.00K,EF2,6.6,700,35.63,-94.47
+Arkansas,Southeast,Washington County,5,5,143,29-Jan-13 15:34:00,CST-6,0,0,0,0,500.00K,EF1,4.2,400,36.02,-94.06
+Arkansas,Southeast,Madison County,5,5,87,29-Jan-13 15:57:00,CST-6,0,0,0,0,250.00K,EF1,2,350,36.3,-93.7
+Arkansas,Southeast,Pulaski County,5,5,119,29-Jan-13 20:01:00,CST-6,0,0,0,0,10.00K,EF0,5.25,50,34.5,-92.1
+Arkansas,Southeast,Drew County,5,5,43,29-Jan-13 20:51:00,CST-6,0,0,0,0,20.00K,EF0,3.57,50,33.65,-91.74
+Arkansas,Southeast,Miller County,5,5,91,18-Feb-13 15:30:00,CST-6,0,0,0,0,0.00K,EF0,0.01,20,33.32,-93.75
+Arkansas,Southeast,Van Buren County,5,5,141,10-Apr-13 15:24:00,CST-6,5,0,0,0,3.50M,EF2,17.26,800,35.49,-92.57
+Arkansas,Southeast,Izard County,5,5,65,10-Apr-13 16:44:00,CST-6,0,0,0,0,350.00K,EF2,1.24,100,36.01,-92.1
+Arkansas,Southeast,Stone County,5,5,137,10-Apr-13 16:51:00,CST-6,0,0,0,0,200.00K,EF1,4.14,300,35.75,-92.28
+Arkansas,Southeast,Lincoln County,5,5,79,10-Apr-13 19:26:00,CST-6,0,0,0,0,500.00K,EF1,6.72,400,33.82,-91.68
+Arkansas,Southeast,Ashley County,5,5,3,18-Apr-13 14:08:00,CST-6,0,0,0,0,20.00K,EF1,4.25,150,33.04,-91.97
+Arkansas,Southeast,Chicot County,5,5,17,18-Apr-13 15:38:00,CST-6,0,0,0,0,0.00K,EF0,0.45,50,33.08,-91.23
+Arkansas,Southeast,Washington County,5,5,143,20-May-13 17:45:00,CST-6,0,0,0,0,100.00K,EF1,2.2,500,36.04,-94.54
+Arkansas,Southeast,Benton County,5,5,7,20-May-13 17:49:00,CST-6,0,0,0,0,50.00K,EF1,2.9,500,36.2,-94.57
+Arkansas,Southeast,Benton County,5,5,7,20-May-13 18:24:00,CST-6,0,0,0,0,50.00K,EF1,0.8,270,36.32,-93.93
+Arkansas,Southeast,Polk County,5,5,113,30-May-13 13:08:00,CST-6,0,0,0,0,35.00K,EF1,0.8,200,34.62,-94.37
+Arkansas,Southeast,Montgomery County,5,5,97,30-May-13 14:00:00,CST-6,2,0,0,0,250.00K,EF2,3.37,400,34.6,-93.83
+Arkansas,Southeast,Pike County,5,5,109,30-May-13 14:03:00,CST-6,0,0,0,0,10.00K,EF1,1.48,300,34.21,-93.57
+Arkansas,Southeast,Pike County,5,5,109,30-May-13 14:16:00,CST-6,0,0,0,0,5.00K,EF1,0.79,200,34.28,-93.49
+Arkansas,Southeast,Clark County,5,5,19,30-May-13 14:17:00,CST-6,5,0,0,0,125.00K,EF2,4.08,300,34.29,-93.48
+Arkansas,Southeast,Montgomery County,5,5,97,30-May-13 14:27:00,CST-6,0,0,0,0,10.00K,EF1,3.26,300,34.34,-93.44
+Arkansas,Southeast,Hot Spring County,5,5,59,30-May-13 14:34:00,CST-6,0,0,0,0,5.00K,EF1,0.87,100,34.38,-93.41
+Arkansas,Southeast,Garland County,5,5,51,30-May-13 14:35:00,CST-6,0,0,0,0,100.00K,EF1,8.7,300,34.6,-93.26
+Arkansas,Southeast,Polk County,5,5,113,30-May-13 14:44:00,CST-6,5,0,0,0,285.00K,EF2,5.2,800,34.41,-94.46
+Arkansas,Southeast,Garland County,5,5,51,30-May-13 14:49:00,CST-6,0,0,0,0,500.00K,EF1,7.16,300,34.47,-93.32
+Arkansas,Southeast,Polk County,5,5,113,30-May-13 15:32:00,CST-6,0,0,0,0,75.00K,EF1,2.43,200,34.28,-94.3
+Arkansas,Southeast,Montgomery County,5,5,97,30-May-13 17:10:00,CST-6,0,0,0,0,15.00K,EF1,3.22,200,34.45,-93.8
+Arkansas,Southeast,Saline County,5,5,125,30-May-13 18:46:00,CST-6,0,0,0,0,25.00K,EF1,1.72,250,34.79,-92.81
+Arkansas,Southeast,Pulaski County,5,5,119,30-May-13 20:13:00,CST-6,0,0,0,0,150.00K,EF1,0.16,150,34.89,-92.39
+Arkansas,Southeast,Grant County,5,5,53,30-May-13 20:36:00,CST-6,0,0,1,0,25.00K,EF1,0.36,200,34.44,-92.58
+Arkansas,Southeast,Monroe County,5,5,95,30-May-13 23:25:00,CST-6,0,0,0,0,25.00K,EF1,0.36,100,34.82,-91.25
+Arkansas,Southeast,Monroe County,5,5,95,30-May-13 23:50:00,CST-6,1,0,0,0,100.00K,EF1,2.29,200,34.89,-91.17
+Arkansas,Southeast,St. Francis County,5,5,123,30-May-13 23:55:00,CST-6,0,0,0,0,50.00K,EF1,1.02,100,34.91,-91.14
+Arkansas,Southeast,Madison County,5,5,87,01-Jun-13 00:54:00,CST-6,0,0,0,0,75.00K,EF1,1,250,35.84,-93.75
+Arkansas,Southeast,Crittenden County,5,5,35,05-Jun-13 19:02:00,CST-6,0,0,0,0,0.00K,EF0,0.39,25,,
+Arkansas,Southeast,Craighead County,5,5,31,31-Oct-13 18:37:00,CST-6,0,0,0,0,500.00K,EF1,3.69,300,35.75,-90.38
+Arkansas,Southeast,Jefferson County,5,5,69,20-Dec-13 18:33:00,CST-6,0,0,0,0,100.00K,EF0,1.48,150,34.43,-92.19
+Arkansas,Southeast,St. Francis County,5,5,123,21-Dec-13 15:13:00,CST-6,3,0,1,0,500.00K,EF2,15.57,300,34.91,-90.56
+Arkansas,Southeast,Chicot County,5,5,17,21-Dec-13 16:51:00,CST-6,2,0,0,0,100.00K,EF1,2.32,440,33.51,-91.36
+Arkansas,Southeast,Desha County,5,5,41,21-Dec-13 16:53:00,CST-6,0,0,0,0,100.00K,EF1,5.04,440,33.53,-91.33
+Arkansas,Southeast,Chicot County,5,5,17,21-Dec-13 16:58:00,CST-6,0,0,0,0,100.00K,EF1,0.85,440,33.55,-91.24
+Florida,Southeast,Palm Beach County,5,12,99,14-Feb-13 16:33:00,EST-5,0,0,0,0,1.00K,EF0,0.03,10,26.51,-80.08
+Florida,Southeast,Franklin County,5,12,37,25-Feb-13 13:22:00,EST-5,0,0,0,0,0.00K,EF0,0.01,20,29.68,-84.88
+Florida,Southeast,Hillsborough County,5,12,57,26-Feb-13 11:12:00,EST-5,0,0,0,0,35.00K,EF0,0.73,50,27.94,-82.46
+Florida,Southeast,Monroe County,5,12,87,05-Apr-13 01:10:00,EST-5,0,0,0,0,30.00K,EF0,1.56,80,24.64,-81.35
+Florida,Southeast,Franklin County,5,12,37,14-Apr-13 14:30:00,EST-5,0,0,0,0,20.00K,EF0,1.86,10,29.75,-84.89
+Florida,Southeast,Brevard County,5,12,9,14-Apr-13 19:42:00,EST-5,0,0,0,0,,EF0,0.33,100,28.38,-80.74
+Florida,Southeast,Brevard County,5,12,9,14-Apr-13 20:11:00,EST-5,0,0,0,0,,EF0,0.55,100,28.27,-80.75
+Florida,Southeast,Palm Beach County,5,12,99,30-Apr-13 12:56:00,EST-5,0,0,0,0,,EF0,0.14,10,26.58,-80.04
+Florida,Southeast,Palm Beach County,5,12,99,02-May-13 12:25:00,EST-5,0,0,0,0,,EF0,0.4,50,26.38,-80.08
+Florida,Southeast,St. Johns County,5,12,109,04-May-13 20:14:00,EST-5,0,0,0,0,500.00K,EF0,0.91,200,,
+Florida,Southeast,Palm Beach County,5,12,99,06-Jun-13 02:18:00,EST-5,0,0,0,0,,EF0,0.62,25,26.67,-80.67
+Florida,Southeast,Palm Beach County,5,12,99,06-Jun-13 05:45:00,EST-5,1,0,0,0,,EF1,2,100,26.78,-80.25
+Florida,Southeast,Broward County,5,12,11,06-Jun-13 07:05:00,EST-5,0,0,0,0,0.00K,EF0,8.02,25,26.22,-80.44
+Florida,Southeast,Palm Beach County,5,12,99,06-Jun-13 07:20:00,EST-5,0,0,0,0,0.00K,EF0,6.43,25,26.33,-80.44
+Florida,Southeast,Pinellas County,5,12,103,06-Jun-13 09:03:00,EST-5,0,0,0,0,20.00K,EF0,1.87,50,27.74,-82.71
+Florida,Southeast,Sarasota County,5,12,115,06-Jun-13 10:13:00,EST-5,0,0,0,0,10.00K,EF0,1.64,50,27.03,-82.41
+Florida,Southeast,Lee County,5,12,71,06-Jun-13 13:05:00,EST-5,0,0,0,0,0.00K,EF0,0.26,30,26.75,-81.76
+Florida,Southeast,Manatee County,5,12,81,06-Jun-13 13:49:00,EST-5,0,0,0,0,50.00K,EF0,1.51,50,27.33,-82.16
+Florida,Southeast,Hillsborough County,5,12,57,06-Jun-13 14:47:00,EST-5,0,0,0,0,36.00K,EF0,2.35,50,27.7,-82.34
+Florida,Southeast,Duval County,5,12,31,06-Jun-13 15:48:00,EST-5,0,0,0,0,,EF1,18.89,704,,
+Florida,Southeast,Suwannee County,5,12,121,06-Jun-13 16:07:00,EST-5,0,0,0,0,,EF0,3.17,100,,
+Florida,Southeast,Pinellas County,5,12,103,24-Jun-13 19:24:00,EST-5,0,0,0,0,,EF0,1.91,10,27.87,-82.61
+Florida,Southeast,Pinellas County,5,12,103,25-Jun-13 20:00:00,EST-5,0,0,0,0,2.00K,EF0,0.14,5,27.72,-82.73
+Florida,Southeast,Pinellas County,5,12,103,01-Jul-13 16:50:00,EST-5,0,0,0,0,10.00K,EF0,0.06,20,,
+Florida,Southeast,Okaloosa County,5,12,91,05-Jul-13 13:00:00,CST-6,0,0,0,0,5.00K,EF0,0.29,40,,
+Florida,Southeast,Manatee County,5,12,81,09-Jul-13 17:33:00,EST-5,1,0,0,0,20.00K,EF0,0.23,15,,
+Florida,Southeast,Manatee County,5,12,81,15-Jul-13 17:40:00,EST-5,0,0,0,0,0.00K,EF0,1.2,5,,
+Florida,Southeast,Broward County,5,12,11,19-Jul-13 14:45:00,EST-5,3,0,0,0,0.00K,EF0,0.1,10,26.24,-80.09
+Florida,Southeast,St. Johns County,5,12,109,21-Jul-13 13:30:00,EST-5,0,0,0,0,,EF0,0.05,20,29.8,-81.55
+Florida,Southeast,Escambia County,5,12,33,22-Jul-13 17:30:00,CST-6,0,0,0,0,4.50K,EF0,0.01,30,,
+Florida,Southeast,Broward County,5,12,11,23-Jul-13 11:45:00,EST-5,0,0,0,0,10.00K,EF0,0.01,10,26.09,-80.17
+Florida,Southeast,Hamilton County,5,12,47,31-Jul-13 18:35:00,EST-5,0,0,0,0,,EF0,0.01,10,30.42,-83.18
+Florida,Southeast,Duval County,5,12,31,01-Aug-13 15:15:00,EST-5,0,1,0,0,500.00K,EF1,1.93,100,30.35,-81.51
+Florida,Southeast,Palm Beach County,5,12,99,16-Sep-13 10:10:00,EST-5,0,0,0,0,1.00K,EF0,0.07,10,,
+Florida,Southeast,Hillsborough County,5,12,57,08-Oct-13 14:24:00,EST-5,0,0,0,0,0.00K,EF0,0.25,30,27.83,-82.52
+Florida,Southeast,Gulf County,5,12,45,26-Nov-13 09:00:00,CST-6,0,0,0,0,200.00K,EF1,2.92,50,30.09,-85.19
+Florida,Southeast,Liberty County,5,12,77,26-Nov-13 10:13:00,EST-5,0,0,0,0,0.00K,EF0,4.23,50,30.18,-85.12
+Florida,Southeast,Flagler County,5,12,35,14-Dec-13 19:00:00,EST-5,0,0,0,0,5.00M,EF1,9.52,150,29.52,-81.31
+Georgia,Southeast,Bartow County,5,13,15,30-Jan-13 11:12:00,EST-5,9,0,1,0,60.00M,EF3,5.06,900,34.34,-84.95
+Georgia,Southeast,Gordon County,5,13,129,30-Jan-13 11:21:00,EST-5,8,0,0,0,15.00M,EF3,16.72,900,34.4,-84.9
+Georgia,Southeast,Gilmer County,5,13,123,30-Jan-13 12:05:00,EST-5,0,0,0,0,25.00K,EF1,3.13,300,34.82,-84.43
+Georgia,Southeast,Fannin County,5,13,111,30-Jan-13 12:08:00,EST-5,1,0,0,0,160.00K,EF1,8.64,900,34.85,-84.39
+Georgia,Southeast,Baker County,5,13,7,30-Jan-13 18:09:00,EST-5,0,0,0,0,15.00K,EF0,1.19,25,31.31,-84.35
+Georgia,Southeast,Lee County,5,13,177,30-Jan-13 18:12:00,EST-5,0,0,0,0,1.00K,EF0,1.51,25,31.64,-84.16
+Georgia,Southeast,Glascock County,5,13,125,05-Mar-13 19:02:00,EST-5,0,0,0,0,250.00K,EF1,1.54,150,33.27,-82.61
+Georgia,Southeast,Meriwether County,5,13,199,18-Mar-13 17:10:00,EST-5,0,0,0,0,125.00K,EF2,9.33,300,33.14,-84.68
+Georgia,Southeast,Pike County,5,13,231,18-Mar-13 17:25:00,EST-5,0,0,0,0,160.00K,EF2,4.01,300,33.1,-84.52
+Georgia,Southeast,Burke County,5,13,33,18-Mar-13 20:01:00,EST-5,0,0,0,0,120.00K,EF1,5.85,220,32.96,-82.16
+Georgia,Southeast,Haralson County,5,13,143,11-Apr-13 17:23:00,EST-5,0,0,0,0,30.00K,EF0,5.7,150,33.67,-85.31
+Georgia,Southeast,Polk County,5,13,233,11-Apr-13 18:01:00,EST-5,0,0,0,0,15.00K,EF0,0.36,25,33.99,-85
+Georgia,Southeast,Lumpkin County,5,13,187,11-Apr-13 20:23:00,EST-5,0,0,0,0,300.00K,EF1,0.76,250,34.45,-83.93
+Georgia,Southeast,Hall County,5,13,139,11-Apr-13 20:24:00,EST-5,0,0,0,0,10.00K,EF1,0.88,250,34.46,-83.92
+Georgia,Southeast,Lumpkin County,5,13,187,11-Apr-13 20:25:00,EST-5,0,0,0,0,15.00K,EF1,2.43,250,34.47,-83.91
+Georgia,Southeast,Newton County,5,13,217,19-Apr-13 12:12:00,EST-5,1,0,0,0,500.00K,EF2,7.64,175,33.51,-83.75
+Georgia,Southeast,Morgan County,5,13,211,19-Apr-13 12:21:00,EST-5,0,0,0,0,2.50K,EF0,3.4,75,33.53,-83.68
+Georgia,Southeast,Coweta County,5,13,77,28-Apr-13 12:30:00,EST-5,0,0,0,0,60.00K,EF0,0.14,50,33.29,-84.76
+Georgia,Southeast,Henry County,5,13,151,28-Apr-13 14:20:00,EST-5,0,0,0,0,20.00K,EF0,1.05,100,33.47,-84.04
+Georgia,Southeast,Lincoln County,5,13,181,28-Apr-13 17:08:00,EST-5,0,0,0,0,12.00K,EF0,1.24,40,33.65,-82.46
+Georgia,Southeast,Cherokee County,5,13,57,13-Jun-13 18:00:00,EST-5,2,0,0,0,60.00K,EF1,8.5,75,34.27,-84.56
+Georgia,Southeast,Cherokee County,5,13,57,13-Jun-13 18:30:00,EST-5,0,0,0,0,2.50K,EF0,0.11,10,34.08,-84.52
+Georgia,Southeast,Cobb County,5,13,67,13-Jun-13 18:31:00,EST-5,0,0,0,0,300.00K,EF0,10.46,200,34.08,-84.52
+Georgia,Southeast,Fulton County,5,13,121,13-Jun-13 18:41:00,EST-5,0,0,0,0,60.00K,EF1,2.36,100,33.97,-84.38
+Georgia,Southeast,Heard County,5,13,149,18-Aug-13 18:41:00,EST-5,0,0,0,0,9.00K,EF1,0.4,15,33.41,-85.28
+Kentucky,Southeast,Livingston County,5,21,139,12-Jan-13 15:18:00,CST-6,0,0,0,0,100.00K,EF2,1.83,200,37.28,-88.37
+Kentucky,Southeast,Calloway County,5,21,35,29-Jan-13 23:36:00,CST-6,0,0,0,0,25.00K,EF0,2.12,100,36.59,-88.43
+Kentucky,Southeast,Christian County,5,21,47,30-Jan-13 01:36:00,CST-6,0,0,0,0,150.00K,EF2,2.06,200,36.68,-87.56
+Kentucky,Southeast,Christian County,5,21,47,30-Jan-13 01:39:00,CST-6,0,0,0,0,250.00K,EF1,7.92,225,36.73,-87.48
+Kentucky,Southeast,Muhlenberg County,5,21,177,30-Jan-13 02:00:00,CST-6,0,0,0,0,250.00K,EF2,5.14,325,37.06,-87.05
+Kentucky,Southeast,Warren County,5,21,227,30-Jan-13 03:38:00,CST-6,0,0,0,0,400.00K,EF2,2.96,250,37.03,-86.24
+Kentucky,Southeast,Edmonson County,5,21,61,30-Jan-13 03:42:00,CST-6,0,0,0,0,80.00K,EF1,2.77,100,37.07,-86.14
+Kentucky,Southeast,Barren County,5,21,9,30-Jan-13 03:49:00,CST-6,0,0,0,0,0.00K,EF1,0.34,50,36.94,-86.06
+Kentucky,Southeast,Meade County,5,21,163,30-Jan-13 04:05:00,EST-5,0,0,0,0,50.00K,EF0,1,200,37.94,-86.1
+Kentucky,Southeast,Jefferson County,5,21,111,30-Jan-13 04:18:00,EST-5,0,0,0,0,75.00K,EF0,2.23,215,38.12,-85.91
+Kentucky,Southeast,Marion County,5,21,155,30-Jan-13 05:44:00,EST-5,2,0,0,0,25.00K,EF0,0.12,50,37.44,-85.27
+Kentucky,Southeast,Pulaski County,5,21,199,30-Jan-13 06:30:00,EST-5,0,0,0,0,5.00K,EF0,0.5,150,37.06,-84.61
+Kentucky,Southeast,Pulaski County,5,21,199,24-Mar-13 16:40:00,EST-5,0,0,0,0,100.00K,EF1,0.36,80,37.07,-84.6
+Kentucky,Southeast,Graves County,5,21,83,18-Apr-13 19:24:00,CST-6,0,0,0,0,10.00K,EF0,0.33,100,36.55,-88.73
+Kentucky,Southeast,Graves County,5,21,83,18-Apr-13 19:31:00,CST-6,0,0,0,0,3.00K,EF0,3.17,100,36.61,-88.65
+Kentucky,Southeast,Graves County,5,21,83,18-Apr-13 19:54:00,CST-6,0,0,0,0,35.00K,EF0,2.21,150,36.86,-88.52
+Kentucky,Southeast,Marshall County,5,21,157,18-Apr-13 19:57:00,CST-6,0,0,0,0,8.00K,EF0,1.39,150,36.87,-88.49
+Kentucky,Southeast,Johnson County,5,21,115,09-Jun-13 16:54:00,EST-5,0,0,0,0,0.00K,EF0,0.1,50,37.91,-82.72
+Kentucky,Southeast,Lawrence County,5,21,127,09-Jun-13 16:55:00,EST-5,0,0,0,0,10.00K,EF0,0.39,50,37.91,-82.72
+Kentucky,Southeast,Logan County,5,21,141,10-Jun-13 12:40:00,CST-6,4,0,0,0,500.00K,EF2,9.03,325,,
+Kentucky,Southeast,Simpson County,5,21,213,10-Jun-13 13:00:00,CST-6,0,0,0,0,2.00K,EF1,4.87,200,,
+Kentucky,Southeast,Larue County,5,21,123,26-Jun-13 22:25:00,EST-5,0,0,0,0,500.00K,EF2,6.65,300,,
+Kentucky,Southeast,Trigg County,5,21,221,06-Jul-13 18:50:00,CST-6,0,0,0,0,5.00K,EF0,0.89,50,36.85,-87.93
+Kentucky,Southeast,Ballard County,5,21,7,31-Oct-13 19:14:00,CST-6,0,0,0,0,15.00K,EF1,0.92,200,36.94,-89.1
+Kentucky,Southeast,Carlisle County,5,21,39,31-Oct-13 19:25:00,CST-6,0,0,0,0,200.00K,EF1,5.01,200,36.9,-88.89
+Kentucky,Southeast,Ballard County,5,21,7,31-Oct-13 19:30:00,CST-6,0,0,0,0,15.00K,EF0,0.22,70,36.96,-88.94
+Kentucky,Southeast,Mccracken County,5,21,145,31-Oct-13 19:31:00,CST-6,0,0,0,0,3.00K,EF1,3.25,200,36.95,-88.82
+Kentucky,Southeast,Mccracken County,5,21,145,31-Oct-13 19:39:00,CST-6,0,0,0,0,100.00K,EF1,2.15,225,36.94,-88.71
+Kentucky,Southeast,Mccracken County,5,21,145,31-Oct-13 19:48:00,CST-6,0,0,0,0,15.00K,EF0,0.98,40,36.98,-88.52
+Kentucky,Southeast,Mccracken County,5,21,145,31-Oct-13 19:50:00,CST-6,0,0,0,0,35.00K,EF1,0.45,40,37.03,-88.54
+Kentucky,Southeast,Marshall County,5,21,157,31-Oct-13 20:03:00,CST-6,0,0,0,0,35.00K,EF0,0.5,50,37,-88.35
+Kentucky,Southeast,Mccracken County,5,21,145,17-Nov-13 14:05:00,CST-6,1,0,0,0,350.00K,EF2,13.42,200,37.1,-88.88
+Kentucky,Southeast,Livingston County,5,21,139,17-Nov-13 14:29:00,CST-6,0,0,0,0,400.00K,EF2,12.21,300,37.12,-88.44
+Kentucky,Southeast,Union County,5,21,225,17-Nov-13 14:41:00,CST-6,0,0,0,0,500.00K,EF3,10.31,200,37.7,-87.94
+Kentucky,Southeast,Lyon County,5,21,143,17-Nov-13 14:45:00,CST-6,0,0,0,0,10.00K,EF1,5.8,100,37.12,-88.21
+Kentucky,Southeast,Henderson County,5,21,101,17-Nov-13 14:55:00,CST-6,0,0,0,0,250.00K,EF2,3.81,200,37.73,-87.76
+Kentucky,Southeast,Caldwell County,5,21,33,17-Nov-13 15:18:00,CST-6,0,0,0,0,200.00K,EF1,3.16,200,37.15,-87.91
+Kentucky,Southeast,Hopkins County,5,21,107,17-Nov-13 15:32:00,CST-6,1,0,0,0,700.00K,EF3,8.23,200,37.15,-87.49
+Kentucky,Southeast,Muhlenberg County,5,21,177,17-Nov-13 15:50:00,CST-6,0,0,0,0,100.00K,EF1,0.85,80,37.16,-87.27
+Kentucky,Southeast,Butler County,5,21,31,17-Nov-13 16:10:00,CST-6,1,0,0,0,250.00K,EF1,5.46,200,37.16,-86.9
+Kentucky,Southeast,Calloway County,5,21,35,21-Dec-13 17:31:00,CST-6,0,0,0,0,2.00K,EF0,0.33,50,36.73,-88.32
+Kentucky,Southeast,Taylor County,5,21,217,21-Dec-13 23:07:00,EST-5,0,0,0,0,200.00K,EF1,5.53,300,37.33,-85.4
+Kentucky,Southeast,Harrison County,5,21,97,21-Dec-13 23:29:00,EST-5,0,0,0,0,100.00K,EF1,3.49,110,38.46,-84.38
+Kentucky,Southeast,Bourbon County,5,21,17,21-Dec-13 23:41:00,EST-5,0,0,0,0,150.00K,EF1,5.74,1.25,38.3,-84.25
+Louisiana,Southeast,St. Martin Parish,5,22,99,10-Jan-13 05:30:00,CST-6,0,0,0,0,200.00K,EF1,2.06,50,30.27,-91.9
+Louisiana,Southeast,Iberia Parish,5,22,45,10-Jan-13 05:51:00,CST-6,0,0,0,0,100.00K,EF1,5.53,50,29.95,-91.78
+Louisiana,Southeast,Iberville Parish,5,22,47,10-Jan-13 07:35:00,CST-6,0,0,0,0,15.00K,EF0,0.3,100,30.28,-91.21
+Louisiana,Southeast,De Soto Parish,5,22,31,12-Jan-13 23:30:00,CST-6,0,0,0,0,0.00K,EF1,1.35,300,32.18,-93.59
+Louisiana,Southeast,Red River Parish,5,22,81,12-Jan-13 23:32:00,CST-6,0,0,0,0,50.00K,EF1,3.81,300,32.2,-93.57
+Louisiana,Southeast,Caddo Parish,5,22,17,12-Jan-13 23:37:00,CST-6,2,0,0,0,70.00K,EF1,1.9,300,32.24,-93.53
+Louisiana,Southeast,St. Martin Parish,5,22,99,13-Jan-13 12:15:00,CST-6,0,0,0,0,100.00K,EF1,0.38,25,30.25,-91.83
+Louisiana,Southeast,East Baton Rouge Parish,5,22,33,13-Jan-13 13:19:00,CST-6,0,0,0,0,20.00K,EF0,8.21,40,30.65,-91.2
+Louisiana,Southeast,East Feliciana Parish,5,22,37,13-Jan-13 13:25:00,CST-6,0,0,0,0,20.00K,EF0,4.25,40,30.71,-91.08
+Louisiana,Southeast,West Carroll Parish,5,22,123,29-Jan-13 21:36:00,CST-6,0,0,0,0,250.00K,EF2,5.37,100,32.73,-91.57
+Louisiana,Southeast,De Soto Parish,5,22,31,18-Feb-13 14:38:00,CST-6,0,0,0,0,0.00K,EF0,2.03,10,31.93,-93.69
+Louisiana,Southeast,Caddo Parish,5,22,17,18-Feb-13 18:05:00,CST-6,0,0,0,0,0.00K,EF0,0.01,25,32.74,-93.89
+Louisiana,Southeast,Caddo Parish,5,22,17,18-Feb-13 18:08:00,CST-6,0,0,0,0,0.00K,EF0,0.01,20,32.72,-93.83
+Louisiana,Southeast,Vernon Parish,5,22,115,21-Feb-13 14:58:00,CST-6,0,0,0,0,5.00K,EF1,2.43,50,31.32,-93.11
+Louisiana,Southeast,Natchitoches Parish,5,22,69,21-Feb-13 15:07:00,CST-6,0,0,0,0,0.00K,EF1,0.01,30,31.38,-93.04
+Louisiana,Southeast,Concordia Parish,5,22,29,21-Feb-13 17:12:00,CST-6,0,0,0,0,75.00K,EF1,2.95,75,31.68,-91.55
+Louisiana,Southeast,Lafourche Parish,5,22,57,24-Feb-13 20:30:00,CST-6,0,0,0,0,50.00K,EF0,1.95,25,29.68,-90.56
+Louisiana,Southeast,Terrebonne Parish,5,22,109,25-Feb-13 16:41:00,CST-6,0,0,0,0,100.00K,EF1,0.95,30,29.57,-90.7
+Louisiana,Southeast,St. Tammany Parish,5,22,103,11-Apr-13 12:05:00,CST-6,0,0,0,0,100.00K,EF1,8.76,120,30.28,-89.89
+Louisiana,Southeast,East Carroll Parish,5,22,35,18-Apr-13 16:19:00,CST-6,0,0,0,0,50.00K,EF1,2.87,75,32.57,-91.2
+Louisiana,Southeast,Madison Parish,5,22,65,18-Apr-13 16:23:00,CST-6,0,0,0,0,0.00K,EF0,0.4,50,32.45,-91.22
+Louisiana,Southeast,Iberville Parish,5,22,47,24-Apr-13 08:55:00,CST-6,0,0,0,0,20.00K,EF0,0.38,75,30.3,-91.11
+Louisiana,Southeast,Jefferson Parish,5,22,51,24-Apr-13 10:48:00,CST-6,0,0,0,0,150.00K,EF1,0.9,50,30.04,-90.27
+Louisiana,Southeast,Jefferson Parish,5,22,51,24-Apr-13 10:52:00,CST-6,2,0,0,0,100.00K,EF0,2.23,75,30.01,-90.2
+Louisiana,Southeast,Bienville Parish,5,22,13,27-Apr-13 19:32:00,CST-6,0,0,0,0,0.00K,EF1,2.29,880,32.38,-93.09
+Louisiana,Southeast,Beauregard Parish,5,22,11,09-May-13 22:35:00,CST-6,0,0,0,0,10.00K,EF0,1.04,20,30.68,-93.47
+Louisiana,Southeast,Cameron Parish,5,22,23,10-May-13 00:45:00,CST-6,0,0,0,0,25.00K,EF0,0.89,75,30.02,-93.17
+Louisiana,Southeast,Caddo Parish,5,22,17,16-May-13 13:39:00,CST-6,1,0,0,0,250.00K,EF1,5.23,1400,32.45,-93.96
+Louisiana,Southeast,Caddo Parish,5,22,17,16-May-13 14:05:00,CST-6,0,0,0,0,0.00K,EF0,0.78,250,32.33,-93.81
+Louisiana,Southeast,De Soto Parish,5,22,31,16-May-13 14:06:00,CST-6,0,0,0,0,0.00K,EF0,1.7,350,32.33,-93.8
+Louisiana,Southeast,Jefferson Parish,5,22,51,19-Jun-13 14:45:00,CST-6,0,0,0,0,10.00K,EF0,0.3,60,29.24,-89.99
+Louisiana,Southeast,Red River Parish,5,22,81,27-Jul-13 23:33:00,CST-6,0,0,0,0,0.00K,EF1,9.97,1760,32.22,-93.45
+Louisiana,Southeast,Calcasieu Parish,5,22,19,31-Oct-13 08:46:00,CST-6,0,0,0,0,30.00K,EF1,7.12,150,30.34,-93.44
+Louisiana,Southeast,Beauregard Parish,5,22,11,31-Oct-13 09:00:00,CST-6,0,0,0,0,0.00K,EF0,2.48,75,30.48,-93.24
+Louisiana,Southeast,Beauregard Parish,5,22,11,31-Oct-13 09:00:00,CST-6,0,0,0,0,400.00K,EF1,7.89,150,30.42,-93.24
+Louisiana,Southeast,Allen Parish,5,22,3,31-Oct-13 09:14:00,CST-6,0,0,0,0,0.00K,EF0,0.82,75,30.52,-93.08
+Louisiana,Southeast,Calcasieu Parish,5,22,19,31-Oct-13 09:30:00,CST-6,0,0,0,0,10.00K,EF0,1.39,30,30.16,-93.3
+Louisiana,Southeast,Evangeline Parish,5,22,39,31-Oct-13 10:21:00,CST-6,0,0,0,0,3.00K,EF0,0.49,75,30.75,-92.43
+Louisiana,Southeast,Acadia Parish,5,22,1,31-Oct-13 10:41:00,CST-6,0,0,0,0,1.00K,EF0,0.5,70,30.28,-92.59
+Louisiana,Southeast,Union Parish,5,22,111,21-Dec-13 15:43:00,CST-6,0,0,0,0,1.00K,EF1,0.76,75,32.64,-92.38
+Mississippi,Southeast,Pearl River County,5,28,109,13-Jan-13 16:45:00,CST-6,0,0,0,0,40.00K,EF1,1,150,30.81,-89.5
+Mississippi,Southeast,Wayne County,5,28,153,13-Jan-13 18:15:00,CST-6,0,0,0,0,100.00K,EF1,3.35,200,31.59,-88.53
+Mississippi,Southeast,Bolivar County,5,28,11,29-Jan-13 18:48:00,CST-6,0,0,0,0,5.00K,EF0,0.45,50,33.59,-91.02
+Mississippi,Southeast,Bolivar County,5,28,11,29-Jan-13 23:10:00,CST-6,0,0,0,0,175.00K,EF1,5.53,150,33.68,-90.8
+Mississippi,Southeast,Monroe County,5,28,95,30-Jan-13 04:25:00,CST-6,0,0,0,0,50.00K,EF1,6.99,300,33.84,-88.35
+Mississippi,Southeast,Lawrence County,5,28,77,10-Feb-13 15:39:00,CST-6,0,0,0,0,75.00K,EF1,1.58,140,31.47,-90.01
+Mississippi,Southeast,Marion County,5,28,91,10-Feb-13 16:23:00,CST-6,3,0,0,0,300.00K,EF2,16.73,400,31.11,-89.92
+Mississippi,Southeast,Lamar County,5,28,73,10-Feb-13 16:49:00,CST-6,0,0,0,0,75.00K,EF2,1.4,400,31.21,-89.66
+Mississippi,Southeast,Lamar County,5,28,73,10-Feb-13 17:03:00,CST-6,8,0,0,0,13.50M,EF4,7.55,1320,31.28,-89.47
+Mississippi,Southeast,Forrest County,5,28,35,10-Feb-13 17:15:00,CST-6,63,0,0,0,25.00M,EF3,12.3,1320,31.32,-89.35
+Mississippi,Southeast,Perry County,5,28,111,10-Feb-13 17:34:00,CST-6,0,0,0,0,25.00K,EF1,1.8,100,31.35,-89.15
+Mississippi,Southeast,Wayne County,5,28,153,10-Feb-13 18:46:00,CST-6,0,0,0,0,100.00K,EF1,3.15,250,31.53,-88.67
+Mississippi,Southeast,Wayne County,5,28,153,10-Feb-13 19:14:00,CST-6,0,0,0,0,50.00K,EF1,3.11,200,31.63,-88.54
+Mississippi,Southeast,Jefferson Davis County,5,28,65,21-Feb-13 22:31:00,CST-6,0,0,0,0,175.00K,EF2,6.27,400,31.45,-89.86
+Mississippi,Southeast,Covington County,5,28,31,21-Feb-13 23:00:00,CST-6,0,0,0,0,15.00K,EF0,0.67,75,31.57,-89.59
+Mississippi,Southeast,Kemper County,5,28,69,11-Apr-13 10:35:00,CST-6,5,0,1,0,700.00K,EF3,23.81,1320,32.64,-88.87
+Mississippi,Southeast,Noxubee County,5,28,103,11-Apr-13 11:04:00,CST-6,4,0,0,0,500.00K,EF3,30.17,1320,32.93,-88.64
+Mississippi,Southeast,Issaquena County,5,28,55,18-Apr-13 16:03:00,CST-6,0,0,0,0,25.00K,EF1,1.98,50,32.94,-91.06
+Mississippi,Southeast,Washington County,5,28,151,18-Apr-13 16:09:00,CST-6,0,0,0,0,0.00K,EF0,0.27,50,33.32,-90.86
+Mississippi,Southeast,Sharkey County,5,28,125,18-Apr-13 16:21:00,CST-6,0,0,0,0,0.00K,EF0,1.55,50,33.03,-90.87
+Mississippi,Southeast,Sharkey County,5,28,125,18-Apr-13 16:29:00,CST-6,0,0,0,0,5.00K,EF0,0.27,25,33.07,-90.74
+Mississippi,Southeast,Panola County,5,28,107,27-Apr-13 20:55:00,CST-6,0,0,0,0,100.00K,EF2,0.79,75,34.18,-89.91
+Mississippi,Southeast,Sunflower County,5,28,133,20-Sep-13 18:24:00,CST-6,0,0,0,0,25.00K,EF0,0.42,100,,
+Mississippi,Southeast,Simpson County,5,28,127,20-Sep-13 20:57:00,CST-6,0,0,0,0,0.00K,EF0,3.23,50,,
+Mississippi,Southeast,Adams County,5,28,1,20-Sep-13 22:30:00,CST-6,0,0,0,0,125.00K,EF2,1.21,200,,
+Mississippi,Southeast,Adams County,5,28,1,20-Sep-13 22:54:00,CST-6,0,0,0,0,2.00K,EF1,0.32,200,,
+Mississippi,Southeast,Rankin County,5,28,121,21-Sep-13 01:53:00,CST-6,0,0,0,0,70.00K,EF1,0.98,100,,
+Mississippi,Southeast,Smith County,5,28,129,21-Sep-13 02:33:00,CST-6,0,0,0,0,50.00K,EF1,0.73,50,,
+Mississippi,Southeast,Warren County,5,28,149,20-Dec-13 16:41:00,CST-6,0,0,0,0,5.00K,EF0,0.24,50,32.16,-90.77
+Mississippi,Southeast,Hinds County,5,28,49,20-Dec-13 16:56:00,CST-6,0,0,0,0,0.00K,EF0,0.14,30,32.2,-90.7
+Mississippi,Southeast,Bolivar County,5,28,11,21-Dec-13 16:59:00,CST-6,0,0,0,0,500.00K,EF2,32.58,440,33.55,-91.23
+Mississippi,Southeast,Coahoma County,5,28,27,21-Dec-13 17:19:00,CST-6,2,0,1,0,1.00M,EF2,10.07,300,34.15,-90.77
+Mississippi,Southeast,Tunica County,5,28,143,21-Dec-13 17:40:00,CST-6,1,0,0,0,250.00K,EF1,2.67,200,34.45,-90.42
+Mississippi,Southeast,Panola County,5,28,107,21-Dec-13 17:57:00,CST-6,0,0,0,0,50.00K,EF1,4.3,200,34.52,-90.09
+Mississippi,Southeast,Tate County,5,28,137,21-Dec-13 18:00:00,CST-6,0,0,0,0,125.00K,EF1,1.87,200,34.55,-90.03
+Mississippi,Southeast,Tate County,5,28,137,21-Dec-13 18:13:00,CST-6,0,0,0,0,50.00K,EF0,0.72,100,34.74,-89.74
+North Carolina,Southeast,Johnston County,5,37,101,26-Feb-13 20:18:00,EST-5,0,0,0,0,45.00K,EF0,0.49,75,35.58,-78.25
+North Carolina,Southeast,Brunswick County,5,37,19,07-Jun-13 00:22:00,EST-5,0,0,0,0,10.00K,EF0,0.09,20,33.94,-78.25
+North Carolina,Southeast,Onslow County,5,37,133,10-Jun-13 19:05:00,EST-5,0,0,0,0,0.50K,EF1,0.57,50,34.81,-77.41
+North Carolina,Southeast,Haywood County,5,37,87,13-Jun-13 15:10:00,EST-5,1,0,0,0,0.00K,EF1,1.88,100,35.74,-83.18
+North Carolina,Southeast,Franklin County,5,37,69,18-Jun-13 17:30:00,EST-5,0,0,0,0,150.00K,EF0,1.25,150,35.98,-78.39
+North Carolina,Southeast,Person County,5,37,145,02-Jul-13 11:25:00,EST-5,0,0,0,0,100.00K,EF0,0.43,180,36.51,-79.08
+North Carolina,Southeast,Stokes County,5,37,169,21-Sep-13 16:58:00,EST-5,0,0,0,0,85.00K,EF1,0.53,90,,
+North Carolina,Southeast,Brunswick County,5,37,19,22-Sep-13 03:39:00,EST-5,0,0,0,0,10.00K,EF0,0.21,20,,
+North Carolina,Southeast,Carteret County,5,37,31,26-Nov-13 22:15:00,EST-5,2,0,0,0,2.50M,EF2,0.36,200,34.7,-76.77
+North Carolina,Southeast,Carteret County,5,37,31,26-Nov-13 22:17:00,EST-5,0,0,0,0,4.00M,EF1,3.22,200,34.72,-76.76
+South Carolina,Southeast,Fairfield County,5,45,39,28-Apr-13 18:42:00,EST-5,0,0,0,0,10.00K,EF0,0.25,50,34.31,-80.91
+South Carolina,Southeast,Anderson County,5,45,7,02-Jun-13 15:09:00,EST-5,0,0,0,0,150.00K,EF1,4.82,125,34.49,-82.79
+South Carolina,Southeast,Orangeburg County,5,45,75,04-Jun-13 14:29:00,EST-5,0,0,0,0,340.00K,EF1,2.28,220,33.33,-80.59
+South Carolina,Southeast,Dorchester County,5,45,35,04-Jun-13 14:39:00,EST-5,0,0,0,0,,EF1,3.12,264,33.31,-80.56
+South Carolina,Southeast,Dorchester County,5,45,35,04-Jun-13 14:41:00,EST-5,0,0,0,0,,EF1,2.06,176,33.3,-80.56
+South Carolina,Southeast,Greenville County,5,45,45,10-Jun-13 12:20:00,EST-5,0,0,0,0,5.00K,EF0,1.34,80,34.72,-82.42
+South Carolina,Southeast,Horry County,5,45,51,29-Jun-13 15:15:00,EST-5,0,0,0,0,35.00K,EF0,0.11,30,33.65,-79.04
+South Carolina,Southeast,Horry County,5,45,51,29-Jun-13 15:26:00,EST-5,0,0,0,0,15.00K,EF0,0.07,50,33.7,-79.01
+South Carolina,Southeast,Florence County,5,45,41,02-Jul-13 17:59:00,EST-5,9,0,0,0,88.00K,EF1,3.08,90,,
+South Carolina,Southeast,Beaufort County,5,45,13,13-Jul-13 08:01:00,EST-5,0,0,0,0,0.00K,EF0,0.01,25,32.38,-80.46
+Tennessee,Southeast,Rutherford County,5,47,149,13-Jan-13 15:36:00,CST-6,0,0,0,0,25.00K,EF0,1.59,100,35.72,-86.67
+Tennessee,Southeast,Humphreys County,5,47,85,30-Jan-13 02:12:00,CST-6,0,0,0,0,200.00K,EF1,2.32,150,35.97,-87.8
+Tennessee,Southeast,Hickman County,5,47,81,30-Jan-13 02:26:00,CST-6,0,0,0,0,500.00K,EF2,2.98,300,35.78,-87.65
+Tennessee,Southeast,Wayne County,5,47,181,30-Jan-13 02:32:00,CST-6,0,0,0,0,150.00K,EF1,7.53,100,35.43,-87.78
+Tennessee,Southeast,Lewis County,5,47,101,30-Jan-13 02:40:00,CST-6,0,0,0,0,300.00K,EF1,7.7,100,35.47,-87.66
+Tennessee,Southeast,Dickson County,5,47,43,30-Jan-13 02:45:00,CST-6,0,0,0,0,75.00K,EF0,2.82,100,36.08,-87.22
+Tennessee,Southeast,Cheatham County,5,47,21,30-Jan-13 02:47:00,CST-6,0,0,0,0,25.00K,EF0,4.43,100,36.09,-87.17
+Tennessee,Southeast,Cheatham County,5,47,21,30-Jan-13 02:52:00,CST-6,1,0,0,0,50.00K,EF0,0.24,75,36.28,-87.06
+Tennessee,Southeast,Robertson County,5,47,147,30-Jan-13 02:59:00,CST-6,0,0,0,0,750.00K,EF2,4.97,200,36.44,-86.91
+Tennessee,Southeast,Davidson County,5,47,37,30-Jan-13 03:00:00,CST-6,0,0,0,0,10.00K,EF0,5.55,50,36.33,-86.92
+Tennessee,Southeast,Williamson County,5,47,187,30-Jan-13 03:01:00,CST-6,0,0,0,0,60.00K,EF0,0.92,75,35.88,-87.12
+Tennessee,Southeast,Robertson County,5,47,147,30-Jan-13 03:05:00,CST-6,0,0,0,0,250.00K,EF1,5.75,150,36.48,-86.81
+Tennessee,Southeast,Davidson County,5,47,37,30-Jan-13 03:10:00,CST-6,0,0,0,0,70.00K,EF0,2.33,75,36.36,-86.77
+Tennessee,Southeast,Robertson County,5,47,147,30-Jan-13 03:12:00,CST-6,1,0,0,0,750.00K,EF1,4.85,100,36.51,-86.72
+Tennessee,Southeast,Davidson County,5,47,37,30-Jan-13 03:12:00,CST-6,1,0,0,0,150.00K,EF0,3.2,75,36.21,-86.77
+Tennessee,Southeast,Sumner County,5,47,165,30-Jan-13 03:12:00,CST-6,0,0,0,0,120.00K,EF0,9.32,75,36.36,-86.73
+Tennessee,Southeast,Sumner County,5,47,165,30-Jan-13 03:16:00,CST-6,0,0,0,0,19.00K,EF0,1.13,50,36.53,-86.63
+Tennessee,Southeast,Williamson County,5,47,187,30-Jan-13 03:18:00,CST-6,0,0,0,0,100.00K,EF0,2,75,35.93,-86.86
+Tennessee,Southeast,Sumner County,5,47,165,30-Jan-13 03:23:00,CST-6,0,0,0,0,225.00K,EF0,10.61,125,36.33,-86.55
+Tennessee,Southeast,Wilson County,5,47,189,30-Jan-13 03:25:00,CST-6,0,0,0,0,1.00M,EF2,4.53,150,36.22,-86.55
+Tennessee,Southeast,Sumner County,5,47,165,30-Jan-13 03:34:00,CST-6,0,0,0,0,65.00K,EF0,3.63,100,36.4,-86.34
+Tennessee,Southeast,Sumner County,5,47,165,30-Jan-13 03:37:00,CST-6,0,0,0,0,45.00K,EF0,5.63,50,36.46,-86.34
+Tennessee,Southeast,Wilson County,5,47,189,30-Jan-13 03:40:00,CST-6,0,0,0,0,800.00K,EF1,3.68,150,36.28,-86.33
+Tennessee,Southeast,Williamson County,5,47,187,30-Jan-13 03:41:00,CST-6,0,0,0,0,80.00K,EF0,0.29,50,35.74,-86.7
+Tennessee,Southeast,Rutherford County,5,47,149,30-Jan-13 03:42:00,CST-6,0,0,0,0,450.00K,EF1,4.3,150,35.74,-86.7
+Tennessee,Southeast,Trousdale County,5,47,169,30-Jan-13 03:42:00,CST-6,0,0,0,0,,EF0,0.21,50,36.47,-86.24
+Tennessee,Southeast,Trousdale County,5,47,169,30-Jan-13 03:43:00,CST-6,0,0,0,0,100.00K,EF1,1.45,150,36.3,-86.27
+Tennessee,Southeast,Wilson County,5,47,189,30-Jan-13 03:45:00,CST-6,0,0,0,0,125.00K,EF1,2.71,150,36.31,-86.25
+Tennessee,Southeast,Macon County,5,47,111,30-Jan-13 03:47:00,CST-6,0,0,0,0,85.00K,EF0,0.97,50,36.49,-86.15
+Tennessee,Southeast,Trousdale County,5,47,169,30-Jan-13 03:48:00,CST-6,0,0,0,0,15.00K,EF1,2.19,150,36.33,-86.2
+Tennessee,Southeast,Macon County,5,47,111,30-Jan-13 04:01:00,CST-6,0,0,0,0,175.00K,EF0,1.53,75,36.55,-85.92
+Tennessee,Southeast,Cannon County,5,47,15,30-Jan-13 04:29:00,CST-6,0,0,0,0,75.00K,EF0,6.65,200,35.84,-86.08
+Tennessee,Southeast,Lincoln County,5,47,103,30-Jan-13 04:46:00,CST-6,0,0,0,0,0.00K,EF1,5.28,250,35.1,-86.78
+Tennessee,Southeast,Coffee County,5,47,31,30-Jan-13 05:26:00,CST-6,0,0,0,0,50.00K,EF0,4.57,75,35.49,-86.08
+Tennessee,Southeast,Claiborne County,5,47,25,03-Mar-13 18:04:00,EST-5,0,0,0,0,,EF1,1.45,35,36.43,-83.6
+Tennessee,Southeast,Humphreys County,5,47,85,18-Mar-13 06:40:00,CST-6,0,0,0,0,50.00K,EF1,1.49,150,36.19,-87.63
+Tennessee,Southeast,Houston County,5,47,83,18-Mar-13 06:42:00,CST-6,0,0,0,0,25.00K,EF1,2.6,150,36.19,-87.6
+Tennessee,Southeast,Dickson County,5,47,43,18-Mar-13 06:45:00,CST-6,0,0,0,0,250.00K,EF1,6.53,150,36.2,-87.56
+Tennessee,Southeast,Maury County,5,47,119,18-Mar-13 10:22:00,CST-6,0,0,0,0,50.00K,EF0,3.7,50,35.5,-86.95
+Tennessee,Southeast,Bedford County,5,47,3,18-Mar-13 10:47:00,CST-6,0,0,0,0,50.00K,EF0,3.89,50,35.58,-86.66
+Tennessee,Southeast,Rutherford County,5,47,149,18-Mar-13 11:12:00,CST-6,0,0,0,0,50.00K,EF0,3.8,100,35.71,-86.35
+Tennessee,Southeast,Lincoln County,5,47,103,19-Apr-13 01:03:00,CST-6,0,0,0,0,,EF1,3.1,400,35.22,-86.44
+Tennessee,Southeast,Moore County,5,47,127,19-Apr-13 01:09:00,CST-6,0,0,0,0,,EF1,4.17,400,35.23,-86.39
+Tennessee,Southeast,Fayette County,5,47,47,27-Apr-13 20:13:00,CST-6,1,0,0,0,100.00K,EF1,1.12,250,35.37,-89.5
+Tennessee,Southeast,Fayette County,5,47,47,27-Apr-13 20:13:00,CST-6,1,0,0,0,100.00K,EF1,1.12,250,35.37,-89.5
+Tennessee,Southeast,Tipton County,5,47,167,31-May-13 05:05:00,CST-6,0,0,0,0,180.00K,EF1,0.83,250,35.62,-89.7
+Tennessee,Southeast,Franklin County,5,47,51,09-Jun-13 17:09:00,CST-6,0,0,0,0,,EF1,2.85,150,,
+Tennessee,Southeast,Franklin County,5,47,51,09-Jun-13 17:32:00,CST-6,0,0,0,0,,EF0,0.29,50,,
+Tennessee,Southeast,Jefferson County,5,47,89,13-Jun-13 14:11:00,EST-5,0,0,0,0,50.00K,EF1,2,120,36.13,-83.63
+Tennessee,Southeast,Sevier County,5,47,155,13-Jun-13 14:55:00,EST-5,0,0,0,0,50.00K,EF1,0.5,150,35.79,-83.34
+Tennessee,Southeast,Obion County,5,47,131,05-Oct-13 17:52:00,CST-6,0,0,0,0,0.00K,EF0,0.18,25,36.23,-89.25
+Tennessee,Southeast,Robertson County,5,47,147,17-Nov-13 18:31:00,CST-6,0,0,0,0,200.00K,EF1,0.97,100,36.59,-86.69
+Tennessee,Southeast,Sumner County,5,47,165,17-Nov-13 18:42:00,CST-6,0,0,0,0,200.00K,EF0,0.35,50,36.59,-86.52
+Tennessee,Southeast,Lincoln County,5,47,103,17-Nov-13 21:37:00,CST-6,0,0,0,0,,EF0,0.57,25,35.22,-86.64
+Virginia,Southeast,Spotsylvania County,5,51,177,19-Apr-13 17:36:00,EST-5,0,0,0,0,40.00K,EF1,0.75,150,38.3,-78.49
+Virginia,Southeast,Amelia County,5,51,7,10-Jun-13 17:13:00,EST-5,0,0,0,0,0.00K,EF0,100,25,37.28,-78.13
+Virginia,Southeast,Spotsylvania County,5,51,177,13-Jun-13 13:26:00,EST-5,0,0,0,0,0.00K,EF0,6.94,50,38.2,-77.66
+Virginia,Southeast,Spotsylvania County,5,51,177,13-Jun-13 13:35:00,EST-5,0,0,0,0,10.00K,EF0,2.45,75,38.1,-77.54
+Virginia,Southeast,King George County,5,51,99,13-Jun-13 13:57:00,EST-5,0,0,0,0,0.00K,EF0,7.14,50,38.18,-77.18
+Arizona,Southwest,Navajo County,6,4,17,15-Jul-13 19:00:00,MST-7,0,0,0,0,0.00K,EF0,0.1,10,35.03,-110.69
+New Mexico,Southwest,San Juan County,6,35,45,10-Sep-13 22:45:00,MST-7,0,0,0,0,0.00K,EF0,0.21,10,,
+New Mexico,Southwest,San Juan County,6,35,45,18-Sep-13 12:44:00,MST-7,0,0,0,0,0.00K,EF0,0.15,20,,
+Oklahoma,Southwest,Logan County,6,40,83,29-Jan-13 06:48:00,CST-6,0,0,0,0,200.00K,EF1,1.1,40,36.16,-97.46
+Oklahoma,Southwest,Sequoyah County,6,40,135,29-Jan-13 14:55:00,CST-6,0,0,0,0,0.00K,EF1,2.4,400,35.6,-94.5
+Oklahoma,Southwest,Muskogee County,6,40,101,30-Mar-13 20:35:00,CST-6,0,0,0,0,25.00K,EF0,1,200,35.81,-95.3
+Oklahoma,Southwest,Wagoner County,6,40,145,30-Mar-13 20:36:00,CST-6,0,0,0,0,5.00K,EF0,0.1,120,35.81,-95.29
+Oklahoma,Southwest,Sequoyah County,6,40,135,30-Mar-13 22:20:00,CST-6,0,0,0,0,100.00K,EF1,0.5,175,35.43,-94.81
+Oklahoma,Southwest,Comanche County,6,40,31,17-Apr-13 17:50:00,CST-6,0,0,0,0,200.00K,EF0,3.41,100,34.58,-98.56
+Oklahoma,Southwest,Tillman County,6,40,141,17-Apr-13 19:35:00,CST-6,0,0,0,0,500.00K,EF1,5.21,200,34.27,-98.8
+Oklahoma,Southwest,Tulsa County,6,40,143,17-Apr-13 22:50:00,CST-6,0,0,0,0,0.00K,EF0,0.5,50,35.87,-96.02
+Oklahoma,Southwest,Tulsa County,6,40,143,17-Apr-13 23:01:00,CST-6,0,0,0,0,50.00K,EF0,1.3,250,35.97,-95.84
+Oklahoma,Southwest,Tulsa County,6,40,143,17-Apr-13 23:03:00,CST-6,0,0,0,0,250.00K,EF1,2.1,400,35.97,-95.85
+Oklahoma,Southwest,Rogers County,6,40,131,17-Apr-13 23:28:00,CST-6,0,0,0,0,40.00K,EF0,0.9,125,36.1,-95.53
+Oklahoma,Southwest,Rogers County,6,40,131,17-Apr-13 23:29:00,CST-6,0,0,0,0,100.00K,EF1,1.8,140,36.12,-95.52
+Oklahoma,Southwest,Rogers County,6,40,131,17-Apr-13 23:33:00,CST-6,0,0,0,0,80.00K,EF1,1.9,180,36.15,-95.5
+Oklahoma,Southwest,Mayes County,6,40,97,17-Apr-13 23:48:00,CST-6,0,0,0,0,30.00K,EF1,6.5,100,36.25,-95.29
+Oklahoma,Southwest,Mayes County,6,40,97,18-Apr-13 00:07:00,CST-6,2,0,0,0,750.00K,EF1,3.5,350,36.38,-95.08
+Oklahoma,Southwest,Delaware County,6,40,41,18-Apr-13 00:30:00,CST-6,0,0,0,0,400.00K,EF2,8,800,36.49,-94.78
+Oklahoma,Southwest,Dewey County,6,40,43,26-Apr-13 17:31:00,CST-6,0,0,0,0,0.00K,EF0,0.16,50,35.95,-98.99
+Oklahoma,Southwest,Grady County,6,40,51,08-May-13 19:18:00,CST-6,0,0,0,0,,EF0,0.1,50,35.27,-97.89
+Oklahoma,Southwest,Kiowa County,6,40,75,09-May-13 16:00:00,CST-6,0,0,0,0,0.00K,EF0,0.1,10,34.66,-98.95
+Oklahoma,Southwest,Jackson County,6,40,65,09-May-13 17:21:00,CST-6,0,0,0,0,0.00K,EF0,0.1,20,34.52,-99.39
+Oklahoma,Southwest,Pontotoc County,6,40,123,15-May-13 17:34:00,CST-6,0,0,0,0,20.00K,EF0,0.5,50,34.78,-96.71
+Oklahoma,Southwest,Oklahoma County,6,40,109,19-May-13 15:22:00,CST-6,0,0,0,0,,EF1,4.5,900,35.62,-97.48
+Oklahoma,Southwest,Oklahoma County,6,40,109,19-May-13 15:33:00,CST-6,0,0,0,0,,EF1,0.54,200,35.65,-97.36
+Oklahoma,Southwest,Oklahoma County,6,40,109,19-May-13 15:41:00,CST-6,0,0,0,0,,EF2,5,1000,35.69,-97.23
+Oklahoma,Southwest,Logan County,6,40,83,19-May-13 15:54:00,CST-6,0,0,0,0,,EF2,0.84,1000,35.72,-97.15
+Oklahoma,Southwest,Lincoln County,6,40,81,19-May-13 15:56:00,CST-6,4,0,0,0,,EF3,15,1200,35.73,-97.14
+Oklahoma,Southwest,Cleveland County,6,40,27,19-May-13 17:00:00,CST-6,4,0,0,0,,EF3,10.5,1150,35.25,-97.3
+Oklahoma,Southwest,Pottawatomie County,6,40,125,19-May-13 17:20:00,CST-6,6,0,2,0,,EF4,12.5,1500,35.31,-97.14
+Oklahoma,Southwest,Pottawatomie County,6,40,125,19-May-13 17:40:00,CST-6,0,0,0,0,,EF0,2,30,35.34,-97.02
+Oklahoma,Southwest,Creek County,6,40,37,19-May-13 17:47:00,CST-6,0,0,0,0,0.00K,EF0,0.2,50,35.93,-96.61
+Oklahoma,Southwest,Pottawatomie County,6,40,125,19-May-13 17:59:00,CST-6,0,0,0,0,,EF0,0.5,250,35.46,-96.8
+Oklahoma,Southwest,Lincoln County,6,40,81,19-May-13 18:00:00,CST-6,0,0,0,0,,EF2,6.75,450,35.46,-96.79
+Oklahoma,Southwest,Lincoln County,6,40,81,19-May-13 18:17:00,CST-6,0,0,0,0,,EF0,2.12,300,35.53,-96.65
+Oklahoma,Southwest,Okfuskee County,6,40,107,19-May-13 18:20:00,CST-6,0,0,0,0,50.00K,EF1,10.9,700,35.55,-96.62
+Oklahoma,Southwest,Creek County,6,40,37,19-May-13 18:38:00,CST-6,0,0,0,0,0.00K,EF1,1.4,200,35.64,-96.46
+Oklahoma,Southwest,Mcclain County,6,40,87,20-May-13 13:56:00,CST-6,5,0,0,0,,EF4,1.85,1280,35.28,-97.63
+Oklahoma,Southwest,Stephens County,6,40,137,20-May-13 13:58:00,CST-6,0,0,0,0,0.00K,EF0,1,30,34.56,-97.91
+Oklahoma,Southwest,Cleveland County,6,40,27,20-May-13 14:04:00,CST-6,207,0,24,0,2.00B,EF5,12,1900,35.3,-97.61
+Oklahoma,Southwest,Stephens County,6,40,137,20-May-13 14:07:00,CST-6,0,0,0,0,20.00K,EF1,4,200,34.6,-97.93
+Oklahoma,Southwest,Osage County,6,40,113,20-May-13 14:51:00,CST-6,0,0,0,0,5.00K,EF1,4.5,500,36.42,-96.08
+Oklahoma,Southwest,Washington County,6,40,147,20-May-13 15:01:00,CST-6,0,0,0,0,0.00K,EF1,2,500,36.44,-96
+Oklahoma,Southwest,Washington County,6,40,147,20-May-13 15:21:00,CST-6,0,0,0,0,10.00K,EF1,4.5,400,36.49,-95.9
+Oklahoma,Southwest,Washington County,6,40,147,20-May-13 15:33:00,CST-6,0,0,0,0,0.00K,EF0,0.6,150,36.55,-95.82
+Oklahoma,Southwest,Rogers County,6,40,131,20-May-13 15:34:00,CST-6,0,0,0,0,30.00K,EF1,5.4,500,36.55,-95.81
+Oklahoma,Southwest,Lincoln County,6,40,81,20-May-13 15:40:00,CST-6,0,0,0,0,0.00K,EF0,1.21,100,35.56,-96.81
+Oklahoma,Southwest,Ottawa County,6,40,115,20-May-13 17:25:00,CST-6,0,0,0,0,1.00M,EF2,10,800,36.81,-94.85
+Oklahoma,Southwest,Adair County,6,40,1,20-May-13 17:32:00,CST-6,0,0,0,0,0.00K,EF1,2,150,35.95,-94.76
+Oklahoma,Southwest,Ottawa County,6,40,115,20-May-13 17:32:00,CST-6,0,0,0,0,150.00K,EF1,8.5,600,36.81,-94.77
+Oklahoma,Southwest,Adair County,6,40,1,20-May-13 17:35:00,CST-6,0,0,0,0,15.00K,EF1,2.5,300,35.94,-94.73
+Oklahoma,Southwest,Adair County,6,40,1,20-May-13 17:40:00,CST-6,0,0,0,0,125.00K,EF1,5.8,500,35.98,-94.61
+Oklahoma,Southwest,Coal County,6,40,29,20-May-13 17:49:00,CST-6,0,0,0,0,30.00K,EF1,5.9,250,34.45,-96.28
+Oklahoma,Southwest,Le Flore County,6,40,79,20-May-13 19:33:00,CST-6,0,0,0,0,0.00K,EF0,0.7,260,35.14,-94.88
+Oklahoma,Southwest,Le Flore County,6,40,79,20-May-13 19:44:00,CST-6,0,0,0,0,5.00K,EF1,8.5,500,35.07,-94.59
+Oklahoma,Southwest,Beaver County,6,40,7,28-May-13 14:08:00,CST-6,0,0,0,0,0.00K,EF0,0.82,25,36.8,-100.33
+Oklahoma,Southwest,Beaver County,6,40,7,28-May-13 14:29:00,CST-6,0,0,0,0,0.00K,EF0,1.77,25,36.9,-100.43
+Oklahoma,Southwest,Canadian County,6,40,17,29-May-13 16:00:00,CST-6,0,0,0,0,20.00K,EF1,0.2,20,35.6,-98.23
+Oklahoma,Southwest,Cleveland County,6,40,27,29-May-13 17:42:00,CST-6,0,0,0,0,40.00K,EF1,0.1,10,35.19,-97.45
+Oklahoma,Southwest,Beckham County,6,40,9,29-May-13 18:21:00,CST-6,0,0,0,0,0.00K,EF0,0.75,150,35.03,-99.88
+Oklahoma,Southwest,Payne County,6,40,119,30-May-13 14:08:00,CST-6,0,0,0,0,0.00K,EF0,0.26,100,35.96,-97.04
+Oklahoma,Southwest,Payne County,6,40,119,30-May-13 14:15:00,CST-6,0,0,0,0,0.00K,EF0,0.71,100,35.98,-96.94
+Oklahoma,Southwest,Payne County,6,40,119,30-May-13 14:26:00,CST-6,0,0,0,0,0.00K,EF0,1.64,200,36.01,-96.88
+Oklahoma,Southwest,Mccurtain County,6,40,89,30-May-13 14:35:00,CST-6,0,0,0,0,10.00K,EF1,3.4,330,34.37,-94.5
+Oklahoma,Southwest,Payne County,6,40,119,30-May-13 14:37:00,CST-6,0,0,0,0,0.00K,EF0,0.37,50,36.03,-96.79
+Oklahoma,Southwest,Creek County,6,40,37,30-May-13 15:01:00,CST-6,0,0,0,0,0.00K,EF0,0.1,50,36.13,-96.6
+Oklahoma,Southwest,Garvin County,6,40,49,30-May-13 16:58:00,CST-6,0,0,0,0,0.00K,EF0,0.41,200,34.56,-97.5
+Oklahoma,Southwest,Mayes County,6,40,97,30-May-13 17:49:00,CST-6,0,0,0,0,0.00K,EF0,0.1,50,36.08,-95.42
+Oklahoma,Southwest,Mayes County,6,40,97,30-May-13 17:54:00,CST-6,0,0,0,0,0.00K,EF0,0.1,50,36.09,-95.4
+Oklahoma,Southwest,Mayes County,6,40,97,30-May-13 18:08:00,CST-6,0,0,0,0,0.00K,EF0,0.6,100,36.1,-95.37
+Oklahoma,Southwest,Mayes County,6,40,97,30-May-13 18:24:00,CST-6,0,0,0,0,0.00K,EF1,2.1,200,36.12,-95.23
+Oklahoma,Southwest,Tulsa County,6,40,143,30-May-13 19:40:00,CST-6,0,0,0,0,50.00K,EF1,0.6,220,36.02,-95.77
+Oklahoma,Southwest,Wagoner County,6,40,145,30-May-13 19:41:00,CST-6,0,0,0,0,3.00M,EF2,5,450,36.03,-95.76
+Oklahoma,Southwest,Kingfisher County,6,40,73,31-May-13 16:35:00,CST-6,0,0,0,0,0.00K,EF0,1,50,35.88,-98.19
+Oklahoma,Southwest,Canadian County,6,40,17,31-May-13 16:55:00,CST-6,0,0,0,0,1.00K,EF0,0.35,30,35.5,-98.12
+Oklahoma,Southwest,Canadian County,6,40,17,31-May-13 17:03:00,CST-6,26,0,8,0,300.00K,EF3,16.2,4576,35.48,-98.1
+Oklahoma,Southwest,Canadian County,6,40,17,31-May-13 17:12:00,CST-6,0,0,0,0,0.00K,EF0,0.5,120,35.44,-98
+Oklahoma,Southwest,Canadian County,6,40,17,31-May-13 17:13:00,CST-6,0,0,0,0,0.00K,EF0,0.5,350,35.46,-98.01
+Oklahoma,Southwest,Osage County,6,40,113,31-May-13 17:18:00,CST-6,0,0,0,0,0.00K,EF0,0.1,50,36.95,-96.07
+Oklahoma,Southwest,Canadian County,6,40,17,31-May-13 17:29:00,CST-6,1,0,0,0,20.00K,EF2,5,150,35.49,-97.85
+Oklahoma,Southwest,Osage County,6,40,113,31-May-13 17:30:00,CST-6,0,0,0,0,2.00K,EF1,2.5,200,36.62,-96.6
+Oklahoma,Southwest,Washington County,6,40,147,31-May-13 17:38:00,CST-6,0,0,0,0,5.00K,EF1,1.2,200,36.96,-95.83
+Oklahoma,Southwest,Canadian County,6,40,17,31-May-13 17:51:00,CST-6,0,0,0,0,50.00K,EF0,1.61,500,35.45,-97.7
+Oklahoma,Southwest,Oklahoma County,6,40,109,31-May-13 17:54:00,CST-6,0,0,0,0,100.00K,EF1,4.1,600,35.45,-97.67
+Oklahoma,Southwest,Canadian County,6,40,17,31-May-13 17:55:00,CST-6,0,0,0,0,0.00K,EF0,0.47,50,35.44,-97.96
+Oklahoma,Southwest,Nowata County,6,40,105,31-May-13 18:21:00,CST-6,0,0,0,0,0.00K,EF0,1.1,310,36.99,-95.43
+Oklahoma,Southwest,Oklahoma County,6,40,109,31-May-13 18:35:00,CST-6,0,0,0,0,20.00K,EF0,0.5,200,35.41,-97.46
+Oklahoma,Southwest,Cleveland County,6,40,27,31-May-13 18:42:00,CST-6,0,0,0,0,100.00K,EF1,1,100,35.34,-97.61
+Oklahoma,Southwest,Grady County,6,40,51,31-May-13 18:45:00,CST-6,0,0,0,0,0.00K,EF0,0.2,50,35.32,-97.8
+Oklahoma,Southwest,Oklahoma County,6,40,109,31-May-13 18:53:00,CST-6,8,0,0,0,80.00K,EF1,1.13,300,35.41,-97.55
+Oklahoma,Southwest,Rogers County,6,40,131,31-May-13 19:21:00,CST-6,0,0,0,0,0.00K,EF1,2.8,320,36.59,-95.73
+Oklahoma,Southwest,Nowata County,6,40,105,31-May-13 19:25:00,CST-6,0,0,0,0,0.00K,EF1,0.7,320,36.6,-95.69
+Oklahoma,Southwest,Rogers County,6,40,131,31-May-13 19:27:00,CST-6,0,0,0,0,0.00K,EF1,0.2,240,36.6,-95.68
+Oklahoma,Southwest,Nowata County,6,40,105,31-May-13 19:28:00,CST-6,2,0,0,0,75.00K,EF1,4.6,350,36.6,-95.67
+Oklahoma,Southwest,Delaware County,6,40,41,31-May-13 22:23:00,CST-6,0,0,0,0,0.00K,EF1,1.8,500,36.54,-94.82
+Oklahoma,Southwest,Wagoner County,6,40,145,23-Jul-13 23:06:00,CST-6,0,0,0,0,180.00K,EF1,3.5,850,35.96,-95.42
+Oklahoma,Southwest,Marshall County,6,40,95,26-Jul-13 14:25:00,CST-6,0,0,0,0,0.00K,EF0,0.1,10,33.94,-96.73
+Oklahoma,Southwest,Beaver County,6,40,7,07-Aug-13 18:36:00,CST-6,0,0,0,0,0.00K,EF0,0.11,25,36.85,-100.94
+Texas,Southwest,Wood County,6,48,499,29-Jan-13 18:15:00,CST-6,0,0,0,0,5.00K,EF0,0.19,325,32.7,-95.55
+Texas,Southwest,Polk County,6,48,373,10-Feb-13 09:15:00,CST-6,1,0,0,0,50.00K,EF0,0.51,30,30.71,-94.87
+Texas,Southwest,San Jacinto County,6,48,407,18-Feb-13 14:03:00,CST-6,0,0,0,0,150.00K,EF1,0.57,30,30.49,-94.95
+Texas,Southwest,Rusk County,6,48,401,18-Feb-13 17:13:00,CST-6,0,0,0,0,0.00K,EF0,0.73,30,32.31,-94.8
+Texas,Southwest,Rusk County,6,48,401,18-Feb-13 17:18:00,CST-6,0,0,0,0,0.00K,EF0,0.01,20,32.32,-94.73
+Texas,Southwest,Rusk County,6,48,401,18-Feb-13 17:27:00,CST-6,0,0,0,0,0.00K,EF0,1.23,15,32.02,-94.92
+Texas,Southwest,Rusk County,6,48,401,18-Feb-13 17:27:00,CST-6,0,0,0,0,0.00K,EF0,1.55,30,32.3,-94.66
+Texas,Southwest,Rusk County,6,48,401,18-Feb-13 17:48:00,CST-6,0,0,0,0,30.00K,EF1,1.97,60,31.97,-94.76
+Texas,Southwest,Panola County,6,48,365,18-Feb-13 17:57:00,CST-6,0,0,0,0,0.00K,EF0,1.2,50,32.3,-94.42
+Texas,Southwest,Rusk County,6,48,401,18-Feb-13 18:01:00,CST-6,0,0,0,0,0.00K,EF0,0.01,10,31.96,-94.66
+Texas,Southwest,Panola County,6,48,365,18-Feb-13 18:05:00,CST-6,0,0,0,0,0.00K,EF0,0.81,30,32.28,-94.35
+Texas,Southwest,Rusk County,6,48,401,18-Feb-13 18:12:00,CST-6,0,0,0,0,5.00K,EF0,0.01,20,31.93,-94.59
+Texas,Southwest,Panola County,6,48,365,18-Feb-13 18:13:00,CST-6,0,0,0,0,0.00K,EF0,0.01,10,32.29,-94.28
+Texas,Southwest,Rusk County,6,48,401,18-Feb-13 18:19:00,CST-6,0,0,0,0,10.00K,EF1,0.01,20,31.92,-94.53
+Texas,Southwest,Panola County,6,48,365,18-Feb-13 18:19:00,CST-6,0,0,0,0,0.00K,EF0,0.01,20,32.26,-94.23
+Texas,Southwest,Shelby County,6,48,419,18-Feb-13 18:37:00,CST-6,0,0,0,0,0.00K,EF0,0.01,10,31.91,-94.4
+Texas,Southwest,Sabine County,6,48,403,21-Feb-13 13:10:00,CST-6,2,0,1,0,250.00K,EF1,4.47,150,31.32,-93.98
+Texas,Southwest,Briscoe County,6,48,45,01-Apr-13 15:40:00,CST-6,0,0,0,0,5.00K,EF1,1.84,100,34.43,-101.22
+Texas,Southwest,Brewster County,6,48,43,13-Apr-13 14:30:00,CST-6,0,0,0,0,,EF0,2.61,300,30.3,-103.78
+Texas,Southwest,Wilbarger County,6,48,487,17-Apr-13 19:03:00,CST-6,0,0,0,0,5.00K,EF0,1.03,100,34.17,-98.98
+Texas,Southwest,Wilbarger County,6,48,487,17-Apr-13 19:11:00,CST-6,0,0,0,0,0.00K,EF0,0.16,100,34.2,-98.97
+Texas,Southwest,San Patricio County,6,48,409,29-Apr-13 12:01:00,CST-6,0,0,0,0,0.00K,EF0,1.66,20,28.04,-97.38
+Texas,Southwest,San Patricio County,6,48,409,29-Apr-13 12:26:00,CST-6,0,0,0,0,0.00K,EF0,0.1,10,28.1,-97.38
+Texas,Southwest,Refugio County,6,48,391,29-Apr-13 12:56:00,CST-6,0,0,0,0,0.00K,EF0,0.22,10,28.42,-97.13
+Texas,Southwest,Lubbock County,6,48,303,30-Apr-13 16:18:00,CST-6,0,0,0,0,0.00K,EF0,0.12,10,33.45,-101.86
+Texas,Southwest,Stonewall County,6,48,433,08-May-13 16:55:00,CST-6,0,0,0,0,0.00K,EF0,0.01,40,,
+Texas,Southwest,Montague County,6,48,337,15-May-13 16:33:00,CST-6,0,0,0,0,30.00K,EF0,1.11,70,33.81,-97.88
+Texas,Southwest,Mills County,6,48,333,15-May-13 17:14:00,CST-6,0,0,0,0,0.00K,EF0,3.42,50,31.66,-98.58
+Texas,Southwest,Palo Pinto County,6,48,363,15-May-13 17:41:00,CST-6,0,0,0,0,0.00K,EF0,0.3,50,32.77,-98.07
+Texas,Southwest,Montague County,6,48,337,15-May-13 17:50:00,CST-6,1,0,0,0,100.00K,EF1,1.01,200,33.84,-97.68
+Texas,Southwest,Montague County,6,48,337,15-May-13 17:51:00,CST-6,0,0,0,0,125.00K,EF1,3.63,240,33.43,-97.89
+Texas,Southwest,Parker County,6,48,367,15-May-13 18:03:00,CST-6,0,0,0,0,60.00K,EF1,1.95,400,32.75,-98.03
+Texas,Southwest,Montague County,6,48,337,15-May-13 18:18:00,CST-6,0,0,0,0,40.00K,EF0,0.94,150,33.84,-97.59
+Texas,Southwest,Parker County,6,48,367,15-May-13 18:22:00,CST-6,0,0,0,0,0.00K,EF0,0.49,70,32.72,-97.94
+Texas,Southwest,Wise County,6,48,497,15-May-13 18:35:00,CST-6,0,0,0,0,0.00K,EF0,0.69,25,33.41,-97.67
+Texas,Southwest,Parker County,6,48,367,15-May-13 18:53:00,CST-6,0,0,0,0,40.00K,EF0,1.46,200,32.64,-97.81
+Texas,Southwest,Hood County,6,48,221,15-May-13 18:58:00,CST-6,54,0,6,0,143.00M,EF4,2.5,400,32.41,-97.75
+Texas,Southwest,Parker County,6,48,367,15-May-13 19:05:00,CST-6,0,0,0,0,20.00K,EF0,0.12,20,32.57,-97.67
+Texas,Southwest,Hood County,6,48,221,15-May-13 19:09:00,CST-6,0,0,0,0,100.00K,EF0,1.02,300,32.36,-97.63
+Texas,Southwest,Johnson County,6,48,251,15-May-13 19:11:00,CST-6,0,0,0,0,260.00K,EF1,1.42,300,32.35,-97.62
+Texas,Southwest,Johnson County,6,48,251,15-May-13 19:19:00,CST-6,0,0,0,0,10.00K,EF0,0.19,30,32.55,-97.66
+Texas,Southwest,Hamilton County,6,48,193,15-May-13 19:34:00,CST-6,0,0,0,0,0.00K,EF0,0.21,30,31.51,-98.14
+Texas,Southwest,Hamilton County,6,48,193,15-May-13 19:35:00,CST-6,0,0,0,0,0.00K,EF0,1.04,40,31.5,-98.14
+Texas,Southwest,Johnson County,6,48,251,15-May-13 20:12:00,CST-6,7,0,0,0,124.00M,EF3,7.79,1733,32.26,-97.5
+Texas,Southwest,Johnson County,6,48,251,15-May-13 20:45:00,CST-6,0,0,0,0,0.00K,EF0,1.28,400,32.31,-97.3
+Texas,Southwest,Ellis County,6,48,139,15-May-13 23:05:00,CST-6,1,0,0,0,650.00K,EF1,6.17,400,32.33,-96.63
+Texas,Southwest,Harrison County,6,48,203,16-May-13 13:20:00,CST-6,1,0,0,0,100.00K,EF1,1.43,500,32.49,-94.15
+Texas,Southwest,Harrison County,6,48,203,16-May-13 13:34:00,CST-6,0,0,0,0,50.00K,EF1,0.42,200,32.46,-94.06
+Texas,Southwest,Young County,6,48,503,17-May-13 18:34:00,CST-6,0,0,0,0,0.00K,EF0,1.02,75,32.99,-98.81
+Texas,Southwest,Young County,6,48,503,17-May-13 18:50:00,CST-6,0,0,0,0,80.00K,EF1,3.14,20,33,-98.78
+Texas,Southwest,Brown County,6,48,49,20-May-13 15:35:00,CST-6,0,0,0,0,0.00K,EF0,1.17,50,31.86,-99.01
+Texas,Southwest,Montague County,6,48,337,20-May-13 16:41:00,CST-6,0,0,0,0,0.00K,EF0,0.92,50,33.8,-97.93
+Texas,Southwest,Brown County,6,48,49,20-May-13 16:41:00,CST-6,0,0,0,0,100.00K,EF1,3.65,350,31.83,-98.79
+Texas,Southwest,Brown County,6,48,49,20-May-13 17:00:00,CST-6,0,0,0,0,0.00K,EF0,0.2,50,31.73,-98.78
+Texas,Southwest,Mills County,6,48,333,20-May-13 18:25:00,CST-6,0,0,0,0,0.00K,EF0,1.08,100,31.68,-98.48
+Texas,Southwest,Floyd County,6,48,153,23-May-13 12:53:00,CST-6,0,0,0,0,0.00K,EF0,0.01,30,,
+Texas,Southwest,Floyd County,6,48,153,23-May-13 13:22:00,CST-6,0,0,0,0,0.00K,EF0,0.01,30,,
+Texas,Southwest,Floyd County,6,48,153,23-May-13 13:30:00,CST-6,0,0,0,0,0.00K,EF0,0.67,50,,
+Texas,Southwest,Dickens County,6,48,125,23-May-13 15:15:00,CST-6,0,0,0,0,0.00K,EF1,1.94,300,,
+Texas,Southwest,Fisher County,6,48,151,23-May-13 17:12:00,CST-6,0,0,0,0,100.00K,EF0,1,175,32.86,-100.45
+Texas,Southwest,Wilson County,6,48,493,25-May-13 02:45:00,CST-6,0,0,0,0,25.00K,EF0,0.3,50,29.34,-98.12
+Texas,Southwest,Bexar County,6,48,29,25-May-13 04:25:00,CST-6,0,0,0,0,100.00K,EF0,0.4,100,29.55,-98.35
+Texas,Southwest,Victoria County,6,48,469,25-May-13 12:47:00,CST-6,0,0,0,0,0.00K,EF0,1.25,25,28.87,-96.98
+Texas,Southwest,Deaf Smith County,6,48,117,28-May-13 17:45:00,CST-6,0,0,0,0,0.00K,EF0,2.14,75,34.79,-102.96
+Texas,Southwest,Deaf Smith County,6,48,117,28-May-13 20:06:00,CST-6,0,0,0,0,0.00K,EF0,2.06,150,34.99,-102.92
+Texas,Southwest,Briscoe County,6,48,45,29-May-13 14:30:00,CST-6,0,0,0,0,5.00K,EF0,0.68,50,,
+Texas,Southwest,Hall County,6,48,191,29-May-13 14:44:00,CST-6,0,0,0,0,0.00K,EF0,0.56,50,,
+Texas,Southwest,Nueces County,6,48,355,02-Jun-13 09:50:00,CST-6,0,0,0,0,0.00K,EF0,0.21,10,27.68,-97.53
+Texas,Southwest,Uvalde County,6,48,463,14-Jun-13 08:50:00,CST-6,0,0,0,0,25.00K,EF0,1.9,50,29.33,-99.73
+Texas,Southwest,Hockley County,6,48,219,19-Jun-13 16:32:00,CST-6,0,0,0,0,50.00K,EF2,5.2,350,33.48,-102.56
+Texas,Southwest,Lubbock County,6,48,303,01-Aug-13 15:42:00,CST-6,0,0,0,0,0.00K,EF0,0.74,25,,
+Texas,Southwest,Lubbock County,6,48,303,01-Aug-13 15:46:00,CST-6,0,0,0,0,0.00K,EF0,0.43,25,,
+Texas,Southwest,Lubbock County,6,48,303,07-Aug-13 15:48:00,CST-6,0,0,0,0,0.00K,EF0,0.01,10,,
+Texas,Southwest,Sherman County,6,48,421,14-Aug-13 16:45:00,CST-6,0,0,0,0,0.00K,EF0,1,50,36.34,-101.82
+Texas,Southwest,Hutchinson County,6,48,233,14-Aug-13 17:40:00,CST-6,0,0,0,0,0.00K,EF0,0.11,40,35.95,-101.57
+Texas,Southwest,Hale County,6,48,189,14-Aug-13 21:58:00,CST-6,0,0,0,0,250.00K,EF0,0.07,25,,
+Texas,Southwest,Denton County,6,48,121,12-Oct-13 13:35:00,CST-6,0,0,0,0,0.00K,EF0,0.01,20,33.36,-97.1
+Texas,Southwest,Kleberg County,6,48,273,18-Oct-13 17:51:00,CST-6,0,0,0,0,0.00K,EF0,0.2,25,27.54,-97.77
+Texas,Southwest,Kleberg County,6,48,273,21-Oct-13 16:08:00,CST-6,0,0,0,0,0.00K,EF0,0.18,25,27.43,-97.8
+Texas,Southwest,Jasper County,6,48,241,31-Oct-13 06:00:00,CST-6,0,0,0,0,50.00K,EF1,1.26,50,30.84,-93.98
+Texas,Southwest,Orange County,6,48,361,31-Oct-13 08:39:00,CST-6,0,0,0,0,100.00K,EF1,5.93,200,30.04,-93.87
+Texas,Southwest,Tyler County,6,48,457,21-Dec-13 13:58:00,CST-6,0,0,0,0,20.00K,EF1,0.87,25,30.74,-94.5
+Texas,Southwest,Tyler County,6,48,457,21-Dec-13 14:22:00,CST-6,0,0,0,0,75.00K,EF1,1.48,25,30.79,-94.2
+Texas,Southwest,Jasper County,6,48,241,21-Dec-13 14:50:00,CST-6,0,0,0,0,40.00K,EF1,0.4,25,30.7,-94.02
+Colorado,Rocky Mountains,Kit Carson County,7,8,63,08-Apr-13 17:17:00,MST-7,0,0,0,0,0.00K,EF0,0.1,10,39.57,-102.1
+Colorado,Rocky Mountains,Washington County,7,8,121,08-Apr-13 18:24:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,40.16,-103.4
+Colorado,Rocky Mountains,Washington County,7,8,121,08-Apr-13 18:42:00,MST-7,0,0,0,0,0.00K,EF0,0.2,50,39.96,-103.32
+Colorado,Rocky Mountains,Washington County,7,8,121,08-Apr-13 19:51:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,40.16,-103.36
+Colorado,Rocky Mountains,Prowers County,7,8,99,08-May-13 12:54:00,MST-7,0,0,0,0,0.00K,EF0,0.1,75,38.1,-102.43
+Colorado,Rocky Mountains,Alamosa County,7,8,3,20-May-13 15:53:00,MST-7,0,0,0,0,0.00K,EF0,0.1,75,37.68,-106.01
+Colorado,Rocky Mountains,Cheyenne County,7,8,17,27-May-13 14:38:00,MST-7,0,0,0,0,0.00K,EF0,0.25,50,38.94,-102.17
+Colorado,Rocky Mountains,Cheyenne County,7,8,17,27-May-13 14:49:00,MST-7,0,0,0,0,0.00K,EF0,0.25,50,38.94,-102.17
+Colorado,Rocky Mountains,Cheyenne County,7,8,17,27-May-13 15:37:00,MST-7,0,0,0,0,0.00K,EF0,0.25,50,38.92,-102.35
+Colorado,Rocky Mountains,Rio Blanco County,7,8,103,29-May-13 08:50:00,MST-7,0,0,0,0,0.00K,EF0,1,40,40.2,-108.33
+Colorado,Rocky Mountains,Otero County,7,8,89,04-Jun-13 16:13:00,MST-7,0,0,0,0,0.00K,EF0,2.19,100,37.69,-103.53
+Colorado,Rocky Mountains,Lincoln County,7,8,73,04-Jun-13 16:53:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,38.62,-103.58
+Colorado,Rocky Mountains,Washington County,7,8,121,13-Jun-13 16:53:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,39.92,-102.9
+Colorado,Rocky Mountains,Washington County,7,8,121,13-Jun-13 17:15:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,40.26,-103.21
+Colorado,Rocky Mountains,Washington County,7,8,121,13-Jun-13 17:32:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,40.36,-103.1
+Colorado,Rocky Mountains,Kit Carson County,7,8,63,17-Jun-13 15:49:00,MST-7,0,0,0,0,0.00K,EF0,0.25,50,39.16,-102.65
+Colorado,Rocky Mountains,Otero County,7,8,89,17-Jun-13 16:34:00,MST-7,0,0,0,0,0.00K,EF0,6.04,100,38.07,-103.53
+Colorado,Rocky Mountains,Denver County,7,8,31,18-Jun-13 13:21:00,MST-7,0,0,0,0,,EF1,2.4,75,39.83,-104.64
+Colorado,Rocky Mountains,Prowers County,7,8,99,25-Jul-13 13:20:00,MST-7,0,0,0,0,0.00K,EF0,1.09,100,37.67,-102.38
+Colorado,Rocky Mountains,Baca County,7,8,9,25-Jul-13 14:09:00,MST-7,0,0,0,0,0.00K,EF0,1.1,75,37.51,-102.3
+Colorado,Rocky Mountains,Morgan County,7,8,87,03-Aug-13 13:00:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,40.27,-103.79
+Colorado,Rocky Mountains,Washington County,7,8,121,03-Aug-13 14:37:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,39.61,-103.58
+Colorado,Rocky Mountains,Lincoln County,7,8,73,03-Aug-13 15:07:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,39.39,-103.5
+Colorado,Rocky Mountains,Weld County,7,8,123,03-Aug-13 15:17:00,MST-7,0,0,0,0,5.00K,EF0,0.1,50,40.48,-104.74
+Colorado,Rocky Mountains,Weld County,7,8,123,03-Aug-13 15:29:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,40.39,-104.83
+Colorado,Rocky Mountains,Weld County,7,8,123,03-Aug-13 16:24:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,40.14,-104.55
+Colorado,Rocky Mountains,Weld County,7,8,123,03-Aug-13 16:40:00,MST-7,0,0,0,0,0.00K,EF0,0.1,50,40.05,-105.05
+Idaho,Rocky Mountains,Jefferson County,7,16,51,07-May-13 15:10:00,MST-7,0,0,0,0,0.00K,EF0,1.17,5,43.9,-112.49
+Idaho,Rocky Mountains,Jerome County,7,16,53,08-May-13 16:20:00,MST-7,0,0,0,0,0.00K,EF0,1,20,42.8,-114.41
+Idaho,Rocky Mountains,Elmore County,7,16,39,26-May-13 13:10:00,MST-7,0,0,0,0,0.00K,EF0,3.92,50,43.19,-115.88
+Idaho,Rocky Mountains,Bear Lake County,7,16,7,07-Jul-13 18:30:00,MST-7,0,0,0,0,0.00K,EF0,1,10,42.23,-111.32
+Idaho,Rocky Mountains,Fremont County,7,16,43,17-Sep-13 13:45:00,MST-7,0,0,0,0,0.00K,EF0,0.5,10,,
+Idaho,Rocky Mountains,Clark County,7,16,33,17-Sep-13 13:47:00,MST-7,0,0,0,0,0.00K,EF0,0.5,10,,
+Montana,Rocky Mountains,Fallon County,7,30,25,03-Jun-13 15:00:00,MST-7,0,0,0,0,0.00K,EF0,1,50,46.5,-104.19
+Montana,Rocky Mountains,Musselshell County,7,30,65,08-Jul-13 15:48:00,MST-7,0,0,0,0,0.00K,EF0,0.5,50,46.61,-107.87
+Montana,Rocky Mountains,Custer County,7,30,17,08-Jul-13 17:54:00,MST-7,0,0,0,0,0.00K,EF1,0.57,100,46.24,-105.76
+Montana,Rocky Mountains,Roosevelt County,7,30,85,15-Jul-13 14:45:00,MST-7,0,0,0,0,500.00K,EF2,22.99,440,48.35,-105.61
+Montana,Rocky Mountains,Powder River County,7,30,75,03-Aug-13 18:15:00,MST-7,0,0,0,0,,EF0,1,100,45.44,-105.6
+Montana,Rocky Mountains,Flathead County,7,30,29,04-Nov-13 07:42:00,MST-7,0,0,0,0,0.00K,EF0,0.75,200,47.97,-114.07
+Utah,Rocky Mountains,Utah County,7,49,49,07-Sep-13 15:40:00,MST-7,0,0,0,0,10.00K,EF0,0.1,3,,
+Wyoming,Rocky Mountains,Park County,7,56,29,27-May-13 10:00:00,MST-7,0,0,0,0,0.00K,EF0,6.27,20,44.33,-108.83
+Wyoming,Rocky Mountains,Platte County,7,56,31,22-Jun-13 12:58:00,MST-7,0,0,0,0,0.00K,EF0,0.37,30,41.98,-104.97
+Wyoming,Rocky Mountains,Natrona County,7,56,25,22-Jun-13 13:06:00,MST-7,0,0,0,0,0.00K,EF0,0.08,20,42.96,-106.09
+Wyoming,Rocky Mountains,Goshen County,7,56,15,22-Jun-13 14:54:00,MST-7,0,0,0,0,0.00K,EF0,0.39,30,41.85,-104.51
+Wyoming,Rocky Mountains,Goshen County,7,56,15,22-Jun-13 15:30:00,MST-7,0,0,0,0,0.00K,EF0,4.25,40,41.72,-104.17
+Wyoming,Rocky Mountains,Laramie County,7,56,21,29-Jul-13 17:03:00,MST-7,0,0,0,0,0.00K,EF0,1.25,50,41.27,-105.05
+Wyoming,Rocky Mountains,Natrona County,7,56,25,12-Aug-13 12:30:00,MST-7,0,0,0,0,0.00K,EF0,0.09,10,42.55,-106.77
+Wyoming,Rocky Mountains,Sweetwater County,7,56,37,15-Sep-13 16:11:00,MST-7,0,0,0,0,0.00K,EF0,0.05,30,,
+California,Far West,Tehama County,8,6,103,19-Feb-13 13:28:00,PST-8,0,0,0,0,20.00K,EF0,0.5,50,40.05,-122.14
+California,Far West,Colusa County,8,6,11,19-Feb-13 14:00:00,PST-8,0,0,0,0,0.00K,EF0,0.26,50,39.24,-122.26
+California,Far West,Tehama County,8,6,103,04-Apr-13 17:59:00,PST-8,0,0,0,0,0.00K,EF0,0.82,50,40.15,-122.22
+California,Far West,Kern County,8,6,29,06-May-13 18:10:00,PST-8,0,0,0,0,0.00K,EF0,0.44,15,35.38,-119.05
+California,Far West,San Bernardino County,8,6,71,18-Aug-13 13:00:00,PST-8,0,0,0,0,0.00K,EF0,1.02,3,,
+Oregon,Far West,Wallowa County,8,41,63,09-May-13 14:30:00,PST-8,0,0,0,0,0.00K,EF0,0.1,10,45.52,-117.37
+Oregon,Far West,Yamhill County,8,41,71,13-Jun-13 16:32:00,PST-8,0,0,0,0,0.00K,EF1,0.25,53,45.22,-123.19
+Oregon,Far West,Douglas County,8,41,19,18-Jun-13 14:30:00,PST-8,0,0,0,0,1.00K,EF0,0.1,10,43.28,-123.42
+Washington,Far West,Clark County,8,53,11,21-Mar-13 16:00:00,PST-8,0,0,0,0,10.00K,EF0,0.01,10,45.75,-122.45
+Washington,Far West,Pierce County,8,53,53,30-Sep-13 06:20:00,PST-8,0,0,0,0,25.00K,EF1,1,75,,

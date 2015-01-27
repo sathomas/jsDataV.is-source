@@ -1,0 +1,397 @@
+[
+  {
+    "artist": "Miles Davis",
+    "title": "Kind of Blue",
+    "itunes": "https://itunes.apple.com/us/album/kind-of-blue-legacy-edition/id300865074",
+    "cover": "http://a4.mzstatic.com/us/r30/Features/v4/7b/f1/43/7bf14346-8e9d-e243-16e1-81f7377699a7/dj.aacpwrsd.170x170-75.jpg",
+    "color": "#47738C",
+    "text": "#0A0606",
+    "musicians": [
+      "Cannonball Adderley",
+      "Paul Chambers",
+      "Jimmy Cobb",
+      "John Coltrane",
+      "Miles Davis",
+      "Bill Evans"
+    ]
+  },{
+    "artist": "John Coltrane",
+    "title": "A Love Supreme",
+    "itunes": "https://itunes.apple.com/us/album/a-love-supreme-deluxe-edition/id3269858",
+    "cover": "http://a5.mzstatic.com/us/r30/Features/v4/b3/67/bf/b367bf8e-4380-e566-de28-2c2bc69ef8ed/V4HttpAssetRepositoryClient-ticket.kvpiloem.jpg-2481435390037859980.170x170-75.jpg",
+    "color": "#747C7B",
+    "text": "#343437",
+    "musicians": [
+      "John Coltrane",
+      "Jimmy Garrison",
+      "Elvin Jones",
+      "McCoy Tyner"
+    ]
+  },{
+    "artist": "The Dave Brubeck Quartet",
+    "title": "Time Out",
+    "itunes": "https://itunes.apple.com/us/album/time-out-50th-anniversary/id316475425",
+    "cover": "http://a5.mzstatic.com/us/r30/Music/fc/10/e4/mzi.nxyspvyl.170x170-75.jpg",
+    "color": "#42578E",
+    "text": "#D57130",
+    "musicians": [
+      "Dave Brubeck",
+      "Paul Desmond",
+      "Joe Morello",
+      "Eugene Write"
+    ]
+  },{
+    "artist": "Duke Ellington",
+    "title": "Ellington at Newport",
+    "itunes": "https://itunes.apple.com/us/album/ellington-at-newport-1956/id214466665",
+    "cover": "http://a2.mzstatic.com/us/r30/Features/e5/43/3b/dj.kzeqdddm.170x170-75.jpg",
+    "color": "#D06B2F",
+    "text": "#2F4051",
+    "musicians": [
+      "Harry Carney",
+      "John Willie Cook",
+      "Duke Ellington",
+      "Paul Gonsalves",
+      "Jimmy Grissom",
+      "Jimmy Hamilton",
+      "Johnny Hodges",
+      "Quentin Jackson",
+      "William Anderson",
+      "Ray Nance",
+      "Russell Procope",
+      "John Sanders",
+      "Clark Terry",
+      "James Woode",
+      "Britt Woodman",
+      "Sam Woodyar"
+    ]
+  },{
+    "artist": "The Quintet",
+    "title": "Jazz at Massey Hall",
+    "itunes": "https://itunes.apple.com/us/album/quintet-jazz-at-massey-hall/id152035858",
+    "cover": "http://a5.mzstatic.com/us/r30/Features/e7/f0/51/dj.suakypmw.170x170-75.jpg",
+    "color": "#B03239",
+    "text": "#191A18",
+    "musicians": [
+      "Dizzy Gillespie",
+      "Charles Mingus",
+      "Charlie Parker",
+      "Bud Powell",
+      "Max Roach"
+    ]
+  },{
+    "artist": "Louis Armstrong",
+    "title": "The Best of the Hot Five and Hot Seven Recordings",
+    "itunes": "https://itunes.apple.com/us/album/best-hot-5-hot-7-recordings/id201274363",
+    "cover": "http://a2.mzstatic.com/us/r30/Music/54/10/9d/mzi.tzqujtgu.170x170-75.jpg",
+    "color": "#B08865",
+    "text": "#483830",
+    "musicians": [
+      "Lil Hardin Armstrong",
+      "Louis Armstrong",
+      "Clarence Babcock",
+      "Pete Briggs",
+      "Mancy Carr",
+      "Baby Dodds",
+      "Johnny Dodds",
+      "Earl Hines",
+      "Kid Ory",
+      "Don Redman",
+      "Fred Robinson",
+      "Zutty Singleton",
+      "Johnny St. Cyr",
+      "Jimmy Strong",
+      "John Thomas",
+      "Dave Wilborn"
+    ]
+  },{
+    "artist": "John Coltrane",
+    "title": "Blue Trane",
+    "itunes": "https://itunes.apple.com/us/album/blue-train-bonus-track-version/id724748588",
+    "cover": "http://a5.mzstatic.com/us/r30/Music4/v4/4f/fe/d8/4ffed84e-8865-22b9-7a8e-ac1eaa07a542/00724359692456.170x170-75.jpg",
+    "color": "#0C7F90",
+    "text": "#041E1F",
+    "musicians": [
+      "Paul Chambers",
+      "John Coltrane",
+      "Kenny Drew",
+      "Curtis Fuller",
+      "Philly Joe Jones",
+      "Lee Morgan"
+    ]
+  },{
+    "artist": "Stan Getz and João Gilberto",
+    "title": "Getz/Gilberto",
+    "itunes": "https://itunes.apple.com/us/album/getz-gilberto/id485540980",
+    "cover": "http://a3.mzstatic.com/us/r30/Features/b2/47/50/dj.qizgqbsb.170x170-75.jpg",
+    "color": "#ED8C42",
+    "text": "#24231B",
+    "musicians": [
+      "Milton Banana",
+      "Stan Getz",
+      "Astrud Gilberto",
+      "João Gilberto",
+      "Antonio Carlos Jobim",
+      "Sebastião Neto"
+    ]
+  },{
+    "artist": "Charles Mingus",
+    "title": "Mingus Ah Um",
+    "itunes": "https://itunes.apple.com/us/album/mingus-ah-um-legacy-edition/id316476217",
+    "cover": "http://a2.mzstatic.com/us/r30/Music/85/f3/ef/mzi.lugdrvxc.170x170-75.jpg",
+    "color": "#B07B89",
+    "text": "#28282C",
+    "musicians": [
+      "Willie Dennis",
+      "Booker Ervin",
+      "Shafi Hadi",
+      "John Handy",
+      "Jimmy Knepper",
+      "Charles Mingus",
+      "Horace Parlan",
+      "Dannie Richmond"
+    ]
+  },{
+    "artist": "Erroll Garner",
+    "title": "Concert by the Sea",
+    "itunes": "https://itunes.apple.com/us/album/concert-by-the-sea/id192787263",
+    "cover": "http://a4.mzstatic.com/us/r30/Music/38/50/49/mzi.trcydnrm.170x170-75.jpg",
+    "color": "#6B548B",
+    "text": "#2A231F",
+    "musicians": [
+     "Denzil Best",
+      "Eddie Calhoun",
+      "Erroll Garner"
+    ]
+  },{
+    "artist": "Miles Davis",
+    "title": "Bitches Brew",
+    "itunes": "https://itunes.apple.com/us/album/bitches-brew-legacy-edition/id387785709",
+    "cover": "http://a5.mzstatic.com/us/r30/Features/v4/2c/a0/0c/2ca00caf-3889-59a9-c927-86011f9e8aab/dj.ibkxnerg.170x170-75.jpg",
+    "color": "#649B9E",
+    "text": "#212B30",
+    "musicians": [
+      "Don Alias",
+      "Harvey Brooks",
+      "Billy Cobham",
+      "Chick Corea",
+      "Miles Davis",
+      "Jack DeJohnette",
+      "Dave Holland",
+      "Bennie Maupin",
+      "John McLaughlin",
+      "Airto Moreira",
+      "Juma Santos",
+      "Wayne Shorter",
+      "Lenny White",
+      "Larry Young",
+      "Joe Zawinul"
+    ]
+  },{
+    "artist": "Sonny Rollings",
+    "title": "Saxophone Colossus",
+    "itunes": "https://itunes.apple.com/us/album/saxophone-colossus-reissue/id129952067",
+    "cover": "http://a5.mzstatic.com/us/r30/Features/9c/45/92/dj.lhsjunju.170x170-75.jpg",
+    "color": "#32ADF1",
+    "text": "#0D1D27",
+    "musicians": [
+      "Tommy Flanagan",
+      "Sonny Rollins",
+      "Max Roach",
+      "Doug Watkins"
+    ]
+  },{
+    "artist": "Art Blakey and The Jazz Messengers",
+    "title": "Moanin’",
+    "itunes": "https://itunes.apple.com/us/album/moanin-remastered/id725816184",
+    "cover": "http://a3.mzstatic.com/us/r30/Music/v4/a4/9e/d9/a49ed936-5c20-2e6b-fbc4-246006bdcbce/00724349532458.170x170-75.jpg",
+    "color": "#C3A550",
+    "text": "#161A11",
+    "musicians": [
+      "Art Blakey",
+      "Lee Morgan",
+      "Benny Golson",
+      "Bobby Timmons",
+      "Jymie Merritt"
+    ]
+  },{
+    "title": "Clifford Brown and Max Roach",
+    "itunes": "https://itunes.apple.com/us/album/clifford-brown-and-max-roach/id539526",
+    "cover": "http://a3.mzstatic.com/us/r30/Features/8f/65/0e/dj.wlajviuz.170x170-75.jpg",
+    "color": "#DB6C39",
+    "text": "#120C19",
+    "musicians": [
+      "Clifford Brown",
+      "Harold Land",
+      "George Morrow",
+      "Richie Powell",
+      "Max Roach"
+    ]
+  },{
+    "artist": "Thelonious Monk Quartet with John Coltrane",
+    "title": "At Carnegie Hall",
+    "itunes": "https://itunes.apple.com/us/album/at-carnegie-hall/id715742134",
+    "cover": "http://a3.mzstatic.com/us/r30/Music/v4/16/97/61/16976189-228e-5fb8-16e3-f2aa8ae09590/00094633517356.170x170-75.jpg",
+    "color": "#A2444C",
+    "text": "#49637B",
+    "musicians": [
+      "Ahmed Abdul-Malik",
+      "John Coltrane",
+      "Thelonious Monk",
+      "Shadow Wilson"
+    ]
+  },{
+    "artist": "Hank Mobley",
+    "title": "Soul Station",
+    "itunes":"https://itunes.apple.com/us/album/soul-station-remastered/id724903486",
+    "cover": "http://a3.mzstatic.com/us/r30/Music6/v4/ec/1b/a3/ec1ba39e-d279-8ead-f460-58206f973ebf/00724349534353.170x170-75.jpg",
+    "color": "#3D97C5",
+    "text": "#152D45",
+    "musicians": [
+      "Art Blakey",
+      "Paul Chambers",
+      "Wynton Kelly",
+      "Hank Mobley"
+    ]
+  },{
+    "artist": "Cannonball Adderly",
+    "title": "Somethin’ Else",
+    "itunes": "https://itunes.apple.com/us/album/somethin-else/id721271258",
+    "cover": "http://a5.mzstatic.com/us/r30/Music4/v4/2d/aa/d7/2daad774-8979-0bad-01d0-fd40936cded1/05099972196250.170x170-75.jpg",
+    "color": "#3C838D",
+    "text": "#020C09",
+    "musicians": [
+      "Cannonball Adderley",
+      "Art Blakey",
+      "Miles Davis",
+      "Hank Jones",
+      "Sam Jones"
+    ]
+  },{
+    "artist": "Wayne Shorter",
+    "title": "Speak No Evil",
+    "itunes": "https://itunes.apple.com/us/album/speak-no-evil/id721228463",
+    "cover": "http://a5.mzstatic.com/us/r30/Music4/v4/c6/bd/7f/c6bd7fd6-7693-7dd0-9740-cdb564455673/05099963651157.170x170-75.jpg",
+    "color": "#10507E",
+    "text": "#06111F",
+    "musicians": [
+      "Ron Carter",
+      "Herbie Hancock",
+      "Freddie Hubbard",
+      "Elvin Jones",
+      "Wayne Shorter"
+    ]
+  },{
+    "artist": "Miles Davis",
+    "title": "Birth of the Cool",
+    "itunes": "https://itunes.apple.com/nz/album/birth-of-the-cool-remastered/id724552390",
+    "cover": "http://a1.mzstatic.com/us/r30/Music/v4/c5/47/19/c5471971-aed3-b477-1340-e246068e2388/00724353011758.170x170-75.jpg",
+    "color": "#B23035",
+    "text": "#1E1A1E",
+    "musicians": [
+      "Bill Barber",
+      "Nelson Boyd",
+      "Kenny Clarke",
+      "Junior Collins",
+      "Miles Davis",
+      "Kenny Hagood",
+      "Al Haig",
+      "J. J. Johnson",
+      "Lee Konitz",
+      "John Lewis",
+      "Al McKibbon",
+      "Gerry Mulligan",
+      "Max Roach",
+      "Gunther Schuller",
+      "Joe Shulman",
+      "Sandy Siegelstein",
+      "Kai Winding"
+    ]
+  },{
+    "artist": "Herbie Hancock",
+    "title": "Maiden Voyage",
+    "itunes": "https://itunes.apple.com/us/album/maiden-voyage-remastered/id721271378",
+    "cover": "http://a4.mzstatic.com/us/r30/Music/v4/c6/d1/7e/c6d17eaf-9e4c-d4fc-6253-c0f21a202585/05099963651454.170x170-75.jpg",
+    "color": "#B4CA68",
+    "text": "#0F404D",
+    "musicians": [
+      "Ron Carter",
+      "George Coleman",
+      "Herbie Hancock",
+      "Freddie Hubbard",
+      "Tony Williams"
+    ]
+  },{
+    "artist": "Vince Guaraldi Trio",
+    "title": "A Boy Named Charlie Brown",
+    "itunes": "https://itunes.apple.com/us/album/a-boy-named-charlie-brown/id139986031",
+    "cover": "http://a4.mzstatic.com/us/r30/Features/bc/4e/6c/dj.ajuwwbjm.170x170-75.jpg",
+    "color": "#761826",
+    "text": "#322431",
+    "musicians": [
+      "Colin Bailey",
+      "Monty Budwig",
+      "Vince Guaraldi"
+    ]
+  },{
+    "artist": "Eric Dolphy",
+    "title": "Out to Lunch",
+    "itunes": "https://itunes.apple.com/us/album/out-to-lunch/id721218360",
+    "cover": "http://a2.mzstatic.com/us/r30/Music/v4/b2/84/55/b2845520-816f-4531-2ff9-75faa3f0473c/05099963652253.170x170-75.jpg",
+    "color": "#84C2DD",
+    "text": "#172F33",
+    "musicians": [
+      "Richard Davis",
+      "Eric Dolphy",
+      "Freddie Hubbard",
+      "Bobby Hutcherson",
+      "Tony Williams"
+    ]
+  },{
+    "artist": "Oliver Nelson",
+    "title": "The Blues and the Abstract Truth",
+    "itunes": "https://itunes.apple.com/us/album/blues-abstract-truth/id72075",
+    "cover": "http://a4.mzstatic.com/us/r30/Features/b6/bc/02/dj.ijqtqnth.170x170-75.jpg",
+    "color": "#C56A46",
+    "text": "#303969",
+    "musicians": [
+      "George Barrow",
+      "Paul Chambers",
+      "Eric Dolphy",
+      "Bill Evans",
+      "Roy Haynes",
+      "Freddie Hubbard",
+      "Oliver Nelson"
+    ]
+  },{
+    "artist": "Dexter Gordon",
+    "title": "Go",
+    "itunes": "https://itunes.apple.com/us/album/go/id721286755",
+    "cover": "http://a1.mzstatic.com/us/r30/Music4/v4/ad/42/18/ad4218a3-b877-2eca-c144-51908649b166/05099993409957.170x170-75.jpg",
+    "color": "#EF5437",
+    "text": "#31474D",
+    "musicians": [
+      "Sonny Clark",
+      "Dexter Gordon",
+      "Billy Higgins",
+      "Butch Warren"
+    ]
+  },{
+    "title": "Sarah Vaughan with Clifford Brown",
+    "itunes": "https://itunes.apple.com/ie/album/sarah-vaughan-clifford-brown/id81905225",
+    "cover": "http://a5.mzstatic.com/us/r30/Music/y2004/m06/d08/h09/s06.oyswffkb.170x170-75.jpg",
+    "color": "#29AFDD",
+    "text": "#203230",
+    "musicians": [
+      "Joe Benjamin",
+      "Clifford Brown",
+      "Roy Haynes",
+      "Jimmy Jones",
+      "John Malachi",
+      "Herbie Mann",
+      "Paul Quinichette",
+      "Sarah Vaughan",
+      "Ernie Wilkins"
+    ]
+  }
+]
