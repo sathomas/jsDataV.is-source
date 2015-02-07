@@ -1,0 +1,59 @@
+<!doctype html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Running</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <!-- build:css(.tmp) styles/main.css -->
+        <link rel="stylesheet" href="bower_components/leaflet/dist/leaflet.css">
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+        <!-- build:js scripts/vendor/modernizr.js -->
+        <script src="bower_components/modernizr/modernizr.js"></script>
+        <!-- endbuild -->
+    </head>
+    <body>
+        <!--[if lt IE 10]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            // (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            // function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            // e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            // e.src='//www.google-analytics.com/analytics.js';
+            // r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            // ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>
+
+        <!-- build:js scripts/vendor.js -->
+        <script src="bower_components/jquery/dist/jquery.js"></script>
+        <script src="bower_components/underscore/underscore.js"></script>
+        <script src="bower_components/backbone/backbone.js"></script>
+        <script src="bower_components/flot/jquery.flot.js"></script>
+        <script src="bower_components/leaflet/dist/leaflet-src.js"></script>
+        <script src="bower_components/momentjs/moment.js"></script>
+        <script src="bower_components/underscore.string/dist/underscore.string.js"></script>
+        <!-- endbuild -->
+
+        <script>_.mixin(s.exports());</script>
+
+        <!-- build:js({.tmp,app}) scripts/main.js -->
+        <script src="scripts/main.js"></script>
+        <script src="scripts/templates.js"></script>
+        <script src="scripts/models/run.js"></script>
+        <script src="scripts/collections/runs.js"></script>
+        <script src="scripts/views/summary.js"></script>
+        <script src="scripts/views/summaryRow.js"></script>
+        <script src="scripts/views/details.js"></script>
+        <script src="scripts/views/properties.js"></script>
+        <script src="scripts/views/charts.js"></script>
+        <script src="scripts/views/map.js"></script>
+        <script src="scripts/routes/app.js"></script>
+        <!-- endbuild -->
+</body>
+</html>

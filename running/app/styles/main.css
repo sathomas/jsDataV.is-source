@@ -1,0 +1,50 @@
+.charts-wrapper {
+    position: relative;
+    height: 400px;
+}
+.charts-marker {
+    position: absolute;
+    z-index: 1;
+    display: none;
+    width: 1px;
+    border-left: 1px #000 solid;
+}
+.charts-graphs {
+    float: left;
+}
+.charts-graphs figure {
+    padding: 0;
+    margin: 0;
+    width: 600px;
+    height: 100px;
+}
+.charts-graphs .flot-tick-label {
+    display:none;
+}
+.charts-graphs .x-axis {
+    width: 600px;
+    height: 15px;
+}
+.charts-graphs .x-axis .flot-tick-label {
+    display: block;
+}
+.charts-legend {
+    float: left;
+}
+.charts-legend p {
+    margin: 0 0 0 15px;
+    padding: 2px 0 2px 0;
+    font-size: 15px;
+    line-height: 15px;
+}
+.charts-legend p:first-child {
+    padding-top: 14px;
+}
+.charts-legend p:last-child {
+    padding-bottom: 14px;
+}
+
+#map {
+    height: 500px;
+    width: 800px;
+}

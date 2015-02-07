@@ -1,0 +1,15 @@
+{
+  "name": "running",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "lodash": "~2.4.1",
+    "backbone": "~1.1.0",
+    "modernizr": "~2.7.1",
+    "leaflet": "~0.7.3",
+    "flot": "~0.8.3",
+    "momentjs": "~2.9.0",
+    "underscore.string": "~3.0.2"
+  },
+  "devDependencies": {}
+}
